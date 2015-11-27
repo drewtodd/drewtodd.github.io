@@ -20,6 +20,13 @@ body {
     background-color: #eee;
 }
 
+/*global width*/
+
+#header header, #content, footer {
+    margin: 0 auto;
+    width: 80%;
+}
+
 h1, h2, h3, h4 {
         font-family: "Oswald", Helvetica, sans-serif;
         font-weight: 400;
@@ -116,11 +123,11 @@ h1 + blockquote {
 /*header styles*/
 
 #header {
+    overflow: hidden;
     width: 100%;
     background-color: #333;
     color: #eee;
     font-family: "Oswald", Helvetica, sans-serif;
-    height: 2em;
     margin: 0 auto;
     padding: 0;
 }
@@ -128,19 +135,14 @@ h1 + blockquote {
 #header h1 {
     margin: 0;
     padding: .5em;
-    font-size: 1em;
-    line-height: 1em;
+    font-size: 1.25em;
+    line-height: 1.25em;
     /*color: #f93;*/
 }
 
 #header h1 a {
     color: #eee;
     text-decoration: none;
-}
-
-#header header {
-    margin: 0 auto;
-    width: 80%;
 }
 
     /*navigation styles*/
@@ -153,7 +155,7 @@ h1 + blockquote {
 
     #navmain {
         margin: 0;
-        padding: 0;
+        padding: .5em;
         float: right;
     }
 
@@ -166,7 +168,7 @@ h1 + blockquote {
     #navmain li {
         float: left;
         padding: 0;
-        font-size: 1em;
+        font-size: 1.25em;
         font-weight: 300;
     }
 
@@ -178,7 +180,7 @@ h1 + blockquote {
         color: #ddd;
         padding-left: .6rem;
         padding-right: .6rem;
-        line-height: 2em;
+        line-height: 1.25em;
     }
 
     #navmain a:hover, #navmain a:active {
@@ -186,15 +188,38 @@ h1 + blockquote {
         text-decoration: underline;
     }
 
-#content {
-    margin: 0 auto;
-    width: 80%;
+.social {
+    margin-top: 2em;
+}
+
+.colophon {
+    margin-top: 2em;
+    font-family: "Oswald", Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 1em;
+    line-height: 1.25em;
+    color: #666;
+}
+
+footer {
+    margin-top: 4em;
+    font-size: .6em;
+    font-style: italic;
+    line-height: 1.25em;
+    color: #999;
 }
 
 @media only screen and (min-width: 58.174em) { /* min-width 801px, large screens */
 
     body {
         font-size: 18px;
+    }
+
+    /*global width*/
+
+    #header header, #content, footer {
+        margin: 0 auto;
+        width: 768px;
     }
 
     /*header styles*/
@@ -207,13 +232,12 @@ h1 + blockquote {
         padding: 0;
     }
 
-    #header {
-        overflow: hidden;
+    article p:first-child {
+        padding-top: .5em;
     }
 
-    #header header {
-        margin: 0 auto;
-        width: 768px;
+    #header {
+        overflow: hidden;
     }
 
     /*navigation styles*/
@@ -226,7 +250,7 @@ h1 + blockquote {
 
     #navmain {
         margin: 0;
-        padding: 0;
+        padding: .5;
         float: right;
     }
 
@@ -258,13 +282,6 @@ h1 + blockquote {
         color: #fff;
         text-decoration: underline;
     }
-
-    #content {
-        margin: 0 auto;
-        width: 768px;
-    }
-
-
 }
 
 /*  Accessibility */

@@ -1,17 +1,29 @@
-<!DOCTYPE html>
-<head>
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <script src="" type="text/javascript"></script>
-    <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
-    <link href="style.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-    <div class="container">
-    <article>
+---
+layout: default
+---
+
+<article class="post">
+    <div class="entry">
         {{ content }}
-    </article>
     </div>
-</body>
-</html>
+
+    <div class="social">
+    <p>What say you? I’d love to hear your thoughts. <a href="https://twitter.com/intent/tweet?url=drwtod.com{{ page.url }}&via=drwtod&text={{ page.title | uri_escape }}&hashtags={{ page.tags | join: ', ' }}">Join me in  the discussion</a> over on Twitter (<a href="https://twitter.com/@drwtod" target="_blank">@drwtod</a>).</p>
+    </div>
+
+    <div class="colophon">
+    <p>Originally published {{ page.date | date: "%B %e, %Y" }}<br />
+        {% if page.tags %}
+        File under: {{ page.tags | join: ', ' }}
+        {% endif %}
+    </p>
+    </div>
+
+<!--
+    <div class="comments">
+        {% include disqus.html disqus_identifier=page.disqus_identifier %}
+    </div>
+ -->
+ </article>
+ <script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<!-- <script id="dsq-count-scr" src="//drwtod.disqus.com/count.js" async></script> -->

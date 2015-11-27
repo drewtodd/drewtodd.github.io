@@ -1,6 +1,10 @@
 ---
-title: Five Content Strategy Challenges (and How to Overcome Them) -  Part 1: The Content Creator
+layout: post
+title: Five Content Strategy Challenges (and How to Overcome Them) -  Part 1, The Content Creator
 permalink: /five-content-challenges-part-1
+tags:
+    - ContentStrategy
+    - UX
 ---
 
 ![Mount Everest - Photo credit: biberati](/img/everest.jpg "Mount Everest - Photo credit: biberati")*Photo credit: [biberati](http://wallpaperswide.com/members/biberati/)*
