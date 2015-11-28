@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Five Content Strategy Challenges (and How to Overcome Them) -  Part 1, The Content Creator
-permalink: /five-content-challenges-part-1
+title: Five Content Strategy Challenges (and How to Overcome Them) -  Part 2, Management
+permalink: /five-content-challenges-part-2
 tags:
     - ContentStrategy
     - UX
