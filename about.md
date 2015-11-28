@@ -18,5 +18,5 @@ Want to get in touch? You can catch me on [Twitter][6], over at [LinkedIn][7], o
 [4]: http://www.avnetwork.com/latest/0013/which-av-manufacturers-and-distributors-provide-the-best-customer-training-and-support/92766 "Which AV Manufacturers and Distributors Provide the Best Customer Training and Support?"
 [5]: http://www.ravepubs.com/rave-announces-winners-2014-readers-choice-awards/ "rAVe Announces Winners of our 2014 Reader’s Choice Awards"
 [6]: http://twitter.com/drwtod "@drwtod"
-[7]: http://drwtod.com/about/www.linkedin.com/in/andrewtodd "Andrew Todd on LinkedIn"
+[7]: http://www.linkedin.com/in/andrewtodd "Andrew Todd on LinkedIn"
 [8]: mailto:drew@drwtod.com "drew@drwtod.com"
