@@ -225,7 +225,7 @@ footer {
     /*header styles*/
 
     /*only applies to the first image in an article*/
-    article img:first-child {
+    article.post img:first-child {
         width: 100%;
         margin: 0 auto;
         position: relative;
@@ -281,6 +281,13 @@ footer {
     #navmain a:hover, #navmain a:active {
         color: #fff;
         text-decoration: underline;
+    }
+
+    article.default img {
+        float: right;
+        margin: 0 0 1em 1em;
+        padding: 1em;
+        width: 33%;
     }
 
     footer {
