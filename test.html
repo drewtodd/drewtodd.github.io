@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Test</title>
+    <style type="text/css">
+    
+    /* all other images */
+    img {
+        border: 10px solid orange;
+        width: 25%;
+    }
+
+    /* the first image in the page,
+       if it is in a <p> tag, imediately
+       following the <article> tag
+    */
+    article p:first-of-type img { 
+        border: 10px solid green;
+        width: 25%;
+    }
+
+    </style>
+</head>
+<body>
+
+    <article>
+        <p><img src="img/everest.jpg"></p>
+        <h1>Title Goes Here</h1>
+        <p> Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p><img src="img/everest.jpg"></p>
+    </article>
+
+</body>
+</html>
+

@@ -4,7 +4,9 @@ title: About me - Andrew Todd
 ---
 #About
 
-![Andrew Todd](/img/andrew-todd.jpg "Andrew Todd")Hey there. My name is Andrew Todd. I’m a 20-year veteran of Internet, Web, and mobile application development; a certified project manager with a design and engineering background; and the Web, mobile, and Internet lead at [Extron Electronics][1], working with a killer team that builds [award][2]–[winning][3] [digital][4] [products][5].
+<img src="/img/andrew-todd.jpg" alt="Andrew Todd" title="Andrew Todd" class="floatright" />
+
+Hey there. My name is Andrew Todd. I’m a 20-year veteran of Internet, Web, and mobile application development; a certified project manager with a design and engineering background; and the Web, mobile, and Internet lead at [Extron Electronics][1], working with a killer team that builds [award][2]–[winning][3] [digital][4] [products][5].
 
 I’m also passionate about how people interact with digital products and platforms; what works, what doesn’t, and why. This site is kind of a scrapbook of musings, ideas, examples, and ephemera that get me thinking about the best way to meet the needs of online users. Maybe it’ll get you thinking, too.
 

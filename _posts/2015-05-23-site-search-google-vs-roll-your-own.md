@@ -7,7 +7,7 @@ tags:
     - google
 ---
 
-![Rolling pin](/img/rolling-pin-tmp.jpg "Rolling pin")<em>Photo credit: [Alena Kaziouskaya][2]</em>
+![Rolling pin](/img/rolling-pin.jpg "Rolling pin")<em>Photo credit: [Alena Kaziouskaya][2]</em>
 
 # Site Search: Using Google vs. Rolling-Your-Own
 

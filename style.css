@@ -71,7 +71,7 @@ a:visited {
 }
 
 /*only applies to the first image in an article*/
-article img:first-child {
+article p:first-of-type img { 
     width: 126%;
     margin: 0 0 0 -13%;
     position: relative;
@@ -175,11 +175,9 @@ h1 + blockquote {
     #navmain a {
         text-decoration: none;
         margin: 0;
-        padding: 0;
+        padding: 0 0 0 1.2rem;
         border: 0rem;
         color: #ddd;
-        padding-left: .6rem;
-        padding-right: .6rem;
         line-height: 1.25em;
     }
 
@@ -225,7 +223,7 @@ footer {
     /*header styles*/
 
     /*only applies to the first image in an article*/
-    article.post img:first-child {
+    article p:first-of-type img { 
         width: 100%;
         margin: 0 auto;
         position: relative;
@@ -234,6 +232,34 @@ footer {
 
     article p:first-child {
         padding-top: .5em;
+    }
+
+    img {
+        float: right;
+        margin: 0 0 1em 1em;
+        padding: 1em;
+        width: 33%;
+    }
+
+    /*
+       lamesauce, but i could find no other way.
+       these basically overrides the first-of-type
+       in the <p> tag. use only when you want a
+       "small" image in the first paragraph and
+       only in case of emergency.
+    */
+    img.floatright {
+        float: right:       !important;
+        margin: 0 0 1em 1em !important;
+        padding: 1em        !important;
+        width: 33%          !important;
+    }
+
+    img.floatleft {
+        float: left         !important;
+        margin: 0 1em 1em 0 !important;
+        padding: 1em        !important;
+        width: 33%          !important;
     }
 
     #header {
@@ -270,24 +296,15 @@ footer {
     #navmain a {
         text-decoration: none;
         margin: 0;
-        padding: 0;
+        padding: 0 0 0 1.2rem;
         border: 0rem;
         color: #ddd;
-        padding-left: .6rem;
-        padding-right: .6rem;
         line-height: 2em;
     }
 
     #navmain a:hover, #navmain a:active {
         color: #fff;
         text-decoration: underline;
-    }
-
-    article.default img {
-        float: right;
-        margin: 0 0 1em 1em;
-        padding: 1em;
-        width: 33%;
     }
 
     footer {
