@@ -3,8 +3,8 @@ title: Site Search - Using Google vs. Rolling-Your-Own
 layout: post
 permalink: /site-search-google-vs-diy
 tags:
-    - search
-    - google
+    - Search
+    - Google
 ---
 
 ![Rolling pin](/img/rolling-pin.jpg "Rolling pin")<em>Photo credit: [Alena Kaziouskaya][2]</em>
@@ -19,11 +19,11 @@ In cases where content is available behind a login of some kind, or is otherwise
 As an example, where I work, we offer an extensive B2B portal that contains content only accessible to users who are logged in. White papers, videos, and pricing worksheets are offered for our customers and are not available to the general public. Furthermore, there are restrictions in some cases where certain user classes have access to certain types of content, while others may not — Programmers have access to SDKs, UI templates, and the like, for instance. Our users expect these items to appear in search results when they are logged in and, in these cases, a local, propriety search makes sense over reliance on Google.
 
 ## Proprietary or Specialized Search Content
-If all of your content is available to Google’s crawlers, and all you want to search in the contents of the page, then a Google solution is fine. If, however, your search needs to take into account more than just the page content — and you need control of this criteria — then a custom solution is probably better.
+If all of your content is available to Google’s crawlers, and all you want to search are the contents of the page, then a Google solution is fine. If, however, your search needs to take into account more than just the page content — and you need control of this criteria — then a custom solution is probably better.
 
 For instance, if an online seller wants to factor user ratings of their products or product availability into search results, a proprietary solution would allow for this, where Google would likely not have this information.
-Control Over Search Results and Rankings
 
+## Control Over Search Results and Rankings
 Furthermore, when using Google as your site’s search provider, you are reliant on their results format and rankings. Sites that want control over how results are displayed would be better off choosing a customized solution over relying on Google.
 
 For instance, a company wanting to ensure that newer products appear at the top of the search results, or who want to promote certain pages by giving them prominence in the results page would be better off with a proprietary site search.
