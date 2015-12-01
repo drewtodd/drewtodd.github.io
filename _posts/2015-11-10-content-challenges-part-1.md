@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five Content Strategy Challenges (and How to Overcome Them) -  Part 1, The Content Creator
+title: "Five Content Strategy Challenges (and How to Overcome Them):  Part 1, The Content Creator"
 permalink: /five-content-challenges-part-1
 photo-url: /img/everest.jpg
 photo-title: "Mount Everest - Photo credit: biberati"

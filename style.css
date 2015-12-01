@@ -222,12 +222,34 @@ section.more-posts {
     font-family: "Oswald", Helvetica, sans-serif;
     font-weight: 300;
     font-size: 1em;
-    line-height: 1.25em;
+    line-height: 1.5em;
     color: #666;
 }
 
+div.post-nav {
+    margin-top: 3em;
+    margin-bottom: 3em;
+    padding: .5em 0 1em 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    color: #555;
+}
+
+div.post-nav h4 {
+    margin-top: 1em;
+}
+
+div.post-nav a {
+    font-size: .8em;
+    text-decoration: none;
+}
+
+div.post-nav a:hover {
+    text-decoration: underline;
+}
+
 footer {
-    margin-top: 4em;
+    margin-top: 6em;
     font-size: .6em;
     font-style: italic;
     line-height: 1.25em;
@@ -353,8 +375,26 @@ footer {
         line-height: 1.5em;
     }
 
+    div.post-nav {
+        overflow: hidden;
+        line-height: 1.25em;
+    }
+
+    div.post-nav h4 {
+        margin-bottom: .5em;
+    }
+
+    div.post-nav .prev {
+        width: 33%;
+        float: left;
+    }
+
+    div.post-nav .next {
+        width: 33%;
+        float: right;
+    }
+
     footer {
-        margin-top: 4em;
         clear: both;
     }
 }

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five Content Strategy Challenges (and How to Overcome Them) -  Part 2, Management
+title: "Five Content Strategy Challenges (and How to Overcome Them):  Part 2, Management"
 permalink: /five-content-challenges-part-2
 photo-url: /img/climbers-summit.jpg
 photo-title: "Climbers helping each other summit a peak - Photo credit: crazymedia007"

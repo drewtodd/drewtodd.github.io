@@ -1,5 +1,5 @@
 ---
-title: Site Search - Using Google vs. Rolling-Your-Own
+title: "Site Search: Using Google vs. Rolling-Your-Own"
 layout: post
 permalink: /site-search-google-vs-diy
 photo-url: /img/rolling-pin.jpg
