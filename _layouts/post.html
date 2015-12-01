@@ -3,12 +3,21 @@ layout: default
 ---
 
 <article class="post">
+    {% if page.photo-url %}
+    <p class="feature-image">
+        <img src="{{ page.photo-url }}" alt="page.title" />
+        {% if page.photo-credit %}
+        <em>Photo credit: <a href="{{ page.photo-credit-url }}" title="{{ page.photo-credit-alt }}">{{ page.photo-credit }}</a></em>
+        {% endif %}
+    </p>
+    {% endif %}
+
     <div class="entry">
         {{ content }}
     </div>
 
     <div class="social">
-    <p>What say you? I’d love to hear your thoughts. <a href="https://twitter.com/intent/tweet?url=drwtod.com{{ page.url }}&via=drwtod&text={{ page.title | uri_escape }}&hashtags={{ page.tags | join: ', ' }}">Join me in  the discussion</a> over on Twitter (<a href="https://twitter.com/@drwtod" target="_blank">@drwtod</a>).</p>
+    <p>What say you? I’d love to hear your thoughts. <a href="https://twitter.com/intent/tweet?url={{site.url}}{{ page.url }}&via=drwtod&text={{ page.title | uri_escape }}&hashtags={{ page.tags | join: ', ' }}">Join me in  the discussion</a> over on Twitter (<a href="https://twitter.com/@drwtod" target="_blank">@drwtod</a>).</p>
     </div>
 
     <div class="colophon">

@@ -2,12 +2,15 @@
 layout: post
 title: Five Content Strategy Challenges (and How to Overcome Them) -  Part 2, Management
 permalink: /five-content-challenges-part-2
+photo-url: /img/climbers-summit.jpg
+photo-title: "Climbers helping each other summit a peak - Photo credit: crazymedia007"
+photo-credit: crazymedia007
+photo-credit-url: "http://www.shutterstock.com/gallery-2903131p1.html"
+photo-credit-alt: "crazymedia007's Porfolio - Shutterstock"
 tags:
     - ContentStrategy
     - UX
 ---
-
-![Climbers helping each other summit a peak - Photo credit: crazymedia007](/img/climbers-summit.jpg "Climbers helping each other summit a peak - Photo credit: crazymedia007")*Photo credit: [crazymedia007](http://www.shutterstock.com/gallery-2903131p1.html)*
 
 #Five Content Strategy Challenges (and How to Overcome Them)
 
