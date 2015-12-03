@@ -7,7 +7,7 @@ template: default
 
     {% if feature.photo-url %}
     <p class="feature-image">
-        <img src="{{ feature.photo-url }}" alt="{{ feature.title }}" />
+        <img src="{{ feature.photo-url }}" alt="{{ feature.photo-title }}" title="{{ feature.photo-title }}" />
         {% if feature.photo-credit %}
         <em>Photo credit: <a href="{{ feature.photo-credit-url }}" title="{{ feature.photo-credit-alt }}">{{ feature.photo-credit }}</a></em>
         {% endif %}
