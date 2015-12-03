@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Thought for Today: The Best Thing for Being Sad"
+title: "Quotable: The Best Thing for Being Sad"
 permalink: /quotable-best-thing-for-being-sad
 photo-url: /img/th-white.jpg
 photo-title: "Author T.H. White; Photo credit Henry Hargreaves"
