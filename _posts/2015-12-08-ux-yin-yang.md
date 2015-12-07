@@ -17,7 +17,7 @@ tags:
 
 > The disciplines of user-centered design have taught us to go to great lengths to ensure that we meet the needs of users when it comes to our products, but we shouldn’t be doing so at the expense of the organization’s goals.
 
-Call it a lesson learned. Awhile back my buddy (whom I'll call "Trey," in an attempt to spare his identity) completed a project that he’d spent significant time designing and building. His team had gone to great lengths to make this Web-based application a user-centered winner: They’d researched, created detailed user personas, interviewed and observed real users in their native environments, prototyped our brains out, iterated. They had it all figured out.
+Call it a lesson learned. Awhile back my buddy (whom I'll call "Trey," in an attempt to spare his identity) completed a project that he’d spent significant time designing and building. His team had gone to great lengths to make this Web-based application a user-centered winner: They’d researched, created detailed user personas, interviewed and observed real users in their native environments, prototyped their brains out, iterated. They had it all figured out.
 
 The purpose of this app, in a nutshell, was to replace a manual process whereby customers would create custom orders on paper forms or PDFs and either fax or email them to his company's Sales team. The Sales team would then create an order and forward it to the Production team to fabricate the finished item. These orders represented a small but tedious step in a larger process for their customers, so they needed to make it easy for them. Furthermore, it needed to tie directly into the production equipment that did the customizing. They were going full automation.
 
@@ -55,7 +55,7 @@ In Trey's case, the biggest organizational goal he missed was “reduce the amou
 
 > The goals you identify early in the game will provide important guideposts as your research, prototypes, and iterations invariably start to change the scope and drive of your project.
 
-Look at that list. “Provide a new revenue stream” seems like a universal organizational goal. A no-brainer. In fact, I’m pretty sure that all organizational goals can be boiled down to some variation of either “make money,” “save money,” or “don’t lose money.” To wit:
+Look at that list again. “Provide a new revenue stream” seems like a universal organizational goal. A no-brainer. In fact, I’m pretty sure that all organizational goals can be boiled down to some variation of either “make money,” “save money,” or “don’t lose money.” To wit:
 
 - Reduce the number of calls coming into the Sales and Support Teams (Save money)
 - Increase brand awareness of the product that this tool supports (Make money)
