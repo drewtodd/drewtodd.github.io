@@ -6,7 +6,7 @@ title: About me - Andrew Todd
 
 <img src="/img/andrew-todd.jpg" alt="Andrew Todd" title="Andrew Todd" class="floatright" />
 
-Hey there. I'm Andrew Todd: I’m a 20-year veteran of Internet, Web, and mobile application development; a certified project manager with a design and engineering background; and the Director of Web Development at [Extron Electronics][1], working with a killer team that builds [award][2]–[winning][3] [digital][4] [products][5].
+Hey there. I'm Andrew Todd: 20-year veteran of Internet, Web, and mobile application development; a certified project manager with a design and engineering background; and the Director of Web Development at [Extron Electronics][1], working with a killer team that builds [award][2]–[winning][3] [digital][4] [products][5].
 
 I’m also passionate about how people interact with digital products and platforms; what works, what doesn’t, and why. This site is kind of a scrapbook of musings, ideas, examples, and ephemera that get me thinking about the best way to meet the needs of online users. Maybe it’ll get you thinking, too.
 
