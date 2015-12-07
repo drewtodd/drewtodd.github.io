@@ -27,7 +27,7 @@ And then their Sales Operations Manager called.
 
 Apparently, this shiny new app was creating additional work for Sales and Production. While they had given the user all kinds of flexibility, they were introducing new complexities for their internal teams.
 
-Wasn’t the purpose of this tool to save the support reps time (They weren’t sure, but that sounded right)? And wouldn’t it have been great if they had included them in the conversation during development to get agreement on what they really wanted to get out of this app (it sure would have)? Trey and his team had gotten so excited about providing our customers with a useful, engaging product that they forgot to take a step back at the beginning of the process and identify the organization’s goals surrounding it.
+Wasn’t the purpose of this tool to save the support reps time (They weren’t sure, but that sounded right)? And wouldn’t it have been great if they had included them in the conversation during development to get agreement on what they really wanted to get out of this app (it sure would have)? Trey and his team had gotten so excited about providing their customers with a useful, engaging product that they forgot to take a step back at the beginning of the process and identify the organization’s goals surrounding it.
 
 They’d gone full-yang without considering the yin of the application. Business needs and user goals comprise the Tao of digital product development. The cost of this lack of balance was additional time and energy spent after the fact fixing a half-right situation. Without balance, your product suffers.
 
@@ -43,13 +43,13 @@ Every project should start by identifying the organizational goals that the prod
 
 Examples of organizational goals might look something like:
 
-Reduce the number of calls coming into the Sales and Support Teams
-Increase brand awareness
-Cut down on the number of customer errors in the ordering process
-Meet the challenge of a competitor who offers a similar product
-Provide a new revenue stream
+- Reduce the number of calls coming into the Sales and Support Teams
+- Increase brand awareness
+- Cut down on the number of customer errors in the ordering process
+- Meet the challenge of a competitor who offers a similar product
+- Provide a new revenue stream
 
-In my case, the biggest organizational goal I missed was “reduce the amount of work for the Sales team.” What I’d actually done was create more work for them. To say that this was an unpopular realization is, shall we say, an understatement.
+In Trey's case, the biggest organizational goal he missed was “reduce the amount of work for the Sales team.” What he’d actually done was create more work for them. To say that this was an unpopular realization is, shall we say, an understatement.
 
 ## Make Money-Money 
 
