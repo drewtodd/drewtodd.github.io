@@ -1,6 +1,7 @@
 ---
 title: "UX Yin and Yang: Balancing Organizational Goals and the Needs of Your Users"
 layout: post
+permalink: /ux-yin-yang
 photo-url: /img/yinyang.jpg
 photo-title: "Yin and yang - Photo credit: dynamicz34"
 photo-credit: dynamicz34
