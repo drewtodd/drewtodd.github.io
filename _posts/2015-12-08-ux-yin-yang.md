@@ -21,7 +21,7 @@ Call it a lesson learned. Awhile back my buddy (whom I'll call "Trey," in an att
 
 The purpose of this app, in a nutshell, was to replace a manual process whereby customers would create custom orders on paper forms or PDFs and either fax or email them to his company's Sales team. The Sales team would then create an order and forward it to the Production team to fabricate the finished item. These orders represented a small but tedious step in a larger process for their customers, so they needed to make it easy for them. Furthermore, it needed to tie directly into the production equipment that did the customizing. They were going full automation.
 
-When the happy day came that Trey and his team were finally ready to roll our app out to customers, they were pretty stoked. It looked great. It worked great. They were UX gods and goddesses.
+When the happy day came that Trey and his team were finally ready to roll their app out to customers, they were pretty stoked. It looked great. It worked great. They were UX gods and goddesses.
 
 And then their Sales Operations Manager called.
 
