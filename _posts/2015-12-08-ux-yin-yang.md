@@ -55,7 +55,7 @@ In Trey's case, the biggest organizational goal he missed was “reduce the amou
 
 > The goals you identify early in the game will provide important guideposts as your research, prototypes, and iterations invariably start to change the scope and drive of your project.
 
-Look at that list again. “Provide a new revenue stream” seems like a universal organizational goal. A no-brainer. In fact, I’m pretty sure that all organizational goals can be boiled down to some variation of either “make money,” “save money,” or “don’t lose money.” To wit:
+Have another look at that list. “Provide a new revenue stream” seems like a universal organizational goal. A no-brainer. In fact, I’m pretty sure that all organizational goals can be boiled down to some variation of either “make money,” “save money,” or “don’t lose money.” To wit:
 
 - Reduce the number of calls coming into the Sales and Support Teams (Save money)
 - Increase brand awareness of the product that this tool supports (Make money)
