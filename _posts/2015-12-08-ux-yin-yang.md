@@ -15,6 +15,8 @@ tags:
 
 ## Balancing Organizational Goals and the Needs of Your Users
 
+### 5 minute read
+
 > The disciplines of user-centered design have taught us to go to great lengths to ensure that we meet the needs of users when it comes to our products, but we shouldn’t be doing so at the expense of the organization’s goals.
 
 Call it a lesson learned. Awhile back my buddy (whom I'll call "Trey," in an attempt to spare his identity) completed a project that he’d spent significant time designing and building. His team had gone to great lengths to make this Web-based application a user-centered winner: They’d researched, created detailed user personas, interviewed and observed real users in their native environments, prototyped their brains out, iterated. They had it all figured out.
