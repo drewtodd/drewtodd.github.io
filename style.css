@@ -97,6 +97,26 @@ h1 + h2 {
     color: #666;
 }
 
+/*read-length indicator*/
+h2 + h3 {
+    display: block;
+    position: relative;
+    font-size: .8em;
+    line-height: 1.75em;
+    color: #bbb;
+    padding-top: 0;
+}
+
+h2 + h3:before {
+    display: inline-block;
+    font-family: FontAwesome;
+    content: "\f017";
+    font-size: 2em;
+    padding-right: .25em;
+    vertical-align: middle;
+}
+
+
 ul {
     padding-left: 1em;
 }
@@ -323,6 +343,32 @@ footer {
 
     article p:first-child {
         padding-top: .5em;
+    }
+
+    h2 + h3 {
+        display: block;
+        position: relative;
+        font-size: .8em;
+        margin-top: -8em;
+        margin-left: -7em;
+        padding-top: 1.25em;
+        line-height: 1.75em;
+        width: 5em;
+        text-align: right;
+        color: #bbb;
+    }
+
+    h2 + h3:before {
+        display: block;
+        font-family: FontAwesome;
+        content: "\f017";
+        font-size: 2em;
+        vertical-align: top;
+        padding-right: 0;
+    }
+
+    h2 + h3:hover {
+        color: #999;
     }
 
     img {
