@@ -116,7 +116,6 @@ h1 + h3:before, h2 + h3:before {
     vertical-align: middle;
 }
 
-
 ul {
     padding-left: 1em;
 }
@@ -162,6 +161,10 @@ h1 + blockquote {
 #header h1 a {
     color: #F5B400;
     text-decoration: none;
+}
+
+#header h1 a:hover {
+    text-decoration: underline;
 }
 
     /*navigation styles*/
@@ -483,8 +486,31 @@ footer {
         float: right;
     }
 
+    /*archive stuff*/
+
     #archive h1 {
         margin-top: 12.5em;
+        padding-bottom: .25em;
+    }
+
+    #archive h3 {
+        border-bottom: 1px solid #ccc;
+        margin: .25em 0 .25em 0;
+        font-size: 1.25em;
+        padding-top: 1.25em;
+        padding-bottom: .5em;
+        color: #666;
+        text-align: left;
+        width: 100%;
+    }
+
+    #archive h3:before {
+    display: inline-block;
+    font-family: FontAwesome;
+    content: "\f073";
+    font-size: 2em;
+    padding-right: .25em;
+    vertical-align: middle;
     }
 
     footer {
