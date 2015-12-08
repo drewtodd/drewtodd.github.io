@@ -98,7 +98,7 @@ h1 + h2 {
 }
 
 /*read-length indicator*/
-h2 + h3 {
+h1 + h3, h2 + h3 {
     display: block;
     position: relative;
     font-size: .8em;
@@ -107,7 +107,7 @@ h2 + h3 {
     padding-top: 0;
 }
 
-h2 + h3:before {
+h1 + h3:before, h2 + h3:before {
     display: inline-block;
     font-family: FontAwesome;
     content: "\f017";
@@ -345,7 +345,8 @@ footer {
         padding-top: .5em;
     }
 
-    h2 + h3 {
+    /*read-length indicator*/
+    h1 + h3, h2 + h3 {
         display: block;
         position: relative;
         font-size: .8em;
@@ -358,7 +359,7 @@ footer {
         color: #bbb;
     }
 
-    h2 + h3:before {
+    h1 + h3:before, h2 + h3:before {
         display: block;
         font-family: FontAwesome;
         content: "\f017";

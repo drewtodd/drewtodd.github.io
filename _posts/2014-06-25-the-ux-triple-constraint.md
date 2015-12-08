@@ -15,6 +15,8 @@ tags:
 
 ## Time, Complexity and the User Experience
 
+### 3 minute read
+
 Someone much smarter than I has probably already made this observation, but it occurred to me in a recent discussion with a product stakeholder that there exists a kind of “usability triple constraint,” not too different from the one folks in the project management world have recognized for years.
 
 The [triple constraint][1] is a project management model that says that all projects are a balance of time, resources, and quality. Or, as the sign behind the counter at my auto mechanic puts it:
