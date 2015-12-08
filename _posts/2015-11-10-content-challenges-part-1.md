@@ -16,6 +16,8 @@ tags:
 
 ##Part 1 — The Content Creator
 
+### 4 minute read
+
 Content strategy is an important component of the design process and vital to the overall user experience. It ensures that the organization’s content aligns with its goals and values. With that in mind, here are ten key challenges that content creators and management face with content strategy, and some proposed solutions.
 
 ##Challenges for Content Creators

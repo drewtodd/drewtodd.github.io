@@ -14,6 +14,8 @@ tags:
 
 # Site Search: Using Google vs. Rolling-Your-Own
 
+### 2&frac12; minute read
+
 So. You’ve built a Web site and need local search capabilities. Is it even worth it to develop your own solution when Google offers the whole deal by copying-and-pasting a few lines of code? With Google being able to crawl and catalog the expanse of (almost) the entire Web and present search results quickly and clearly to users, it’s a legitimate question to ask: Do any sites really need their own search systems? While many sites can forgo a proprietary search and just rely on Google, there are still a few good arguments to made for proprietary site search.
 
 ## Restricted or Premium Content

@@ -19,17 +19,17 @@ tags:
 
 > The disciplines of user-centered design have taught us to go to great lengths to ensure that we meet the needs of users when it comes to our products, but we shouldn’t be doing so at the expense of the organization’s goals.
 
-Call it a lesson learned. Awhile back my buddy (whom I'll call "Trey," in an attempt to spare his identity) completed a project that he’d spent significant time designing and building. His team had gone to great lengths to make this Web-based application a user-centered winner: They’d researched, created detailed user personas, interviewed and observed real users in their native environments, prototyped their brains out, iterated. They had it all figured out.
+Call it a lesson learned. Awhile back my buddy (whom I'll call "Ted," in an attempt to spare his identity) completed a project that he’d spent significant time designing and building. His team had gone to great lengths to make this Web-based application a user-centered winner: They’d researched, created detailed user personas, interviewed and observed real users in their native environments, prototyped their brains out, iterated. They had it all figured out.
 
 The purpose of this app, in a nutshell, was to replace a manual process whereby customers would create custom orders on paper forms or PDFs and either fax or email them to his company's Sales team. The Sales team would then create an order and forward it to the Production team to fabricate the finished item. These orders represented a small but tedious step in a larger process for their customers, so they needed to make it easy for them. Furthermore, it needed to tie directly into the production equipment that did the customizing. They were going full automation.
 
-When the happy day came that Trey and his team were finally ready to roll their app out to customers, they were pretty stoked. It looked great. It worked great. They were UX gods and goddesses.
+When the happy day came that Ted and his team were finally ready to roll their app out to customers, they were pretty stoked. It looked great. It worked great. They were UX gods and goddesses.
 
 And then their Sales Operations Manager called.
 
 Apparently, this shiny new app was creating additional work for Sales and Production. While they had given the user all kinds of flexibility, they were introducing new complexities for their internal teams.
 
-Wasn’t the purpose of this tool to save the support reps time (They weren’t sure, but that sounded right)? And wouldn’t it have been great if they had included them in the conversation during development to get agreement on what they really wanted to get out of this app (it sure would have)? Trey and his team had gotten so excited about providing their customers with a useful, engaging product that they forgot to take a step back at the beginning of the process and identify the organization’s goals surrounding it.
+Wasn’t the purpose of this tool to save the support reps time (They weren’t sure, but that sounded right)? And wouldn’t it have been great if they had included them in the conversation during development to get agreement on what they really wanted to get out of this app (it sure would have)? Ted and his team had gotten so excited about providing their customers with a useful, engaging product that they forgot to take a step back at the beginning of the process and identify the organization’s goals surrounding it.
 
 They’d gone full-yang without considering the yin of the application. Business needs and user goals comprise the Tao of digital product development. The cost of this lack of balance was additional time and energy spent after the fact fixing a half-right situation. Without balance, your product suffers.
 
@@ -51,7 +51,7 @@ Examples of organizational goals might look something like:
 - Meet the challenge of a competitor who offers a similar product
 - Provide a new revenue stream
 
-In Trey's case, the biggest organizational goal he missed was “reduce the amount of work for the Sales team.” What he’d actually done was create more work for them. To say that this was an unpopular realization is, shall we say, an understatement.
+In Ted's case, the biggest organizational goal he missed was “reduce the amount of work for the Sales team.” What he’d actually done was create more work for them. To say that this was an unpopular realization is, shall we say, an understatement.
 
 ## Make Money-Money 
 

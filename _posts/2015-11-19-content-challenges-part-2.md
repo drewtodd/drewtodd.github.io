@@ -15,6 +15,9 @@ tags:
 #Five Content Strategy Challenges (and How to Overcome Them)
 
 ##Part 2 — Challenges for Management
+
+### 4 minute read
+
 Last week I discussed the five most common content strategy challenges for content creators and strategists. Organizational leadership faces a similar predicament. With so much emphasis put on productivity, efficiency and the bottom line, it’s hard to embrace a concept that doesn’t show a clear benefit for the organization, introduces too much risk or just doesn’t fit in with their vision of the company and its values. If you’re a manager, or you’re trying to convince executives to embrace content strategy, these challenges are probably all-too-familiar.
 
 ## 1. No visible ROI
