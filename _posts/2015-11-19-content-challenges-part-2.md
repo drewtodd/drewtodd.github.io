@@ -43,10 +43,10 @@ Many executives lack understanding of emerging content platforms like social med
 ##5. Politics over priorities
 It exists in every organization: The political pitfall. Management is often more concerned with political issues surrounding their day-to-day office reality than long term priorities like a cohesive content strategy. Even executives who buy into content strategy can fall victim to the traps of corporate politics. The symptoms are varied and include:
 
--**Lip service:** Lack of serious commitment to content strategy
--**Budget issues:** Lack of appropriate funding
--**Personnel issues:** Resource allocation issues
--**Gut issues:** Lack of will or clout to invest in content strategy
+- **Lip service:** Lack of serious commitment to content strategy
+- **Budget issues:** Lack of appropriate funding
+- **Personnel issues:** Resource allocation issues
+- **Gut issues:** Lack of will or clout to invest in content strategy
 
 **Solution:** We’ve all seen it, and there is no sure-fire solution as content strategists often lack the political leverage to counteract these issues. As with the buy-in and ROI issues, gather allies (especially management in the sales and support trenches whose teams deal with users every day). [They can help you make your case][4]. Work with what you have, start small, and [let successful pilot projects highlight the value of content strategy][5]. Evangelize and focus your efforts on [changing the organization’s culture][6]. And above all else: Be tenacious. Don’t give up!
 
