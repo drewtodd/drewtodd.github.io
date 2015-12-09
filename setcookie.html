@@ -2,25 +2,22 @@
 <head>
     <meta charset="utf-8"/>
     <title>Set Google Analytics No-Check Cookie</title>
-    <script src="/js/js.cookie.js". type="text/javascript"></script>
     <script type="text/javascript">
-        function checkCookies() {
-            var returnText = "";
-
-            if (Cookies.get( 'no-track' )) {
-                returnText = "No-track cookie already exists.";
-            } else {
-                Cookies.set( 'no-track', 'true', { expires: 730 } );
-                returnText = "Cookie was successfully set.";
-            }
-            return returnText;
-        }
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-56761608-1']);
+        _gaq.push(['_setVar','no-track']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script');ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
     </script>
     <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-    <p>
-    <script type="text/javascript">document.write ( checkCookies() );</script>
+    <p>Remove my internal traffic from Google Analytics for this website
+    <!-- <script type="text/javascript">document.write ( checkCookies() );</script> -->
     </p>
 </body>
 </html>
