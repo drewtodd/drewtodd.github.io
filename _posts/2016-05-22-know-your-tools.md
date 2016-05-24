@@ -10,9 +10,9 @@ tags:
 - UX
 ---
 
-# Know your tools.
+# Know your tools
 
-## What you use isn't as important as how you use it.
+## What you use isn't as important as how you use it
 
 ### 2 minute read
 
