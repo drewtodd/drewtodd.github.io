@@ -12,9 +12,9 @@ tags:
     - UX
 ---
 
-#Five Content Strategy Challenges (and How to Overcome Them)
+# Five Content Strategy Challenges (and How to Overcome Them)
 
-##Part 2 — Challenges for Management
+## Part 2 — Challenges for Management
 
 ### 3&frac12; minute read
 
