@@ -12,7 +12,7 @@ tags:
 
 # Know your tools
 
-## Investing in a basic toolkit early can really pay off
+## Investing time creating a basic toolkit early can really pay off
 
 ### 2 minute read
 
