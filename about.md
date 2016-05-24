@@ -2,7 +2,7 @@
 layout: default
 title: About me - Andrew Todd
 ---
-#About
+# About
 
 <img src="/img/andrew-todd.jpg" alt="Andrew Todd" title="Andrew Todd" class="floatright" />
 
@@ -12,7 +12,7 @@ I’m also passionate about how people interact with digital products and platfo
 
 When I’m not nerding out about design, development, and UX, I’m probably picking a guitar, watching a baseball game, or walking the dog with my lovely wife.
 
-Want to get in touch? You can catch me on [Twitter][6], over at [LinkedIn][7], or just send me a [good old email][8]. 
+Want to get in touch? You can catch me on [Twitter][6], over at [LinkedIn][7], or just send me a [good old email][8].
 
 [1]: http://www.extron.com/ "Extron Electronics"
 [2]: http://www.extron.com/company/article.aspx?id=stellarserviceawardspr "Extron Wins Industry Awards for Exceptional Training, Web site, and Product Demos"

@@ -12,7 +12,7 @@ tags:
 
 # Know your tools
 
-## What you use isn't as important as how you use it
+## Investing in a basic toolkit early can really pay off
 
 ### 2 minute read
 
