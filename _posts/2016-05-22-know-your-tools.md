@@ -1,7 +1,7 @@
 ---
 title: "Know Your Tools"
 layout: post
-permalink: /the-ux-triple-constraint
+permalink: /know-your-tools
 photo-url: /img/more-tools.jpg
 photo-title: "Tools - Photo credit: Jeff Bullas"
 photo-credit: Jeff Bullas
