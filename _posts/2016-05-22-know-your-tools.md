@@ -12,6 +12,10 @@ tags:
 
 # Know your tools.
 
+## What you use isn't as important as how you use it.
+
+### 2 minute read
+
 Which design tools you use are far less important than how well you can use them. This became especially apparent after weeks of using a template I created for the last class. It was easy. The bugs were ironed out. It looked okay. It didn't win me any points for creative vision but it was fast and got the job done. Most important, it removed a lot of guesswork from my writing assignments.
 
 Fast-forward to week one of a *design* class. I haven't done any serious design work in awhile, so I was rusty with my tools of choice (primarily Omnigraffle). Furthermore, I had to create a visual language to work with for the entire course. From scratch. Because I (foolishly) haven't developed a good, solid library of templates, icons, and typography for the job.
