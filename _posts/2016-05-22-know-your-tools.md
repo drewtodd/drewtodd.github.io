@@ -1,8 +1,8 @@
 ---
-title: “Know Your Tools“
+title: "Know Your Tools"
 layout: post
 photo-url: /img/more-tools.jpg
-photo-title: “Tools - Photo credit: Jeff Bullas”
+photo-title: "Tools - Photo credit: Jeff Bullas"
 photo-credit: Jeff Bullas
 photo-credit-url: "http://www.shutterstock.com/gallery-1445165p1.html" 
 tags:
