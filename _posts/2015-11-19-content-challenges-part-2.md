@@ -40,7 +40,7 @@ Many executives lack understanding of emerging content platforms like social med
 
 **Solution:** Look at your competitors. Are they effectively using these new media? Listen to your users. Are they engaged? Do they express value in seeing your content in these channels? Look at emerging trends. Find articles and studies that illuminate the value of these new channels or detail effective strategies for using them. Take this information to the decision-makers and present it in a clear, concise, results-oriented manner. Get them in a room; present slides; encourage questions.
 
-##5. Politics over priorities
+## 5. Politics over priorities
 It exists in every organization: The political pitfall. Management is often more concerned with political issues surrounding their day-to-day office reality than long term priorities like a cohesive content strategy. Even executives who buy into content strategy can fall victim to the traps of corporate politics. The symptoms are varied and include:
 
 - **Lip service:** Lack of serious commitment to content strategy
@@ -50,7 +50,7 @@ It exists in every organization: The political pitfall. Management is often more
 
 **Solution:** We’ve all seen it, and there is no sure-fire solution as content strategists often lack the political leverage to counteract these issues. As with the buy-in and ROI issues, gather allies (especially management in the sales and support trenches whose teams deal with users every day). [They can help you make your case][4]. Work with what you have, start small, and [let successful pilot projects highlight the value of content strategy][5]. Evangelize and focus your efforts on [changing the organization’s culture][6]. And above all else: Be tenacious. Don’t give up!
 
-#Challenge Accepted
+# Challenge Accepted
 Implementation of any significant organizational strategy is bound to be riddled with challenges. With determination, transparency and a little selling, a solid content strategy is within reach.
 
 [1]: http://www.slideshare.net/katekenyon1/tricks-to-get-content-strategy-adopted-in-your-company "Kate Kenyon: Tricks to get content strategy adopted in your company"
