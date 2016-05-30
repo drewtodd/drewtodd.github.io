@@ -82,7 +82,7 @@ article p:first-child {
     padding-top: 0;
 }
 
-img {
+p:not(.feature-image) img {
     max-width: 100%;
 }
 
