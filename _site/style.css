@@ -82,6 +82,10 @@ article p:first-child {
     padding-top: 0;
 }
 
+img {
+    max-width: 100%;
+}
+
 /*image captions*/
 img + em {
     font-family: "Oswald", Helvetica, sans-serif;
