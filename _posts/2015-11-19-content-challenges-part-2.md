@@ -8,8 +8,8 @@ photo-credit: crazymedia007
 photo-credit-url: "http://www.shutterstock.com/gallery-2903131p1.html"
 photo-credit-alt: "crazymedia007's Porfolio - Shutterstock"
 tags:
-- ContentStrategy
-- UX
+    - ContentStrategy
+    - UX
 ---
 
 # Five Content Strategy Challenges (and How to Overcome Them)

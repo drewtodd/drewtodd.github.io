@@ -17,7 +17,7 @@ tags:
 
 ### 3 minute read
 
-As you’ve probably gathered if you’ve been following along, we spend a lot of time [talking][1] [about][2] [tools][3]. In some cases, too much time. Tools, after all, don’t make the craftsman. But after a week of using InVision.app for a project of some complexity, I’d have to say: Wow.
+As you’ve probably gathered if you’ve been following along, we spend a lot of time [talking][1] [about][2] [tools][3]. In some cases, too much time. Tools, after all, don’t make the craftsman. But after a couple of weeks using InVision.app for a project of some complexity, I’d have to say: Wow.
 
 I’ve been aware of InVision for awhile, but always thought of it as a fancy presentation tool (which it is) and nothing more (which it isn’t). You do all the real design work in another tool like Sketch, Illustrator, or Photoshop, right? Well, yeah, but…
 
