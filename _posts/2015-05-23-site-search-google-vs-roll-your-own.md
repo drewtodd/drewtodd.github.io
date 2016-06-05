@@ -8,8 +8,8 @@ photo-credit: Alena Kaziouskaya
 photo-credit-url: "http://www.shutterstock.com/gallery-227131p1.html"
 photo-credit-alt: "Alena Kazlouskaya's Porfolio - Shutterstock"
 tags:
- - Search
-- Google
+    - Search
+    - Google
 ---
 
 # Site Search: Using Google vs. Rolling-Your-Own

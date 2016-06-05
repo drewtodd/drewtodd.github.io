@@ -8,7 +8,7 @@ photo-credit: biberati
 photo-credit-url: "http://wallpaperswide.com/members/biberati/"
 photo-credit-alt: "biberati's Porfolio"
 tags:
- - ContentStrategy
+- ContentStrategy
 - UX
 ---
 
