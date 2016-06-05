@@ -33,11 +33,20 @@ While the bottom line is that Axure packs a ton of functionality into a client-s
 
 What’s more, the integrative and collaborative aspects of InVision are where it really shines.
 
+If you use tools like Sketch and Photoshop, you can upload your source files (.sketch and .psd) directly to your project. InVision handles slicing and dicing them into actual screens. As long as you practice a little basic organization while doing your designs, you don’t even have to *think* about “making InVision versions” of your work. The app does it all for you.
+
+Furthermore, you can invite your team to collaborate on the designs. Teammates can comment and annotate their work. Collaboration is baked into the tool — and integration with your collaboration tools (Slack, anyone?) comes out-of-the-box.
+
+## Pro-level results
+
+When it comes time to get feedback from clients and stakeholders, InVision’s tools for presentation are easy to use and straightforward. Creating links and hotspots is easy. Most basic animations for interactions are included and easy to implement. Sharing your work is dead simple, be it on desktop or mobile devices. The final results really help your client envision (pun!) your vision and [sell your idea][2].
+
 ## The right tool
 
 Can you do more with Axure than InVision? Certainly. Can you do *enough* with InVision to get your point across quickly, conveniently, and effectively? Definitely. InVision wins because it meets the minimum viable product criteria for UI wire framing and prototyping. Until I get to a point where InVision doesn’t meet my needs, I’m pretty much sold on it.
 
-You can go see what all the fuss is about by [checking out the wireframes in question][2], first-hand.
+You can go see what all the fuss is about by [checking out the wireframes in question][3], first-hand.
 
 [1]:	https://www.youtube.com/watch?v=VPGcpm3v1sU "It's a jazz reference..."
-[2]:	https://invis.io/3Y7ICRIEM "A sample InVision app wireframe collection"
+[2]:	/fidelity
+[3]:	https://invis.io/3Y7ICRIEM "A sample InVision app wireframe collection"
