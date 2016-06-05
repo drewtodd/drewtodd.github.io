@@ -8,8 +8,8 @@ photo-credit: crazymedia007
 photo-credit-url: "http://www.shutterstock.com/gallery-2903131p1.html"
 photo-credit-alt: "crazymedia007's Porfolio - Shutterstock"
 tags:
-    - ContentStrategy
-    - UX
+- ContentStrategy
+- UX
 ---
 
 # Five Content Strategy Challenges (and How to Overcome Them)
@@ -48,20 +48,13 @@ It exists in every organization: The political pitfall. Management is often more
 - **Personnel issues:** Resource allocation issues
 - **Gut issues:** Lack of will or clout to invest in content strategy
 
-**Solution:** We’ve all seen it, and there is no sure-fire solution as content strategists often lack the political leverage to counteract these issues. As with the buy-in and ROI issues, gather allies (especially management in the sales and support trenches whose teams deal with users every day). [They can help you make your case][4]. Work with what you have, start small, and [let successful pilot projects highlight the value of content strategy][5]. Evangelize and focus your efforts on [changing the organization’s culture][6]. And above all else: Be tenacious. Don’t give up!
+**Solution:** We’ve all seen it, and there is no sure-fire solution as content strategists often lack the political leverage to counteract these issues. As with the buy-in and ROI issues, gather allies (especially management in the sales and support trenches whose teams deal with users every day). [They can help you make your case][3]. Work with what you have, start small, and [let successful pilot projects highlight the value of content strategy][4]. Evangelize and focus your efforts on [changing the organization’s culture][5]. And above all else: Be tenacious. Don’t give up!
 
 # Challenge Accepted
 Implementation of any significant organizational strategy is bound to be riddled with challenges. With determination, transparency and a little selling, a solid content strategy is within reach.
 
-[1]: http://www.slideshare.net/katekenyon1/tricks-to-get-content-strategy-adopted-in-your-company "Kate Kenyon: Tricks to get content strategy adopted in your company"
-
-[2]: https://www.uie.com/articles/failure_not_an_option/ "UIE: Failure is not an option"
-
-[3]: http://www.amazon.com/dp/0385528752 
-
-[4]: http://www.uxbooth.com/articles/how-to-win-the-ux-war-within-your-organization/ "Girish Gangarharan: How to Win the UX War Within Your Organization"
-
-[5]: http://www.uxbooth.com/articles/how-to-sell-content-strategy-to-management/ "Hilary Marsh: How to Sell Content Strategy to Management"
-
-[6]: http://www.slideshare.net/blendinteractive/content-everyone-changing-content-changing-roles "Corey Vilhauer: Content Everyone: Changing Content, Changing Roles"
-
+[1]:	http://www.slideshare.net/katekenyon1/tricks-to-get-content-strategy-adopted-in-your-company "Kate Kenyon: Tricks to get content strategy adopted in your company"
+[2]:	https://www.uie.com/articles/failure_not_an_option/ "UIE: Failure is not an option"
+[3]:	http://www.uxbooth.com/articles/how-to-win-the-ux-war-within-your-organization/ "Girish Gangarharan: How to Win the UX War Within Your Organization"
+[4]:	http://www.uxbooth.com/articles/how-to-sell-content-strategy-to-management/ "Hilary Marsh: How to Sell Content Strategy to Management"
+[5]:	http://www.slideshare.net/blendinteractive/content-everyone-changing-content-changing-roles "Corey Vilhauer: Content Everyone: Changing Content, Changing Roles"

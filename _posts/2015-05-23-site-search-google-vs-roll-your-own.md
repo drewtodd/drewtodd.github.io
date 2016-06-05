@@ -8,8 +8,8 @@ photo-credit: Alena Kaziouskaya
 photo-credit-url: "http://www.shutterstock.com/gallery-227131p1.html"
 photo-credit-alt: "Alena Kazlouskaya's Porfolio - Shutterstock"
 tags:
-    - Search
-    - Google
+ - Search
+- Google
 ---
 
 # Site Search: Using Google vs. Rolling-Your-Own
@@ -38,7 +38,3 @@ Google offers a nice selection of reporting and analysis tools for searches done
 
 ## Privacy
 Ah, the P-word. Sites may just take issue with all of their search traffic going through a third party. In this case they may find it preferable to build their own search and keep their search data more private.
-
-[1]: http://www.shutterstock.com/pic-159732098/stock-photo-pizza-dough.html?src=ei5P_LGzP1e_FkmR6gTneg-1-16 "Use this image"
-
-[2]: http://www.shutterstock.com/gallery-227131p1.html "Alena Kazlouskaya on Shutterstock"

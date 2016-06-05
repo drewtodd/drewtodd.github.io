@@ -8,6 +8,7 @@ photo-credit: Jeff Bullas
 photo-credit-url: "http://www.shutterstock.com/gallery-1445165p1.html" 
 tags:
 - UX
+- Tools
 ---
 
 # Know your tools

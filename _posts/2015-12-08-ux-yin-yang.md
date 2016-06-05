@@ -8,10 +8,10 @@ photo-credit: dynamicz34
 photo-credit-url: http://dynamicz34.deviantart.com/art/Yin-Yang-413083660
 photo-credit-alt: "dynamicz34's portfolio on deviantart.com"
 tags:
-    - UX
+ - UX
 ---
 
-# UX Yin and Yang 
+# UX Yin and Yang
 
 ## Balancing Organizational Goals and the Needs of Your Users
 
@@ -33,7 +33,7 @@ Wasn’t the purpose of this tool to save the support reps time (They weren’t 
 
 They’d gone full-yang without considering the yin of the application. Business needs and user goals comprise the Tao of digital product development. The cost of this lack of balance was additional time and energy spent after the fact fixing a half-right situation. Without balance, your product suffers.
 
-## The Goals of the Organization 
+## The Goals of the Organization
 
 > Every project should start by identifying the organizational goals that the product or service is intended to meet.
 
@@ -53,7 +53,7 @@ Examples of organizational goals might look something like:
 
 In Ted's case, the biggest organizational goal he missed was “reduce the amount of work for the Sales team.” What he’d actually done was create more work for them. To say that this was an unpopular realization is, shall we say, an understatement.
 
-## Make Money-Money 
+## Make Money-Money
 
 > The goals you identify early in the game will provide important guideposts as your research, prototypes, and iterations invariably start to change the scope and drive of your project.
 
@@ -69,7 +69,7 @@ It’s tempting to generalize. It is important, however, to call these objective
 
 **Just as important:** Make sure that you get stakeholder buy-in on these goals before you soldier down the path to user-centered nirvana. Ask the questions, “Why are we making this product? What objectives are we as a company hoping to achieve?” Ask your highest-level stakeholders. Write the answers down. Refer to them often.
 
-## The Organization Is a User  
+## The Organization Is a User 
 
 > The user interface doesn’t stop at a Web page or fancy online form or buttons on a remote control. It exists anywhere that users will interface with the product or process.
 
@@ -81,5 +81,5 @@ When designing a product, it is important to remember that there is more to it t
 
 With that in mind, it is critical to remember that your organizational objectives and business goals need as much TLC as your user needs. It’s a yin-yang situation: both sides coming together to form a whole.
 
-[1]: https://twitter.com/mbloomstein "Margot Bloomstein on Twitter"
-[2]: http://appropriateinc.com/book/ "Content Strategy at Work, by Margot Bloomstein"
+[1]:	https://twitter.com/mbloomstein "Margot Bloomstein on Twitter"
+[2]:	http://appropriateinc.com/book/ "Content Strategy at Work, by Margot Bloomstein"

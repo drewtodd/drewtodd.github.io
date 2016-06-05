@@ -8,7 +8,7 @@ photo-credit: enterlinedesign
 photo-credit-url: "http://www.shutterstock.com/gallery-1445165p1.html"
 photo-credit-alt: "enterlinedesign's Porfolio - Shutterstock"
 tags:
-    - UX
+ - UX
 ---
 
 # The UX Triple-Constraint
@@ -56,6 +56,4 @@ Remove complexity. Sometimes, the best way to address the issue is to defer a bu
 ## A Model Comparison
 While comparing the relationship between time, complexity, and the user experience with those of the traditional triple constraint may not be perfectly analogous, the give-and-take represented in both models is strikingly similar. It is an interesting comparison. When working on products where time and complexity are at odds, the UX triple constraint provides a handy means for framing your case for the user.
 
-[1]: http://en.wikipedia.org/wiki/Project_management_triangle "The Project Management Triangle - Wikipedia"
-
-[2]: http://www.shutterstock.com/gallery-1445165p1.html "enterlinedesign's Porfolio - Shutterstock"
+[1]:	http://en.wikipedia.org/wiki/Project_management_triangle "The Project Management Triangle - Wikipedia"
