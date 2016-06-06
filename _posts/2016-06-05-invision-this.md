@@ -15,13 +15,13 @@ tags:
 
 ## So much more than fancy screenshots
 
-### 3 minute read
+### 2 &frac12; minute read
 
 As you’ve probably gathered if you’ve been following along, we spend a lot of time [talking][1] [about][2] [tools][3]. In some cases, too much time. Tools, after all, don’t make the craftsman. But after a couple of weeks using [InVision.app][4] for a project of some complexity, I’d have to say: Wow.
 
 I’ve been aware of InVision for awhile, but always thought of it as a fancy presentation tool (which it is) and nothing more (which it isn’t). You do all the real design work in another tool like Sketch, Illustrator, or Photoshop, right? Well, yeah, but…
 
-## Dat UI tho
+## More usable
 
 Astute UXers who have done any prototyping will probably point to [Axure][5] as *the* tool for building complex user interface prototypes without the need to code. And Axure is where I started my journey for this project. This was the one that I was going to finally invest the time in, to finally get over the Axure learning curve and start using it as god intended.
 
