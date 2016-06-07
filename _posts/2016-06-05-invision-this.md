@@ -13,7 +13,7 @@ tags:
 
 # InVision This
 
-## So much more than fancy screenshots
+## Much more than fancy screenshots
 
 ### 2 &frac12; minute read
 
@@ -27,7 +27,7 @@ Astute UXers who have done any prototyping will probably point to [Axure][5] as 
 
 Truth be told, I just couldn’t get into it.
 
-While the bottom line is that Axure packs a ton of functionality into a client-side tool, its arcane UI and workflow left me cold. InVision, on the other hand, had me productive in a few minutes. And the way their help documentation explains the tool is as [straight ahead][6] as Wayne Shorter meets Herbie Hancock. Even though it was my first project, I never felt like I was dealing with a learning curve. And every corner I turned in the app surprised me with another “you can *do* that?” moment of existential coolness. The fact that it produces visually stunning results doesn’t hurt either.
+While the bottom line is that Axure packs a ton of functionality into a client-side tool, its arcane UI and workflow left me cold. InVision, on the other hand, had me productive in a few minutes. And the way their help documentation explains the tool is as [straight ahead][6] as Wayne Shorter meets Herbie Hancock. Even though it was my first project, I never felt like I was dealing with a learning curve. Every corner I turned in the app surprised me with another “you can *do* that?” moment of existential coolness. The fact that it produces visually stunning results doesn’t hurt either.
 
 ## Workflow-friendly
 
