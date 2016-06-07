@@ -43,9 +43,7 @@ When it comes time to get feedback from clients and stakeholders, InVision’s t
 
 ## The right tool
 
-Can you do more with Axure than InVision? Certainly. Can you do *enough* with InVision to get your point across quickly, conveniently, and effectively? Definitely. InVision wins because it meets the minimum viable product criteria for UI wire framing and prototyping. Until I get to a point where InVision doesn’t meet my needs, I’m pretty much sold on it.
-
-You can go see what all the fuss is about by [checking out the wireframes in question][8], first-hand.
+Can you do more with Axure than InVision? Certainly. Can you do *enough* with InVision to get your point across quickly, conveniently, and effectively? Definitely. InVision wins because it meets the minimum viable product criteria for UI wire framing and prototyping. Until I get to a point where InVision doesn’t meet my needs, I’m pretty much sold on it. You can go see what all the fuss is about by [checking out the wireframes in question][8], first-hand.
 
 [1]:	/omg-cms
 [2]:	know-your-tools
