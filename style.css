@@ -62,7 +62,7 @@ p{
     padding-bottom: .5em;
 }
 
-.entry p:first-of-type {
+h1:first-of-type + p, h2:first-of-type + p, h3:first-of-type + p {
     padding-top: 2em;
 }
 
