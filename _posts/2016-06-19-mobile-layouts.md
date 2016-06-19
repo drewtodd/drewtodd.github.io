@@ -56,7 +56,7 @@ Just going by what my eye told me, these panel divisions were going to work.
 <img src="/img/iphone-layout-screens-2.png" class="floatcenter"/>
 *Using the initial 16:9 panel, I divided into equal segments to create additional sized panels, ultimately ending up with a 35 pixel high row as the foundation*
 
-What I've actually done, when all is said and done, is create a horizontal grid for 9:16 screens that breaks down into 18 rows. All elements on the screen should match the height of 1 or more rows combined.
+What I've actually achieved, when all is said and done, is create a horizontal grid for 9:16 screens that breaks down into 18 rows. All elements on the screen should match the height of 1 or more rows combined.
 
 The layout below shows these blocks in action. Sample screens for the prototype I'm working on (these aren't the real screens, I'm just creating all of the elements in Sketch and making the symbol library for the prototype). As you can see, though, all of the block elements are sized using the 16:9 concept: Large heroesque panels are built on 6-row 16:9 panels, text input fields are 4 rows high, spacing between elements is 1 row (35 pixels). It's white-spacey, but I like that. It equates to [harmonious design][4]: All of the structural elements on the screen relate to and complement each other.
 
