@@ -29,109 +29,69 @@
 
     
     <p class="feature-image">
-        <img src="/img/microphones.jpg" alt="“Microphones”" title="“Microphones”" />
+        <img src="/img/ruler-light.jpg" alt="Close-up of metal ruler - Photo credit: Janaka Dharmasena" title="Close-up of metal ruler - Photo credit: Janaka Dharmasena" />
         
-        <em>Photo credit: <a href="http://www.shutterstock.com/gallery-922805p1.html" title="BrAt82’s Porfolio - Shutterstock">BrAt82</a></em>
+        <em>Photo credit: <a href="http://www.shutterstock.com/gallery-84550p1.html" title="Janaka Dharmasena's portfolio on Shutterstock">Janaka Dharmasena</a></em>
         
     </p>
     
 
-    <h1 id="critique">Critique</h1>
+    <h1 id="measure-twice-cut-once">Measure Twice, Cut Once</h1>
 
-<h2 id="when-having-your-back-means-shooting-you-down">When having your back means shooting you down</h2>
+<h2 id="creating-a-reusable-layout-system-for-mobile">Creating a reusable layout system for mobile</h2>
 
-<h3 id="minute-read">5 minute read</h3>
+<h3 id="frac12-minute-read">2 ½ minute read</h3>
 
-<p>I’ve got a good team.</p>
+<p>So, while slugging it out in the trenches this week, I sort of fell into an existential crisis with regards to the stuff I was putting on the screen of a mobile prototype. Panels, images, buttons, text fields… the sizing and positioning of these things all suddenly seemed so arbitrary. How can you defend a design decision if you can’t explain why the thing on the screen looks like it does?</p>
 
-<p>I know this not because my team is talented; not because they wield terrifying text editors and pixel manipulators with the deftness of a Mayo Clinic surgeon (although they most certainly do). I know this because they are good at critique. </p>
+<p>I go through this a lot. The thought-process of <em>defending a design decision</em>. Design is relatively subjective on the surface of it; qualitative in nature. A lot of it falls to aesthetics and personal opinions. So how do you <em>know</em> that a design decision is any good? Or objectively better than another decision?</p>
 
-<p>They are able to look at something — a design, concept, prototype — with a critical eye. To communicate their thoughts and opinions honestly and without agenda.</p>
+<p>This is the stuff that bounces around my noggin at 3 AM, when the sleeps take their leave of me.</p>
 
-<h2 id="adults-and-professionals">Adults and professionals</h2>
+<p>But in this case, the question at hand was, how do you go about making an orderly screen layout (in this case, for a mobile phone in portrait display)? With this dilemma firmly in mind, I took to the Slacks to ask my fellow designers if they knew of any best practices, agreed upon norms, or handy rules of thumb I might employ:</p>
 
-<p>There have been lots of articles written on <a href="http://www.aiga.org/how-to-give-receive-design-critique/" title="How to give and receive a good design critique">how to give a good critique</a>, and most of them  focus on sparing someone’s feelings. The old “critique sandwich” of wrapping your stinky cheese of a criticism between a couple of fluffy, feel-good observations:</p>
+<p><img src="/img/slack-scale-elments.png" class="floatcenter" /></p>
 
-<p>“<strong>I like that you <em>X</em> in this scenario, but I think <em>Y</em> doesn’t make any sense and should be expunged from the design; oh… and nice <em>Z</em>.</strong>”</p>
+<p>I got a lot of good feedback. Everything from “don’t worry about it too much,” to suggestions of <a href="https://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/">grids</a>, to references to some really good online <a href="https://material.google.com/components/cards.html#cards-content">style guides</a>. Most folks had a system down for websites, but hadn’t really messed with grids on mobile. It got me thinking some more, so I fired up Sketch and started playing around.</p>
 
-<p>This is unnecessary crap. <a href="#about-those-sandwiches" title="...most of the time.">*</a></p>
+<h2 id="section">16:9</h2>
 
-<p>If something works and it’s worth noting, then say so. But don’t waste time burnishing someone else’s ego. It’s unproductive at best and condescending at worst.</p>
+<p>The first thing I observed was that iPhone and Android phones all (mostly) have screens that are sized to a 16:9 aspect ratio (actually a 9:16 ratio in portrait mode – for every 9 horizontal pixels, there are 16 vertical pixels), which is a ratio of 1.7778. This is <em>de rigeuer</em> in the AV industry for high-definition displays. This was handy. So I wondered if I created a 16:9 box and put it on a 9:16 screen, what I’d get. I created a new artboard, sized for an iPhone 6 (375 x 667 pixels) and dropped a 375 x 210 pixel box on it (yep, 375 x 210 is a 16:9 aspect ratio).</p>
 
-<p>By the same token, if something <em>doesn’t</em> work, say so. Be direct about it. Blunt, even. And be prepared to discuss and defend your observation in a civil and professional manner with your colleagues. </p>
+<p>It looked to me like that box took up about 1/3 of the screen. This was also handy. <a href="http://www.companyfolders.com/blog/rule-of-thirds-graphic-design">The rule of thirds</a> is a common visual maxim applied in design. I could work with this.</p>
 
-<p>Your team should walk into any design review with a few basic maxims understood to be givens:</p>
+<p>Going further I dropped three 16:9 boxes on the screen and found that I had a little space left over. 37 pixels, to be exact. I was sad at first that there wasn’t some divine equilibrium that I was about to discover (and at this stage, I should point out that I’ve never been a math genius); some quasi-<a href="http://www.hongkiat.com/blog/golden-ratio-in-moden-designs/">golden ratio</a> perfection that would add up to a magical “Om” in the aggregate.</p>
 
-<ol>
-  <li>We’re all adults here</li>
-  <li>We’re all professionals here</li>
-  <li>We’re all on the same team here</li>
-  <li>We all have the same ultimate goal and</li>
-  <li>We all respect each other; nothing that goes down in here is personal</li>
-</ol>
+<p>Those leftover 37 pixels bugged me at first. But then I realized that perfection wasn’t what I was after; <em>practicality</em> was. And those 37 pixels. If I moved them to the top of the screen, they kind of looked like… a title bar.</p>
 
-<p>Let’s call these the <strong>Five Maxims of Critique</strong>, and that last one is the key. Respect among team members is vital. Any personal issues that might exist between the Dev and the Designer; the BA and the stakeholder, all that gets left at the door. In fact, it helps to open sessions by reviewing these maxims with the team (out loud) before any critique gets started — especially if you’ve got some ego issues on your team.</p>
+<p>I can work with this.</p>
 
-<h2 id="trust">Trust</h2>
+<p><img src="/img/iphone-layout-screens-1.png" class="floatcenter" />
+<em>This kind of gives you a visual idea of what I was playing around with; trying to find some logic for creating sensible layouts.</em></p>
 
-<p>Trust is both a luxury and a necessity on design teams. Without it, you can’t do good work. Still, so many teams are crippled by an inherent lack of trust amongst their membership that the ultimate quality of their efforts is usually diminished.</p>
+<h2 id="reusable-blocks">Reusable blocks</h2>
 
-<p>So how do you establish trust?</p>
+<p>So my next trick was to figure out how to create standard sizes (or blocks) for elements on the screen.</p>
 
-<p>This is a topic that warrants its own article, but suffice to say a few key items will help smooth the path towards trust.</p>
+<p>Looking at the 16:9 panel, I noticed it was 210 pixels tall. Sticking with the rule of thirds, I divided it into three 70 pixel tall panels. Those looked pretty good for standard elements like text boxes and form elements. Dividing that in half, I got a 35 pixel tall row. That looked like a good amount of padding to put between items. Four-row panels, five-row panels… it was as easy as the <a href="http://getbootstrap.com/css/#grid">vertical</a> <a href="http://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html">grids</a> I’d used for website layouts.</p>
 
-<h3 id="communication">Communication</h3>
-<p>In my experience, nothing goes further toward building trust between team members than open, honest communication. Be clear with your comrades. Speak up. Don’t leave them having to do guesswork or make assumptions about your ideas, motives, and expectations.</p>
+<p>Just going by what my eye told me, these panel divisions were going to work.</p>
 
-<h3 id="humility">Humility</h3>
-<p>Check that attitude. Maybe you <em>are</em> better than everyone else on the team but, face facts: The sum is always greater than any individual. Babe Ruth agains nine other guys would have lost every time. </p>
+<p><img src="/img/iphone-layout-screens-2.png" class="floatcenter" />
+<em>Using the initial 16:9 panel, I divided into equal segments to create additional sized panels, ultimately ending up with a 35 pixel high row as the foundation</em></p>
 
-<p>The bottom line is that you are creating something in the aggregate, with a team. The team was assembled to take advantage of each others’ strengths (that’s the hope, anyway). Look for opportunities to work with others and better yourself — and the product — in the process.</p>
+<p>What I’ve actually done, when all is said and done, is create a horizontal grid for 9:16 screens that breaks down into 18 rows. All elements on the screen should match the height of 1 or more rows combined.</p>
 
-<h3 id="rogues">Rogues</h3>
-<p>So… you’re humble. Cool. How do you deal with those on your team who are, shall we say, less than so? The grim reality is that sometimes you get a dud. Someone’s on your team and they’re narcissistic. Maybe they lack the skills they need to do their job. Perhaps they grossly over-estimate their capabilities. Or they lack social skills altogether. Maybe <em>you</em> are the problem and can’t get over the nepotism or who-knows-what that landed you with this (or these) horrible examples of team members. </p>
+<p>The layout below shows these blocks in action. Sample screens for the prototype I’m working on (these aren’t the real screens, I’m just creating all of the elements in Sketch and making the symbol library for the prototype). As you can see, though, all of the block elements are sized using the 16:9 concept: Large heroesque panels are built on 6-row 16:9 panels, text input fields are 4 rows high, spacing between elements is 1 row (35 pixels). It’s white-spacey, but I like that. It equates to <a href="http://www.educ.kent.edu/community/VLO/Design/principles/harmony/index.html">harmonious design</a>: All of the structural elements on the screen relate to and complement each other.</p>
 
-<p>You need to take the high road.</p>
+<p><img src="/img/lmb-concepts.png" class="floatcenter" />
+<em>These screens show how the block elements might be used in a real-world scenario</em></p>
 
-<p><a href="https://en.wikipedia.org/wiki/Sting_(musician)" title="It's Sting, yo...">Gordon Sumner</a> famously observed that “<a href="https://www.youtube.com/watch?v=DAtc9mlX72Q" title="Have some culture, while you're here...">when the world is running down</a>, you make the best of what’s still around.” This is, lamentably, at least 50% of design work. In <em>so</em> many different ways. You’re never working with a perfect scenario; a perfect client; a perfect team. Deal with it. A good designer — a good teammate — acknowledges this and looks for ways to move forward in spite.</p>
+<h2 id="more-work-to-do">More work to do</h2>
 
-<p>So your boss stuck you with his brother-in-law as the BA the for the project, and he’s more interested in naps; breaks; surfing shall-we-say, less than appropriate internet content from his windswept and exposed cubicle?</p>
+<p>This is not a magic bullet, and there is still a lot of work to be done (I haven’t even addressed vertical spacing, which I pretty much eyeballed), but it’s a start. And it gives me something to work with when creating wireframes or prototypes. It also gives me some ammo when discussing <em>why</em> certain things look the way they do on the screen. Why I chose to put them where I did. It’s a nice, simple framework that maybe I’ll continue to play with and develop.</p>
 
-<p>Sucks. </p>
-
-<p>We’ve all been there in one respect or another. You need to do your best with what you’ve got and work to move the project forward. It’s called being a professional. </p>
-
-<h3 id="about-those-sandwiches">About those sandwiches</h3>
-
-<p>I should also point out that I was a bit unfair in my assessment of the “critique sandwich,” earlier. This concept — and other critique techniques like it — were created for a reason, and the rogues are it. </p>
-
-<p>In most cases, you don’t need to worry about coddling someone’s ego. You can speak candidly with your teammates and vice-versa. When you’re dealing with the rogues of the world, these “tricks” and “techniques” are often necessary to move forward. Use them if you have to. Proceed without them if you’re fortunate enough to have established a team rapport that doesn’t need them.</p>
-
-<h2 id="hit-me">Hit me</h2>
-
-<p>I know you’ve poured your life’s blood into this iteration, and you feel like it is something special; a child. But you need to let that go and seek others’ feedback. </p>
-
-<p>You have to be able to take the hits. In fact, you have to want them; solicit them. Design review is the time for the gloves to come off. Ask you teammates for their critique. Explore what doesn’t work. Insist on brutal honesty. If you feel that you’re getting the ego treatment, call them on it and remind them that you’re all there to improve the product at hand; not ooh and ahh over it.</p>
-
-<h2 id="walk-away">Walk away</h2>
-
-<p>In some cases, you may feel so strongly about an observation or criticism that it becomes personal; a conviction. Please refer to <strong>Maxim #5</strong>: Drop the personal.</p>
-
-<p>We’ve all seen this in sessions, where someone (maybe it was you) disagrees on that <em>one</em> design problem while the rest of the team is ready to move on.</p>
-
-<p>You have to be able to let it go.</p>
-
-<p>Sometimes you’ll recognize it and call yourself on it. Sometimes someone else will call you on it. The bottom line is, if it’s you, you have to accept it and move on. Some battles are won and some are lost. Accept this and work with the team (you trust them, right?).</p>
-
-<h2 id="remember-this">Remember this</h2>
-
-<p>Every project you work on, no matter how seemingly insignificant, is an opportunity for growth. It’s also a testament to your efforts and abilities. And working on a team is something that we’re all going to have to do in some form for as long as we’re in this crazy racket.</p>
-
-<p>Make it count.</p>
-
-<p>Build camaraderie with your team. Build trust. Speak honestly and without agenda. Work with your team to establish a culture of open and constructive critique and you’ll find that the quality of your work reflects this. And you’ll look around, and you’ll observe: </p>
-
-<p>This is a good team.</p>
+<p>If you’ve got thoughts or feedback, I’d love to hear it.</p>
 
 
 
@@ -144,6 +104,11 @@
 
 
     <div class="featured-post">
+    <p><a href="/critique" title="Critique"><img src="/img/microphones.jpg" title="“Microphones”" alt=" “Microphones”" /></a></p>
+    <h4><a href="/critique" title="Critique">Critique</a></h4>
+    </div>
+
+    <div class="featured-post">
     <p><a href="/invision-this" title="InVision This"><img src="/img/invision-app.jpg" title="“InVision.app screenshot”" alt=" “InVision.app screenshot”" /></a></p>
     <h4><a href="/invision-this" title="InVision This">InVision This</a></h4>
     </div>
@@ -151,11 +116,6 @@
     <div class="featured-post">
     <p><a href="/fidelity" title="Fidelity"><img src="/img/vinyl-lp.jpg" title="Vinly LP - Photo credit: AngeloDeVal" alt=" Vinly LP - Photo credit: AngeloDeVal" /></a></p>
     <h4><a href="/fidelity" title="Fidelity">Fidelity</a></h4>
-    </div>
-
-    <div class="featured-post">
-    <p><a href="/know-your-tools" title="Know Your Tools"><img src="/img/more-tools.jpg" title="Tools - Photo credit: Jeff Bullas" alt=" Tools - Photo credit: Jeff Bullas" /></a></p>
-    <h4><a href="/know-your-tools" title="Know Your Tools">Know Your Tools</a></h4>
     </div>
 
 </section>

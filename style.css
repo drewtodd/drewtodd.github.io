@@ -98,6 +98,11 @@ img + em {
     font-size: .75em;
 }
 
+img.floatcenter + em {
+    text-align: center;
+    margin: auto;
+}
+
 /*subtitle*/
 h1 + h2 {
     margin-top: -1em;
@@ -402,6 +407,13 @@ footer {
         margin: 0 0 1em 1em;
         padding: 1em;
         width: 33%;
+    }
+
+    img.floatcenter {
+        display: block;
+        width: auto;
+        float: none;
+        margin: auto;
     }
 
     /*
