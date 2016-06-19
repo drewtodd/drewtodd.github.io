@@ -16,7 +16,7 @@ tags:
 
 ## Creating a reusable layout system for mobile
 
-### 2 &frac12; minute read
+### 4 &frac12; minute read
 
 So, while slugging it out in the trenches this week, I sort of fell into an existential crisis with regards to the stuff I was putting on the screen of a mobile prototype. Panels, images, buttons, text fields... the sizing and positioning of these things all suddenly seemed so arbitrary. How can you defend a design decision if you can't explain why the thing on the screen looks like it does?
 
