@@ -22,7 +22,7 @@ So, while slugging it out in the trenches this week, I sort of fell into an exis
 
 I go through this a lot. The thought-process of *defending a design decision*. Design is relatively subjective on the surface of it; qualitative in nature. A lot of it falls to aesthetics and personal opinions. So how do you *know* that a design decision is any good? Or objectively better than another decision?
 
-This is the stuff that bounces around my noggin at 3 AM, when the sleeps take their leave of me.
+This is the stuff that bounces around my noggin at 3 AM, when the sleep takes its leave of me.
 
 But in this case, the question at hand was, how do you go about making an orderly screen layout (in this case, for a mobile phone in portrait display)? With this dilemma firmly in mind, I took to the Slacks to ask my fellow designers if they knew of any best practices, agreed upon norms, or handy rules of thumb I might employ:
 
