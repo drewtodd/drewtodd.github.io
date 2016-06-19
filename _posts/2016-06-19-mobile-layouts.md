@@ -1,5 +1,5 @@
 ---
-title: TitleGoesHere
+title: Measure Twice, Cut Once
 layout: post
 permalink: /mobile-layouts
 photo-url: /img/ruler-light.jpg
