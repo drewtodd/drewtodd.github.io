@@ -27,7 +27,7 @@ This is the stuff that bounces around my noggin at 3 AM, when [the sleeps][8] ta
 
 In this case, the question at hand was: How do you go about making an orderly screen layout (specifically, for a mobile phone in portrait display)? With this dilemma firmly in mind, I took to the Slack to ask my fellow designers if they knew of any best practices, agreed upon norms, or handy rules of thumb I might employ:
 
-<img src="/img/slack-scale-elments.png" class="floatcenter" alt="Crazy question for you legit designers out there. When you design elements for screens (say, a mobile screen - iPhone), do you take into account scaling and proportion? Like… do you calculate optimal sizes for items based on screen real estate? Do you work on a grid?"/>
+<a href="/img/slack-scale-elments.png" target="_blank" alt="View this image, full-size, in a new tab"><img src="/img/slack-scale-elments.png" class="floatcenter" alt="Crazy question for you legit designers out there. When you design elements for screens (say, a mobile screen - iPhone), do you take into account scaling and proportion? Like… do you calculate optimal sizes for items based on screen real estate? Do you work on a grid?"/></a>
 
 I got a lot of good feedback. Everything from "don't worry about it too much," to [grids][7], to references to some really good online [style guides][1]. Most folks had a system down for websites, but hadn't really messed with grids on mobile. It got me thinking some more, so I fired up Sketch and started playing around.
 
@@ -43,8 +43,8 @@ Those leftover 37 pixels bugged me at first. But then I realized that perfection
 
 I could work with this.
 
-<img src="/img/iphone-layout-screens-1.png" class="floatcenter"/>
-*This kind of gives you a visual idea of what I was playing around with; trying to find some logic for creating sensible layouts.*
+<a href="/img/iphone-layout-screens-1.png" target="_blank" alt="View this image, full-size, in a new tab" class="noline"><img src="/img/iphone-layout-screens-1.png" class="floatcenter"/>
+*This kind of gives you a visual idea of what I was playing around with; trying to find some logic for creating sensible layouts.*</a>
 
 ## Reusable blocks
 
@@ -54,15 +54,15 @@ The 16:9 panel is 210 pixels tall. Sticking with the rule of thirds, I divided i
 
 Just going by what my eye told me, these panel divisions were going to work.
 
-<img src="/img/iphone-layout-screens-2.png" class="floatcenter"/>
-*Using the initial 16:9 panel, I divided into equal segments to create additional sized panels, ultimately ending up with a 35 pixel high row as the foundation*
+<a href="/img/iphone-layout-screens-2.png" target="_blank" alt="View this image, full-size, in a new tab" class="noline"><img src="/img/iphone-layout-screens-2.png" class="floatcenter"/>
+*Using the initial 16:9 panel, I divided into equal segments to create additional sized panels, ultimately ending up with a 35 pixel high row as the foundation*</a>
 
 What I've actually achieved, when all is said and done, is to create a horizontal grid for 9:16 screens that breaks down into 18 rows. All elements on the screen should match the height of 1 or more rows combined.
 
 The layout below shows these blocks in action. Sample screens for a prototype I'm working on (these aren't the real screens, I'm just creating all of the elements in Sketch and making the symbol library for the prototype). As you can see, all of the block elements are sized using the 16:9 concept: Large heroesque panels are built on 6-row 16:9 panels, text input fields are 4 rows high, spacing between elements is 1 row (35 pixels). It's white-spacey, but I like that. It equates to [harmonious design][4]: All of the structural elements on the screen relate to and complement each other.
 
-<img src="/img/lmb-concepts.png" class="floatcenter"/>
-*These screens show how the block elements might be used in a real-world scenario*
+<a href="/img/lmb-concepts.png" target="_blank" alt="View this image, full-size, in a new tab" class="noline"><img src="/img/lmb-concepts.png" class="floatcenter"/>
+*These screens show how the block elements might be used in a real-world scenario*</a>
 
 ## More work to do
 
