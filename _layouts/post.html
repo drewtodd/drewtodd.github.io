@@ -23,7 +23,11 @@ layout: default
     <div class="colophon">
     <p>Originally published {{ page.date | date: "%B %e, %Y" }}<br />
         {% if page.tags %}
-        File under: {{ page.tags | join: ', ' }}
+        File under: 
+            {% for tag in page.tags %}
+            <a href="/tags/{{tag}}" alt="Essays tagged {{tag}}">{{tag}}</a>{% if forloop.last == false %},
+                {% endif %}
+            {% endfor %}
         {% endif %}
     </p>
     </div>

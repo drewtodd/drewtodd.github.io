@@ -8,7 +8,7 @@ photo-credit: Henry Hargreaves
 photo-credit-url: "http://henryhargreaves.com/"
 photo-credit-alt: "Henry Hargreaves | Photographer"
 tags:
-    - Quotable
+    - quotable
 ---
 
 # The Best Thing for Being Sad

@@ -7,8 +7,9 @@ photo-title: “InVision.app screenshot”
 photo-credit: InVision
 photo-credit-url: http://www.invisionapp.com/
 tags:
-- UX
-- Tools
+- ux
+- tools
+- invision
 ---
 
 # InVision This

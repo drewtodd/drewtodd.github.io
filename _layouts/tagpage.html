@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% assign page.title = site.tags[page.tag] %}
+<section id="tagpage">
+
+    <p class="feature-image">
+        <img src="/img/tags.jpg" alt="Essays related to {{page.tag}}" />
+        <em>Photo credit: Yours truly</em>
+    </p>
+    
+    <h1>Tagged: {{ page.tag }}</h1>
+
+    <ul class="tagged">
+    {% for post in site.tags[page.tag] %}
+        <li>
+            <span class="tagged-post-date"><time>{{ post.date | date:"%d %b %y" }}</time></span> <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+</section>

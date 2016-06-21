@@ -336,9 +336,8 @@ content: none;
 ul.past li, ul.this li {
     list-style-type: none;
     padding-left: 4em;
-    text-indent: -3.8em;
+    text-indent: -4em;
     margin-top: 1em;
-
 }
 
 ul.past, ul.this {
@@ -350,8 +349,30 @@ ul.past .archive-post-date, ul.this .archive-post-date {
     font-weight: 400;
     font-size: 1em;
     line-height: 1.5em;
+    padding-right: 1.2em;
     color: #444;
-    padding-right: 1em;    
+}
+
+
+/*hanging indents for tag pages*/
+ul.tagged li {
+    list-style-type: none;
+    padding-left: 6em;
+    text-indent: -6em;
+    margin-top: 1em;
+}
+
+ul.tagged {
+    padding-left: 0;
+}
+
+.tagged-post-date {
+    font-family: "Oswald", Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 1.5em;
+    padding-right: 2.2em;
+    color: #444;
 }
 
 footer {
