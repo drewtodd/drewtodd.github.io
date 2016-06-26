@@ -113,9 +113,20 @@ tags:
 
 ## An App for Parents
 
-## Summary & Project Goals
+Lunch Money Buddy is an application developed as part of the [Kent State University Masters in User Experience Design][1] program. The app is described as allowing parents and guardians of school age children to manage various aspects of their kids’ in-school cafeteria lunch accounts.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## The Problem
+
+Any parent can relate to sending their kids to school with a few dollars lunch money and finding it later in a backpack. Picky eaters drive parents crazy trying to keep track of what is being served at school on any given day. Health concious moms and dads want to keep tabs on their kids' eating habits while at school. Lunch Money Buddy aims to solve all of these challenges in a convenient, easy-to-use mobile application.
+
+Key features of the app include:
+
+- Keeping track of each kid's **account balance**
+- **Managing funds and payments** for kids' lunch money
+- **Viewing upcoming menu** options
+- **Indicating "favorite" meals** for each child in the account
+
+While user research was provided at the beginning of the project, I designed and developed all other assets and deliverables.
 
 <p class="filler-background">
     <img src="/img/lmb/placeit3.jpg" class="floatcenter" />
@@ -212,3 +223,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <!-- Lessons learned go here -->
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[1]: https://www.kent.edu/slis/uxd

@@ -464,7 +464,7 @@ footer {
     }
 
     .filler-background {
-        margin: 0;
+        margin: 1.5em 0em 1.5em 0em;
         padding: 0;
         border: 0;
         background-color: #555;
