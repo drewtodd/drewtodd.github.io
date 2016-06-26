@@ -113,11 +113,11 @@ tags:
 
 ## An App for Parents
 
-Lunch Money Buddy is an application developed as part of the [Kent State University Masters in User Experience Design][1] program. The app is described as allowing parents and guardians of school age children to manage various aspects of their kids’ in-school cafeteria lunch accounts.
+Lunch Money Buddy is an application developed as part of the [Kent State University Masters in User Experience Design][1] curriculum. The app allows parents and guardians of school age children to manage various aspects of their kids’ in-school cafeteria lunch accounts.
 
 ## The Problem
 
-Any parent can relate to sending their kids to school with a few dollars lunch money and finding it later in a backpack. Picky eaters drive parents crazy trying to keep track of what is being served at school on any given day. Health concious moms and dads want to keep tabs on their kids' eating habits while at school. Lunch Money Buddy aims to solve all of these challenges in a convenient, easy-to-use mobile application.
+Any parent can relate to sending their kids to school with a few dollars lunch money and finding it later in a backpack or the laundry. Picky eaters drive parents crazy trying to keep track of what is being served at school on any given day. Health concious moms and dads want to keep tabs on their kids' eating habits while at school. Lunch Money Buddy aims to solve all of these challenges in a convenient, easy-to-use mobile application.
 
 Key features of the app include:
 
@@ -133,7 +133,7 @@ While user research was provided at the beginning of the project, I designed and
     <img src="/img/lmb/placeit3.jpg" class="floatcenter" />
 </p>
 
-## Deliverables
+## Project Deliverables
 
 <!-- Demo cards -->
 <section class="gallery" lang="en">
@@ -175,9 +175,11 @@ While user research was provided at the beginning of the project, I designed and
   </figure>
 </section>
 
+<em class="img-caption">Click to jump to a section</em>
+
 ## The Process: Design, Validate, Iterate
 
-The overall process can be broken down into a few overarching activities:
+The overall design process can be broken down into a few overarching activities:
 
 - **Explore the user needs and workflows** with personas, scenarios and journey maps
 - **Map an app structure** to those needs and workflows in the form of an app map
@@ -212,7 +214,7 @@ Scenarios and journey maps were derived using the personas. They explored the ne
 
 **Tool of choice: Omnigraffle**
 
-From the workflows and scenarios, primary activities were identified and an "app map" (similar in concept to the site maps used in website design) for the application was created. This illustrates the architecture of the application.
+From the workflows and scenarios, primary activities were identified and an "app map" for the application was created with [Omnigraffle][11] (similar in concept to the site maps used in website design). This illustrates the architecture of the application.
 
 All of these deliverables are **living documents** that are updated and modified as our understanding of the users' needs becomes more clear. The app map is great example of this, going through several iterations as each new deliverable was created; continually being refined and honed. 
 
@@ -239,7 +241,7 @@ For the prototype, higher fidelity screens were created and more focus was given
 <a href="/img/lmb/proto-screens.png" target="_blank" class="noline"><img src="/img/lmb/proto-screens-cropped.png" class="floatcenter" />
 *Examples of prototype screens created in Sketch (click to view the whole thing)*</a>
 
-The whole thing was laid out in Sketch and imported into InVision for peer review and user testing. This proved to be a very potent pairing [which I would recommend][4] to any app designers looking for a nice tradeoff between simplicity and basic features.
+The whole thing was laid out in [Sketch][9] and imported into [InVision][10] for peer review and user testing. This proved to be a very potent pairing [which I would recommend][4] to any app designers looking for a nice tradeoff between simplicity and basic features.
 
 <a href="/img/lmb/sketch.png" target="_blank" class="noline"><img src="/img/lmb/sketch.png" class="floatcenter" />
 *All of the screens laid out in Sketch  (click to view actual size)*</a>
@@ -272,3 +274,6 @@ At the end of the day, Lunch Money Buddy is an app that provides a valuable serv
 [6]: /critique "Read more about my thoughts on critique here"
 [7]: /know-your-tools "Read more about my thoughts an establish toolkit here"
 [8]: /mobile-layouts "Read more about the 16:9 frameword I developed for this project here"
+[9]: http://www.sketchapp.com/
+[10]: http://www.invisionapp.com/
+[11]: https://www.omnigroup.com/omnigraffle
