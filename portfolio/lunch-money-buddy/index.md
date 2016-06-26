@@ -175,7 +175,7 @@ While user research was provided at the beginning of the project, I designed and
   </figure>
 </section>
 
-<em class="img-caption">Click to jump to a section</em>
+<em class="img-caption">Click a panel to jump to that section</em>
 
 ## The Process: Design, Validate, Iterate
 
