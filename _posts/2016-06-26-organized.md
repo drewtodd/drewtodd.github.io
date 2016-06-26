@@ -48,6 +48,8 @@ Another maxim from the kitchen biz is “clean as you go.” Wash that bowl when
 
 The same concept applies with design. Clean as you go. It’s a pain and somewhat inconvenient, but make it a habit to name elements something logical when you create them. Occasionally take breaks to look at your organization structure from a high level. Does it make sense? Does it need tweaking? Do it now. Save procrastination for later.
 
+<div class="filler-background"><a href="/img/pixiden-psd.png"><img src="/img/pixiden-psd.jpg" class="floatcenter" /></a></div><em class="img-caption">Nicely done, Pixiden!</em>
+
 By keeping things organized while you work, you’ll elevate the outcome of your efforts from amateur to pro. It’s completing the job. It’s doing good work.
 
 You do good work, right?
