@@ -16,7 +16,7 @@ tags:
 
 ### 2&frac12; minute read
 
-Look. What your workspace looks like when you go home for the day is your business. It’s your space and you need to be comfortable and able to get stuff done. Maybe it’s a minimalist nirvana; clean and cool and white. Maybe it’s a nest of papers, books, half-empty soda cups… whatever works for you. But your *work* should reflect a clean orderliness; an underlying structure that reflects the beauty of the surface design.
+Look. What your workspace looks like when you go home for the day is your business. It’s your space and you need to be comfortable and able to get stuff done. Maybe it’s a minimalist nirvana; clean and cool and white. Maybe it’s a nest of papers, books, half-empty soda cans… whatever works for you. But your *work* should reflect a clean orderliness; an underlying structure that reflects the beauty of the surface design.
 
 It’s like a kitchen. You’ve got to break some eggs if you’re going to bake a cake, right? Flour was made to get all over the place. Splatters: they happen. Messy workspaces are an unavoidable reality and a necessity for productivity. But when the chef goes home for the day — a pro chef — that kitchen is spotless.
 
