@@ -248,8 +248,8 @@ The whole thing was laid out in Sketch and imported into InVision for peer revie
 
 You can [check out the prototype of this application][3] on InVision, where you’ll also find a guided tour with notes and further app details. 
 
-<a href="/img/lmb/intro-screen.png" target="_blank" class="noline"><img src="/img/lmb/intro-screen.png" class="floatcenter" />
-*Lunch Money Buddy come to quasi-life with the InVision App (click to view actual size)*</a>
+<a href="https://invis.io/ZC7O5YTY5" target="_blank" class="noline"><img src="/img/lmb/intro-screen.png" class="floatcenter" />
+*Lunch Money Buddy come to quasi-life with the InVision App (click to view)*</a>
 
 ## Conclusion
 <!-- Lessons learned go here -->
