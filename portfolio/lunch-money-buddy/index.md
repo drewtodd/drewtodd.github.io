@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Andrew Todd's Portfolio - Lunch Money Buddy"
+title: Andrew Todd's Portfolio - Lunch Money Buddy
 photo-url: /img/lmb/lunch-money-buddy-iphone6.png
-photo-title: "Lunch Money Buddy - An app for parents"
+photo-title: Lunch Money Buddy - An app for parents
 photo-credit: Pixeden
-photo-credit-url: "http://www.pixeden.com"
-photo-credit-alt: "Image crafted with a handy template from Pixeden"
+photo-credit-url: http://www.pixeden.com
+photo-credit-alt: Image crafted with a handy template from Pixeden
 tags:
 - portfolio
 ---
@@ -124,6 +124,7 @@ Key features of the app include:
 - Keeping track of each kid's **account balance**
 - **Managing funds and payments** for kids' lunch money
 - **Viewing upcoming menu** options
+- **Viewing meal details** including nutritional information and dietary considerations
 - **Indicating "favorite" meals** for each child in the account
 
 While user research was provided at the beginning of the project, I designed and developed all other assets and deliverables.
@@ -185,6 +186,15 @@ The overall process can be broken down into a few overarching activities:
 
 Each activity followed a **Design** > **Validate** > **Iterate** process whereby initial design concepts were submitted for peer critique and review and then revised and updated based on feedback.
 
+### Design Principles
+
+Throughout the design process, I worked to adhere to some key design principles, based upon my understanding of the users and their needs:
+
+- **The Big Three** - Navigation is set up so that the three most important activity groups - *Favorites*, *Payments*, and *Menu* - are easily accessed from most screens
+- **One-handed Use** - One-handed use of the app was important, as busy parents would be accessing the app while on the go. As such, elements were designed to be forgiving to the inaccuracies of one-handed use.
+- **Legibility** - We went with relatively large text in the app as well, because we know that some of our users are older or may be using the app in situations where harsh lighting makes reading more difficult.
+- **Delightful Interaction** - This is an app that our parent personas use out of necessity, but that doesn’t mean that they shouldn’t enjoy using the app. Greater enjoyment will reap greater use of the app and greater traction for the school lunch money program in general.
+
 ### Personas
 
 Two personas were provided by the UX Researcher and included Samantha, a mother of two kids (Hailee and Brenden) and Henry, grandfather and primary caretaker of young Joe.
@@ -193,7 +203,7 @@ Two personas were provided by the UX Researcher and included Samantha, a mother 
 
 **Tool of choice: Omnigraffle**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Scenarios and journey maps were derived using the personas. They explored the needs of the users and how that translated to in-app activities. This helped illuminate and prioritize features.  
 
 <a href="/img/lmb/scenario.png" target="_blank" class="noline"><img src="/img/lmb/scenario-cropped.png" class="floatcenter" />
 *A sample scenario/journey map created from the personas and app requirements (click to view the whole thing)*</a>
@@ -202,7 +212,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 **Tool of choice: Omnigraffle**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+From the workflows and scenarios, primary activities were identified and an "app map" (similar in concept to the site maps used in website design) for the application was created. This illustrates the architecture of the application.
+
+All of these deliverables are **living documents** that are updated and modified as our understanding of the users' needs becomes more clear. The app map is great example of this, going through several iterations as each new deliverable was created; continually being refined and honed. 
 
 <a href="/img/lmb/appmap.png" target="_blank" class="noline"><img src="/img/lmb/appmap.png" class="floatcenter" />
 *Much like a sitemap used in website design, an appmap shows the overall structure of an app (click to view actual size)*</a>
@@ -211,7 +223,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 **Tool of choice: Sketch.app**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The app map was then implemented as a series of screens with basic interactions; focused around illustrating screen structure and navigation.
+
+Fidelity of these deliverables started relatively low and increased through multiple iterations. For the most part, however, they were all what I would consider [mid-level fidelity][2].
 
 <a href="/img/lmb/wireframes.png" target="_blank" class="noline"><img src="/img/lmb/wireframes-cropped.png" class="floatcenter" />
 *Examples of wireframing in Sketch  (click to view the whole thing)*</a>
@@ -220,23 +234,41 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 **Tools of choice: Sketch.app, InVision app**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For the prototype, higher fidelity screens were created and more focus was given to designing interactions.
 
 <a href="/img/lmb/proto-screens.png" target="_blank" class="noline"><img src="/img/lmb/proto-screens-cropped.png" class="floatcenter" />
 *Examples of prototype screens created in Sketch (click to view the whole thing)*</a>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The whole thing was laid out in Sketch and imported into InVision for peer review and user testing. This proved to be a very potent pairing [which I would recommend][4] to any app designers looking for a nice tradeoff between simplicity and basic features.
 
 <a href="/img/lmb/sketch.png" target="_blank" class="noline"><img src="/img/lmb/sketch.png" class="floatcenter" />
 *All of the screens laid out in Sketch  (click to view actual size)*</a>
 
 ## Results
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+You can [check out the prototype of this application][3] on InVision, where you’ll also find a guided tour with notes and further app details. 
+
+<a href="/img/lmb/intro-screen.png" target="_blank" class="noline"><img src="/img/lmb/intro-screen.png" class="floatcenter" />
+*Lunch Money Buddy come to quasi-life with the InVision App (click to view actual size)*</a>
 
 ## Conclusion
 <!-- Lessons learned go here -->
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This was a moderately sized project with many screens and interactions to keep track of. As such, a big takeaway was the importance of [working in an organized fashion][5]. Keeping track of all the parts can be daunting and good organizational skills quickly becomes just as important as good design skills.
+
+Also, the value of peer and user feedback was extremely important in producing a better product. The ability to [give and receive quality critiques][6] really pushed me and my fellow designers. The **Design** > **Validate** > **Iterate** process proved invaluable in improving the quality of the finished app.
+
+Finally, this project focused heavily on tools and process development. [Knowing my tools][7] and having (or in some cases developing) a solid kit of templates, typography, and assets really helped with productivity. I also spent a good amount of time developing [the 16:9 mobile app framework][7] that I used for this project; something that I'll continue to develop use again on other projects.
+
+At the end of the day, Lunch Money Buddy is an app that provides a valuable service to parents of kids who have to work school lunches into their already busy schedule.
+
+
 
 [1]: https://www.kent.edu/slis/uxd
+[2]: /fidelity "Read more about my thoughts on wireframes and fidelity here"
+[3]: https://invis.io/ZC7O5YTY5 "Lunch Money Buddy via InVision"
+[4]: /invision-this "Read more about my thoughts on InVision here"
+[5]: /organized "Read more about my thoughts on staying organized here"
+[6]: /critique "Read more about my thoughts on critique here"
+[7]: /know-your-tools "Read more about my thoughts an establish toolkit here"
+[8]: /mobile-layouts "Read more about the 16:9 frameword I developed for this project here"
