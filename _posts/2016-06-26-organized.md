@@ -40,7 +40,7 @@ Hell, that person might be you, months or years from now. Are you going to remem
 
 So, yeah, professional courtesy is a big reason for keeping things organized. But — and I think this is the most important reason to keep you stuff in order — it’s a matter of professional pride. You designed this. It’s got your name on it. Whether others are ever going to look under the hood or not, you wouldn’t half-ass the job would you? Of course you wouldn’t, you’re a pro.
 
-<div class="filler-background"><img src="/img/disorganized-sketch.png" class="floatcenter" /></div><em class="img-caption">Don't be that guy...</em>
+<div class="filler-background"><a href="/img/pixiden-psd.png"><img src="/img/pixiden-psd.jpg" class="floatcenter" /></a></div><em class="img-caption">Speaking of pro: nicely done, <a href="http://pixiden.com/">Pixiden</a>!</em>
 
 ## Clean as you go
 
@@ -48,7 +48,7 @@ Another maxim from the kitchen biz is “clean as you go.” Wash that bowl when
 
 The same concept applies with design. Clean as you go. It’s a pain and somewhat inconvenient, but make it a habit to name elements something logical when you create them. Occasionally take breaks to look at your organization structure from a high level. Does it make sense? Does it need tweaking? Do it now. Save procrastination for later.
 
-<div class="filler-background"><a href="/img/pixiden-psd.png"><img src="/img/pixiden-psd.jpg" class="floatcenter" /></a></div><em class="img-caption">Nicely done, Pixiden!</em>
+<div class="filler-background"><img src="/img/disorganized-sketch.png" class="floatcenter" /></div><em class="img-caption">Don't be that guy...</em>
 
 By keeping things organized while you work, you’ll elevate the outcome of your efforts from amateur to pro. It’s completing the job. It’s doing good work.
 
