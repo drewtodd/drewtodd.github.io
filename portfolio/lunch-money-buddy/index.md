@@ -29,7 +29,7 @@ tags:
         max-width: 100%;
         margin: 0 auto;
         padding-top: 0;
-        padding-bottom: 2em;
+        padding-bottom: 1em;
         padding-left: 0;
         padding-right: 0;
         border: 0;
@@ -47,6 +47,7 @@ tags:
         display: inline-block;
         position: relative;
         width: 25.5%;
+        min-height: 10em;
         margin-top: 1em;
         margin-bottom: 1em;
         margin-left: .5em;
@@ -106,9 +107,9 @@ tags:
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<div class="filler-background">
+<p class="filler-background">
     <img src="/img/lmb/placeit3.jpg" class="floatcenter" />
-</div>
+</p>
 
 ## Deliverables
 
@@ -116,14 +117,14 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <section class="gallery">
   <figure class="card">
     <a href="#personas">
-    <div class="image"><img src="/img/lmb/personas-cropped.jpg" /></div>
+    <div class="image"><img src="/img/lmb/persona-cropped.png" /></div>
     <figcaption class="caption">Personas</figcaption>
     </a>
   </figure>
   <figure class="card">
     <a href="#scenarios-and-journey-maps">
     <div class="image"><img src="/img/lmb/scenario-cropped.png" class="" /></div>
-    <figcaption class="caption">Journey Maps</figcaption>
+    <figcaption class="caption">Journey Maps Long Description</figcaption>
     </a>
   </figure>
   <figure class="card">
