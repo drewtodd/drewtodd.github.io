@@ -45,46 +45,53 @@ tags:
     .card {
         display: inline-block;
         position: relative;
-        max-width: 25.5%;
+        max-width: 30%;
         height: auto;
-        min-height: 12em;
         margin-top: 1em;
         margin-bottom: 1em;
         margin-left: .5em;
         margin-right: .5em;
-        padding-top: 1em;
+        padding-top: 0;
         padding-bottom: 0;
-        padding-right: 1em;
-        padding-left: 1em;
+        padding-right: 0;
+        padding-left: 0;
         border: 1px solid #ccc;
         vertical-align: top;
-        background-color: #fff;
+        background-color: #555;
     }
 
     .card:hover { 
-        background-color: #ddd;
         border: 1px solid #666;
+        background-color: #333;
     }
 
     .card .image {
         display: block;
+        max-width: 100%;
+        width: auto;
         margin: 0;
         padding: 0;
-        overflow: hidden;
-        width: 100%;
     }
 
     .card .caption {
-        display: inline-block;
+        display: block;
+        width: auto;
+        max-width: 100%;
+        min-height: 2.5em;
         margin: 0;
-        padding: 0;
-        padding-bottom: 1em;
-        padding-top: 1em;
+        padding: 1em;
+        hyphens: auto;
         font-family: "Oswald", Helvetica, sans-serif;
         font-size: 1.25em;
         font-weight: 400;
         line-height: 1.25em;
-        text-transform: uppercase;    
+        text-transform: uppercase;
+        color: #F5B400;  
+    }
+
+    .card a {
+        text-decoration: none;
+        color: #F5B400;
     }
 
     .card .caption:empty {
@@ -98,6 +105,7 @@ tags:
         border: 0;
         float: none;
         width: 100%;
+        background-color: #eee;
     }
 </style>
 
@@ -116,17 +124,17 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ## Deliverables
 
 <!-- Demo cards -->
-<section class="gallery">
+<section class="gallery" lang="en">
   <figure class="card">
     <a href="#personas">
     <div class="image"><img src="/img/lmb/persona-cropped.png" /></div>
-    <figcaption class="caption">Personas</figcaption>
+    <figcaption class="caption">Pers&shy;onas</figcaption>
     </a>
   </figure>
   <figure class="card">
     <a href="#scenarios-and-journey-maps">
     <div class="image"><img src="/img/lmb/scenario-cropped.png" class="" /></div>
-    <figcaption class="caption">Scenarios and Journey Maps</figcaption>
+    <figcaption class="caption">Scenar&shy;ios and Journey Maps</figcaption>
     </a>
   </figure>
   <figure class="card">
@@ -138,13 +146,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
   <figure class="card">
     <a href="#wireframes">
     <div class="image"><img src="/img/lmb/wireframes-cropped.png" class="" /></div>
-    <figcaption class="caption">Wireframes</figcaption>
+    <figcaption class="caption">Wire&shy;frames</figcaption>
     </a>
   </figure>
   <figure class="card">
     <a href="#prototype">
     <div class="image"><img src="/img/lmb/proto-screens-cropped.png" class="" /></div>
-    <figcaption class="caption">Prototype</figcaption>
+    <figcaption class="caption">Proto&shy;type</figcaption>
     </a>
   </figure>
   <figure class="card">
