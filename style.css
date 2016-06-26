@@ -91,7 +91,7 @@ p:not(.feature-image) img {
 }
 
 /*image captions*/
-img + em {
+img + em, .img-caption {
     display: block;
     font-family: "Oswald", Helvetica, sans-serif;
     font-style: normal;
@@ -100,6 +100,10 @@ img + em {
     padding-top: 1em;
     line-height: 1.25em;
     color: #666;
+}
+
+div .img-caption {
+    margin-top: -2.5em;
 }
 
 a.noline {
