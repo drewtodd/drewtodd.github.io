@@ -3,7 +3,7 @@ title: Organized
 layout: post
 permalink: /organized
 photo-url: /img/lattice.jpg
-photo-title: “Pentagon Structural Lattice”
+photo-title: Pentagon Structural Lattice
 photo-credit: National University of Singapore
 photo-credit-url: https://dfabnus.wordpress.com/2010/11/16/cairo-pentagon-structural-lattice/
 tags:
@@ -38,7 +38,7 @@ Well, in a professional environment, it is entirely likely that someone else is 
 
 Hell, that person might be you, months or years from now. Are you going to remember where everything is? Probably not.
 
-So, yeah, professional courtesy is a big reason for keeping things organized. But — and I think this is the most important reason to keep you stuff in order — it’s a matter of professional pride. You designed this. It’s got your name on it. Whether others are ever going to look under the hood or not, you wouldn’t half-ass the job would you? Of course you wouldn’t, you’re a pro.
+So, yeah, professional courtesy is a big reason for keeping things organized. But — and I think this is the most important reason to keep you stuff in order — it’s a matter of professional pride. You designed this. It’s got your name on it. Whether others are ever going to look under the hood or not, you wouldn’t half-ass the job would you? Of course you wouldn’t; you’re a pro.
 
 <div class="filler-background"><a href="/img/pixeden-psd.png"><img src="/img/pixeden-psd.jpg" class="floatcenter" /></a></div><em class="img-caption">Speaking of pro: nicely done, <a href="http://pixeden.com/" target="_blank">Pixeden</a>!</em>
 

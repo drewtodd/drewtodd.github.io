@@ -174,15 +174,24 @@ While user research was provided at the beginning of the project, I designed and
   </figure>
 </section>
 
-## The Process
+## The Process: Design, Validate, Iterate
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The overall process can be broken down into a few overarching activities:
+
+- **Explore the user needs and workflows** with personas, scenarios and journey maps
+- **Map an app structure** to those needs and workflows in the form of an app map
+- Start **developing screens** to support those activities in the form of wireframes
+- **Develop prototypes** to test with users
+
+Each activity followed a **Design** > **Validate** > **Iterate** process whereby initial design concepts were submitted for peer critique and review and then revised and updated based on feedback.
 
 ### Personas
 
 Two personas were provided by the UX Researcher and included Samantha, a mother of two kids (Hailee and Brenden) and Henry, grandfather and primary caretaker of young Joe.
 
 ### Scenarios and Journey Maps
+
+**Tool of choice: Omnigraffle**
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -191,6 +200,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### App Map
 
+**Tool of choice: Omnigraffle**
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <a href="/img/lmb/appmap.png" target="_blank" class="noline"><img src="/img/lmb/appmap.png" class="floatcenter" />
@@ -198,12 +209,16 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Wireframes
 
+**Tool of choice: Sketch.app**
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <a href="/img/lmb/wireframes.png" target="_blank" class="noline"><img src="/img/lmb/wireframes-cropped.png" class="floatcenter" />
 *Examples of wireframing in Sketch  (click to view the whole thing)*</a>
 
 ### Prototype
+
+**Tools of choice: Sketch.app, InVision app**
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
