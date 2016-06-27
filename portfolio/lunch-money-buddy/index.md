@@ -188,7 +188,7 @@ The overall design process can be broken down into a few overarching activities:
 
 Each activity followed a **Design** > **Validate** > **Iterate** process whereby initial design concepts were submitted for peer critique and review and then revised and updated based on feedback.
 
-### Design Principles
+## Design Principles
 
 Throughout the design process, I worked to adhere to some key design principles, based upon my understanding of the users and their needs:
 
@@ -197,11 +197,11 @@ Throughout the design process, I worked to adhere to some key design principles,
 - **Legibility** - We went with relatively large text in the app as well, because we know that some of our users are older or may be using the app in situations where harsh lighting makes reading more difficult.
 - **Delightful Interaction** - This is an app that our parent personas use out of necessity, but that doesn’t mean that they shouldn’t enjoy using the app. Greater enjoyment will reap greater use of the app and greater traction for the school lunch money program in general.
 
-### Personas
+## Personas
 
 Two personas were provided by the UX Researcher and included Samantha, a mother of two kids (Hailee and Brenden) and Henry, grandfather and primary caretaker of young Joe.
 
-### Scenarios and Journey Maps
+## Scenarios and Journey Maps
 
 **Tool of choice: Omnigraffle**
 
@@ -210,7 +210,7 @@ Scenarios and journey maps were derived using the personas. They explored the ne
 <a href="/img/lmb/scenario.png" target="_blank" class="noline"><img src="/img/lmb/scenario-cropped.png" class="floatcenter" />
 *A sample scenario/journey map created from the personas and app requirements (click to view the whole thing)*</a>
 
-### App Map
+## App Map
 
 **Tool of choice: Omnigraffle**
 
@@ -221,7 +221,7 @@ All of these deliverables are **living documents** that are updated and modified
 <a href="/img/lmb/appmap.png" target="_blank" class="noline"><img src="/img/lmb/appmap.png" class="floatcenter" />
 *Much like a sitemap used in website design, an appmap shows the overall structure of an app (click to view actual size)*</a>
 
-### Wireframes
+## Wireframes
 
 **Tool of choice: Sketch.app**
 
@@ -232,7 +232,7 @@ Fidelity of these deliverables started relatively low and increased through mult
 <a href="/img/lmb/wireframes.png" target="_blank" class="noline"><img src="/img/lmb/wireframes-cropped.png" class="floatcenter" />
 *Examples of wireframing in Sketch  (click to view the whole thing)*</a>
 
-### Prototype
+## Prototype
 
 **Tools of choice: Sketch.app, InVision app**
 
@@ -253,7 +253,7 @@ You can [check out the prototype of this application][3] on InVision, where you�
 <a href="https://invis.io/ZC7O5YTY5" target="_blank" class="noline"><img src="/img/lmb/intro-screen.png" class="floatcenter" />
 *Lunch Money Buddy come to quasi-life with the InVision App (click to view)*</a>
 
-## Conclusion
+## Retrospective
 <!-- Lessons learned go here -->
 
 This was a moderately sized project with many screens and interactions to keep track of. As such, a big takeaway was the importance of [working in an organized fashion][5]. Keeping track of all the parts can be daunting and good organizational skills quickly becomes just as important as good design skills.
