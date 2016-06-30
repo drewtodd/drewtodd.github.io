@@ -199,7 +199,7 @@ Throughout the design process, I worked to adhere to some key design principles,
 
 ## Personas
 
-Two personas were provided by the UX Researcher and included Samantha, a mother of two kids (Hailee and Brenden) and Henry, grandfather and primary caretaker of young Joe.
+Two personas were provided by the UX Researcher and included [Samantha][12], a mother of two kids (Hailee and Brenden) and [Henry][13], grandfather and primary caretaker of young Joe.
 
 ## Scenarios and Journey Maps
 
@@ -277,3 +277,5 @@ At the end of the day, Lunch Money Buddy is an app that provides a valuable serv
 [9]: http://www.sketchapp.com/
 [10]: http://www.invisionapp.com/
 [11]: https://www.omnigroup.com/omnigraffle
+[12]: persona-samantha.pdf
+[13]: persona-henry.pdf
