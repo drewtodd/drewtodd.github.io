@@ -117,7 +117,7 @@ Lunch Money Buddy is an application developed as part of the [Kent State Univers
 
 ## The Problem
 
-Any parent can relate to sending their kids to school with a few dollars lunch money and finding it later in a backpack or the laundry. Picky eaters drive parents crazy trying to keep track of what is being served at school on any given day. Health concious moms and dads want to keep tabs on their kids' eating habits while at school. Lunch Money Buddy aims to solve all of these challenges in a convenient, easy-to-use mobile application.
+Any parent can relate to sending their kids to school with a few dollars lunch money and finding it later in a backpack or the laundry. Picky eaters drive parents crazy trying to keep track of what is being served at school on any given day. Health conscious moms and dads want to keep tabs on their kids' eating habits while at school. Lunch Money Buddy aims to solve all of these challenges in a convenient, easy-to-use mobile application.
 
 Key features of the app include:
 
