@@ -42,7 +42,7 @@ When all is said and done, you end up with a [portfolio-quality piece][4] that s
 ## The Bad
 
 #### Grades
-Like most courses in the program, each week builds upon the work of the previous and, as such, getting feedback and grades in a timely fashion is critical. If you don’t know whether you’re on the right track or not, it’s difficult and daunting to slog forward. Luckily, my fellow students were able to provide valuable feedback during the grading lapses, and the instructor did provide some feedback during the weekly virtual office hours.
+A lack of timely grades, to be blunt. Like most courses in the program, each week builds upon the work of the previous and, as such, getting feedback and grades in a timely fashion is critical. If you don’t know whether you’re on the right track or not, it’s difficult and daunting to slog forward. Luckily, my fellow students were able to provide valuable feedback during the grading lapses, and the instructor did provide some feedback during the weekly virtual office hours.
 
 Still, not receiving grades every week is a general problem with the program (I’ve had this experience in most of the classes I’ve taken that haven’t been taught by a certain [Paul Sherman][5]) and it needs to be addressed.
 
