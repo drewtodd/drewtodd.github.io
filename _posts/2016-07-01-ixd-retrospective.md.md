@@ -37,7 +37,7 @@ My instructor for the Interaction Design class was [Darren Hood][3], an interact
 Darren’s involvement and interaction made a huge difference in the effectiveness of the course material and the class in general.
 
 #### Portfolio-fodder
-When all is said and done, you end up with a [portfolio-quality piece][4] that shows off your skills. The Kent program is very portfolio-focused, which is not a huge objective for me personally (I’m not looking to move into a design career; choosing to focus on management and leadership), but for almost everyone else in the program, this is one of the key benefits of getting the degree.
+When all is said and done, you end up with a [portfolio-quality piece][4] that shows off your skills. The Kent program is very portfolio-focused, which is not a huge objective for me personally (I’m not looking to move into a design career; choosing to focus on management and leadership), but for almost everyone else in the program this is one of the key benefits of getting the degree.
 
 ## The Bad
 
