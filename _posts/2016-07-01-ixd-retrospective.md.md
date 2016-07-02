@@ -25,7 +25,7 @@ The Kent UXD courses are generally of the “writey” and “makey" varieties: 
 ## The Good
 
 #### Coursework
-The entire course revolves around creating a single mobile application (“[Lunch Money Buddy][2]”)  from a loose set of requirements and a couple of personas. While you’ll spend time creating user journeys and a site (app) map, the bulk of the course revolves around creating wireframes and a semi-functional prototype. 
+The entire course revolves around creating a single mobile application (“[Lunch Money Buddy][2]”)  from a loose set of requirements and a couple of personas. While you’ll spend time creating user journeys and a site (app) map, the bulk of the course revolves around creating wireframes and a semi-functional prototype; getting peer feedback and iterating.
 
 If you are a designer or you want to be a designer, this class provides a solid, hands-on approach and really gives you the opportunity to dig in and learn some solid design and prototyping techniques. If you feel like you need to dive in and learn to use a specific wire framing or prototyping tool (like Sketch, Axure, or Omnigraffle), this course gives you plenty of time and opportunity to do so. You’re learning or reinforcing skills that you can apply directly on the job every day (truth be told, I’ve found this to be the case with most of the coursework in the Kent UXD program).
 
@@ -37,7 +37,7 @@ My instructor for the Interaction Design class was [Darren Hood][3], an interact
 Darren’s involvement and interaction made a huge difference in the effectiveness of the course material and the class in general.
 
 #### Portfolio-fodder
-When all is said and done, you end up with a [portfolio-quality piece][4] that shows off your skills. The Kent program is very portfolio-focused, which is not a huge objective for me personally (I’m not looking to move into a design career, choosing to focus on management and leadership), but for almost everyone else in the program, I can say that this is one of the key benefits of getting the degree.
+When all is said and done, you end up with a [portfolio-quality piece][4] that shows off your skills. The Kent program is very portfolio-focused, which is not a huge objective for me personally (I’m not looking to move into a design career; choosing to focus on management and leadership), but for almost everyone else in the program, I can say that this is one of the key benefits of getting the degree.
 
 ## The Bad
 
