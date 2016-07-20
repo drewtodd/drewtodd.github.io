@@ -272,7 +272,7 @@ At the end of the day, Lunch Money Buddy is an app that provides a valuable serv
 [4]: /invision-this "Read more about my thoughts on InVision here"
 [5]: /organized "Read more about my thoughts on staying organized here"
 [6]: /critique "Read more about my thoughts on critique here"
-[7]: /know-your-tools "Read more about my thoughts an establish toolkit here"
+[7]: /know-your-tools "Read more about my thoughts an established toolkit here"
 [8]: /mobile-layouts "Read more about the 16:9 frameword I developed for this project here"
 [9]: http://www.sketchapp.com/
 [10]: http://www.invisionapp.com/
