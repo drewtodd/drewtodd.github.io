@@ -28,7 +28,7 @@ Traditionally, we’ve handled this by running studies on a computer in our dedi
 
 <div class="filler-background"><a href="/img/camtasia-sample.jpg"><img src="/img/camtasia-sample.jpg" class="floatcenter" /></a></div><em class="img-caption">A sample Camtasia session.</em>
 
-While this worked in theory, the grim reality was that teamers — with their busy schedules, objectives and deadlines — would ultimately put off watching the sessions. Videos were always there to watch, so the sense of urgency wasn’t present. Before a person knew it, they’d have five or six 30-plus minute session stacked up to watch. It wasn’t workable; they’d punt and just wait for the summaries to come out, thus missing the immediacy of watching users. 
+While this worked in theory, the grim reality was that teamers — with their busy schedules, objectives and deadlines — would ultimately put off watching the sessions. Videos were always there to watch, so the sense of urgency wasn’t present. Before a person knew it, they’d have five or six 30-plus minute session stacked up waiting for them. It just wasn’t workable; they’d punt and just wait for the summaries to come out, thus missing the immediacy of watching users. 
 
 ### Greatest hits
 
