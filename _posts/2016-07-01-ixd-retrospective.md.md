@@ -1,5 +1,5 @@
 ---
-title: IxD Retrospective
+title: "IxD Retrospective"
 layout: post
 permalink: /ixd-retrospective
 photo-url: /img/the-ugly.jpg
