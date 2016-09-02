@@ -34,7 +34,7 @@ While this worked in theory, the grim reality was that teamers — with their bu
 
 The idea of creating **“greatest hits” style summary videos** — a collage of the good stuff compiled from all the session — seemed like the solution at first. But this greatly increased overhead for the research team. We don’t have enough staff to dedicate someone to video editing, and it was really bringing the velocity of our research efforts down.
 
-### Silent observers (in a crowded room)
+### 'Silent' observers (in a crowded room)
 
 So we tried pulling a few extra chairs and some of the team into sessions to silently observe. This was a fail from the get-go, for two reasons: 
 
@@ -46,11 +46,11 @@ Secondly, even the most well-meaning Dev, Designer or Stakeholder **found it nea
 
 With all this in mind, one of the benefits of working for an AV manufacturer is that you’ve got access to some pretty sweet gear, and our team was able to leverage this to great results. We were able to get some hardware that allows us to stream sessions live to multiple locations. With a fancier camera, a Blue Yeti mic, and our new streaming media processor, we can now have the candidate and the moderator in the lab, going through the session activities, while the team watches from a conference room down the hall. For posterity purposes, the box also records the session and drops it on the desired network share (no more laborious converting of Camtasia files to MP4), which allows those who missed the session to catch up, if needed. Neat and tidy.
 
-<div class="filler-background"><a href="/img/streaming-rig1.jpg"><img src="/img/streaming-rig1.jpg" class="floatcenter" /></a></div>
+<div class="filler-background"><a href="/img/streaming-rig1.jpg"><img src="/img/streaming-rig1.jpg" class="floatcenter" /></a></div><em class="img-caption">The whole rig.</em>
 
-<div class="filler-background"><a href="/img/streaming-rig2.jpg"><img src="/img/streaming-rig2.jpg" class="floatcenter" /></a></div>
+<div class="filler-background"><a href="/img/streaming-rig2.jpg"><img src="/img/streaming-rig2.jpg" class="floatcenter" /></a></div><em class="img-caption">The specialized hardware includes a streaming media processor and a confidence monitor to verify the remote display's screen.</em>
 
-<div class="filler-background"><a href="/img/streaming-rig3.jpg"><img src="/img/streaming-rig3.jpg" class="floatcenter" /></a></div>
+<div class="filler-background"><a href="/img/streaming-rig3.jpg"><img src="/img/streaming-rig3.jpg" class="floatcenter" /></a></div><em class="img-caption">The atual workstation includes a good camera and microphone.</em>
 
 ### Benefits
 
