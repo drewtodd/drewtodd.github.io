@@ -50,7 +50,7 @@ With all this in mind, one of the benefits of working for an AV manufacturer is 
 
 <div class="filler-background"><a href="/img/streaming-rig2.jpg"><img src="/img/streaming-rig2.jpg" class="floatcenter" /></a></div><em class="img-caption">The specialized hardware includes a streaming media processor and a confidence monitor to verify the remote display's screen.</em>
 
-<div class="filler-background"><a href="/img/streaming-rig3.jpg"><img src="/img/streaming-rig3.jpg" class="floatcenter" /></a></div><em class="img-caption">The atual workstation includes a good camera and microphone (the webcam is still there, too).</em>
+<div class="filler-background"><a href="/img/streaming-rig3.jpg"><img src="/img/streaming-rig3.jpg" class="floatcenter" /></a></div><em class="img-caption">The workstation includes a good camera and microphone (the webcam is still there, too).</em>
 
 ### Benefits
 
