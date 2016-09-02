@@ -28,9 +28,13 @@ Traditionally, we’ve handled this by running studies on a computer in our dedi
 
 <div class="filler-background"><a href="/img/camtasia-sample.jpg"><img src="/img/camtasia-sample.jpg" class="floatcenter" /></a></div><em class="img-caption">A sample Camtasia session.</em>
 
-While this worked in theory, the grim reality was that teamers — with their busy schedules, objectives and deadlines — would ultimately put off watching the sessions. They were always there to watch, so the sense of urgency wasn’t there. Before they knew it, they’d have five or six 30-plus minute session stacked up to watch. It wasn’t workable; they’d punt and just wait for the summaries to come out, thus missing the immediacy of watching users. 
+While this worked in theory, the grim reality was that teamers — with their busy schedules, objectives and deadlines — would ultimately put off watching the sessions. Videos were always there to watch, so the sense of urgency wasn’t present. Before a person knew it, they’d have five or six 30-plus minute session stacked up to watch. It wasn’t workable; they’d punt and just wait for the summaries to come out, thus missing the immediacy of watching users. 
 
-The idea of creating **“greatest hits” style summary videos** — a collage of the good stuff compiled from all the session — seemed like the solution at first. But this greatly increased the overhead for the research team. We didn’t have enough staff to dedicate someone to video editing, and it was really bringing the velocity of our research efforts down.
+### Greatest hits
+
+The idea of creating **“greatest hits” style summary videos** — a collage of the good stuff compiled from all the session — seemed like the solution at first. But this greatly increased overhead for the research team. We don’t have enough staff to dedicate someone to video editing, and it was really bringing the velocity of our research efforts down.
+
+### Silent observers (in a crowded room)
 
 So we tried pulling a few extra chairs and some of the team into sessions to silently observe. This was a fail from the get-go, for two reasons: 
 
@@ -48,6 +52,8 @@ With all this in mind, one of the benefits of working for an AV manufacturer is 
 
 <div class="filler-background"><a href="/img/streaming-rig3.jpg"><img src="/img/streaming-rig3.jpg" class="floatcenter" /></a></div>
 
+### Benefits
+
 The benefits of this new system are numerous:
 
 - By scheduling a 45 minute session for the team (like a meeting), they’re more likely (or more required) to attend and less likely to skip the session. Their presence — and lack thereof — is noted by the team.
@@ -56,6 +62,8 @@ The benefits of this new system are numerous:
 - Participants also don’t have others present to provide cues while they’re doing whatever we need them to do.
 
 After the session is over, we invite the participant to pop into the conference room to meet the team, which also gives everyone a chance to ask followup questions.
+
+### Drawbacks
 
 So far it seems to work. There are a few drawbacks, however, that are worth pointing out.
 
