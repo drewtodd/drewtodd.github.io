@@ -18,7 +18,7 @@ tags:
 
 ### 4 &frac12; minute read
 
-One of the major tenets we adhere to as a team is **transparency**: All members of the team should have access to information about the project we’re working on. Designers, Developers, QA Analysts, Stakeholders; they all should have a complete picture of what’s going on and access to any details of the project that might help them gain product perspective and user insights.
+One of the major tenets we adhere to as a team is **transparency**: All members of the team should have access to information about the project we’re working on. Designers, Developers, QA Analysts, Stakeholders: They all should have a complete picture of what’s going on and access to any details of the project that might help them gain product perspective and user insights.
 
 This is especially true of any user research or usability testing that we do. **Everyone on the team should have access to the results of a study**, and the most effective way for them to gain these insights and perspectives is to **see the users in action**. Reading reports and summaries is nice, but experience shows that nothing works better than having someone see for themselves what the user is doing.
 
