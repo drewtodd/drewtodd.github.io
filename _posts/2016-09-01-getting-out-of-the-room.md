@@ -69,7 +69,7 @@ After the session is over, we invite the participant to pop into the conference 
 So far it seems to work. There are a few drawbacks, however, that are worth pointing out.
 
 - Pulling everyone into a bunch of meetings can be fatiguing and put a dent in productivity. We try to give everyone the option of attending at least a couple of sessions for each study, if they can’t commit to the full schedule.
-- Having a big stack of fancy equipment on the desk can be daunting to participants. It’s almost as if they walk in and ask, “are you going to *hook me up to that thing?* We’ll likely move the gear to a more discrete location in the near future to alleviate this.
+- Having a big stack of fancy equipment on the desk can be daunting to participants. It’s almost as if they walk in and ask, “are you going to *hook me up to that thing?*" We’ll likely move the gear to a more discrete location in the near future to alleviate this.
 
 ## So far, so good
 
