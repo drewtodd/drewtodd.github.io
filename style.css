@@ -487,11 +487,38 @@ footer {
         width: 33%;
     }
 
-    .filler-background {
+    .filler-background-dark {
         margin: 1.5em 0em 1.5em 0em;
         padding: 0;
         border: 0;
         background-color: #555;
+    }
+
+    .filler-background-light {
+        margin: 1.5em 0em 1.5em 0em;
+        padding: 0;
+        border: 0;
+        background-color: #ddd;
+    }
+
+    .filler-background-light, .filler-background .pad-all {
+        padding: 1em;
+    }
+
+    .filler-background-light, .filler-background .pad-top {
+        padding-top: 1em;
+    }
+
+    .filler-background-light, .filler-background .pad-bottom {
+        padding-bottom: 1em;
+    }
+
+    .filler-background-light, .filler-background .pad-left {
+        padding-left: 1em;
+    }
+
+    .filler-background-light, .filler-background .pad-right {
+        padding-right: 1em;
     }
 
     div .img-caption {

@@ -44,7 +44,7 @@ Secondly, even the most well-meaning Dev, Designer or Stakeholder **found it nea
 
 ## Going high(er) tech
 
-With all this in mind, one of the benefits of working for an AV manufacturer is that I’ve got access to some pretty sweet gear, and our team was able to leverage this to great results. We were able to get some hardware that allows us to stream sessions live to multiple locations. With a fancier camera, a [Blue Yeti mic][4], and a streaming media processor, we can now have the candidate and the moderator in the lab, going through the session activities, while the team watches from a conference room down the hall. For posterity purposes, the box also records the session and drops it on the desired network share (no more laborious converting of Camtasia files to MP4), which allows those who missed the session to catch up, if needed. Neat and tidy.
+One of the benefits of working for an AV manufacturer is that I’ve got access to some pretty sweet gear, and our team was able to leverage this to great results. We were able to get some hardware that allows us to stream sessions live to multiple locations. With a fancier camera, a [Blue Yeti mic][4], and a streaming media processor, we can now have the candidate and the moderator in the lab, going through the session activities, while the team watches from a conference room down the hall. For posterity purposes, the box also records the session and drops it on the desired network share (no more laborious converting of Camtasia files to MP4), which allows those who missed the session to catch up, if needed. Neat and tidy.
 
 <div class="filler-background"><a href="/img/streaming-rig1.jpg"><img src="/img/streaming-rig1.jpg" class="floatcenter" /></a></div><em class="img-caption">The whole rig.</em>
 

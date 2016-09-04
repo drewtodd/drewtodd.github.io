@@ -129,7 +129,7 @@ Key features of the app include:
 
 While user research was provided at the beginning of the project, I designed and developed all other assets and deliverables.
 
-<p class="filler-background">
+<p class="filler-background-dark">
     <img src="/img/lmb/placeit3.jpg" class="floatcenter" />
 </p>
 
