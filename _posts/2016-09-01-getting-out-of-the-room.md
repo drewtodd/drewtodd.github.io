@@ -1,5 +1,5 @@
 ---
-title: Remote UX Observation - Getting Out of the Room  to Enhance Team Participation
+title: Remote UX Observation
 layout: post
 permalink: /remote-ux-observation
 photo-url: /img/television.jpg
@@ -86,6 +86,6 @@ Until next time: Cheers.
 
 [1]:	https://www.shutterstock.com/g/CREATISTA
 [2]:	https://www.techsmith.com/camtasia.html
-[3]:	http://knowyourmeme.com/memes/nobody-expects-the-spanish-inquisition
+[3]:	https://www.youtube.com/watch?v=7WJXHY2OXGE
 [4]:	http://www.bluemic.com/products/yeti/
 [5]:	mailto:drew@drwtod.com
