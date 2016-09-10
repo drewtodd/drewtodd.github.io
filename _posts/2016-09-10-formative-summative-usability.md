@@ -7,8 +7,9 @@ photo-title: “A pro surfer stays ahead of a huge wave”
 photo-credit: Monica Kade
 photo-credit-url: "https://careerconfessions.wordpress.com/2011/12/26/big-wave-pro-surfer-garrett-mcnamara/"
 tags:
-- UX
-- Usability
+- ux
+- usability
+- research
 ---
 
 # Staying Ahead of the Wave
@@ -17,7 +18,7 @@ tags:
 
 ### 2 &frac12; minute read
 
-When looking at usability studies, you can generally lump them into two groups: [Formative studies][1] and [summative studies][2]. We've been talking about them this week and I thought I'd share a little bit about our approach to these kinds of studies.
+When looking at usability studies, you can generally lump them into two groups: [Formative studies][1] and [summative studies][2]. We've been talking about them this week and I thought I'd share a little bit about our approach.
 
 ## Formative Studies
 
@@ -33,13 +34,13 @@ On the other end of the spectrum, summative studies usually happen when the prod
 
 Summative studies tend to follow the format and structure that you usually think of when you hear about usability tests: A participant and a moderator sitting in a room performing a task-oriented usability test on a computer; usually recorded.
 
-These studies focus on the current state of a product and tell you what works and what doesn't. As such, they are often performed prior to a redesign, to establish a baseline, or just prior to a new release of a product.
+These studies **focus on the current state of a product** and tell you what works and what doesn't. As such, they are often performed prior to a redesign, to establish a baseline, or just prior to a new release of a product.
 
 ## Which Do We Use?
 
 In a perfect world, we'd do a balance of formative and summative studies when developing a product. However, the real world often dictates that we don't have the luxury of time or resources to do a lot of formative studies. Our usability and research teams are usually chasing the design, which means that we do a lot more *reactive* usability studies than *proactive*. 
 
-Being in the Marketing department means that we're usually getting projects handed to us long after the product we're trying to support has been designed and implemented. Sometimes we only have a few weeks to get our own product designed, implemented, tested, and into the hands of customers (our builders and calculators are good examples).
+Being on the Marketing team means that we're usually getting projects handed to us long after the product we're trying to support has been designed and implemented. Sometimes we only have a few weeks to get our own product designed, implemented, tested, and into the hands of customers (our builders and calculators are good examples).
 
 As such, we're usually doing minimal testing in the formative stage; opting instead to get the product into customers' hands, and then following up with summative testing, the results of which get rolled into the next revision of the product. Ultimately, it's the same idea you're after with formative testing, but the iterations are much longer (and more formal).
 

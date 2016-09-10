@@ -10,6 +10,7 @@ photo-credit-alt: "CREATISTA's Portfolio - Shutterstock"
 tags:
 - ux
 - tools
+- research
 ---
 
 # Remote UX Observation
