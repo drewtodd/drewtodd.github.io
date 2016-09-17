@@ -20,7 +20,7 @@ tags:
 
 > Ask test participants to use their mouse cursor to indicate where they’re looking on the screen.
 
-One of the hallmarks of usability testing protocols is the [“Think Aloud” method][1]: Asking participants to verbalize their thoughts as they work through the tasks and activities of the test. This method allows the test team to get inside the head of the participant a bit and often illuminates behaviors or attitudes that wouldn’t be apparent by observation alone. It’s a great tool that we employ in *all* of our testing.
+One of the hallmarks of usability testing protocols is [the “Think Aloud” method][1]: Asking participants to verbalize their thoughts as they work through the tasks and activities of the test. This method allows the test team to get inside the head of the participant a bit and often illuminates behaviors or attitudes that wouldn’t be apparent by observation alone. It’s a great tool that we employ in *all* of our testing.
 
 ## Faux Eye-Tracking
 Another thing we ask users to do (when testing on a computer screen) is use their mouse cursor as an indicator of where they’re looking while going through the test. We record each session, and having these visual cues really helps to illuminate what the participant is seeing — and missing — in an interface. 
@@ -47,5 +47,5 @@ Even with these minor potential drawbacks, we've seen good results from using th
 
 Until next time…
 
-[1]:	https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/
+[1]:	https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/ "The "Think Aloud" protocol, as described by Jakob Nielsen"
 [2]:	mailto:drew@drwtod.com "Drop me a line!"
