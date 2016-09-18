@@ -8,8 +8,9 @@ photo-credit: Michiel de Wit
 photo-credit-url: https://www.shutterstock.com/g/Michiel+de+Wit
 photo-credit-alt: "Michiel de Wit's portfolio on Shutterstock"
 tags:
-- UX
-- Usability
+- ux
+- usability
+- techniques
 ---
 
 # Eye-Tracking on the Cheap

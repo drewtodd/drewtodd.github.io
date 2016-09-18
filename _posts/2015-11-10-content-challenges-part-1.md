@@ -10,6 +10,7 @@ photo-credit-alt: "biberati's Porfolio"
 tags:
 - content-strategy
 - ux
+- techniques
 ---
 
 # Five Content Strategy Challenges (and How to Overcome Them)
