@@ -8,9 +8,9 @@ photo-credit: biberati
 photo-credit-url: "http://wallpaperswide.com/members/biberati/"
 photo-credit-alt: "biberati's Porfolio"
 tags:
-- content-strategy
-- ux
-- techniques
+    - content-strategy
+    - ux
+    - techniques
 ---
 
 # Five Content Strategy Challenges (and How to Overcome Them)

@@ -8,7 +8,7 @@ photo-credit: enterlinedesign
 photo-credit-url: "http://www.shutterstock.com/gallery-1445165p1.html"
 photo-credit-alt: "enterlinedesign's Porfolio - Shutterstock"
 tags:
-- ux
+    - ux
 ---
 
 # The UX Triple-Constraint

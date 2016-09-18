@@ -8,10 +8,10 @@ photo-credit: Janaka Dharmasena
 photo-credit-url: http://www.shutterstock.com/gallery-84550p1.html
 photo-credit-alt: "Janaka Dharmasena's portfolio on Shutterstock"
 tags:
-- ux
-- design
-- mobile
-- techniques
+    - ux
+    - design
+    - mobile
+    - techniques
 ---
 
 # Measure Twice, Cut Once

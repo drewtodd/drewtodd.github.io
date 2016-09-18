@@ -5,11 +5,11 @@ permalink: /ux-yin-yang
 photo-url: /img/yinyang.jpg
 photo-title: "Yin and yang - Photo credit: dynamicz34"
 photo-credit: dynamicz34
-photo-credit-url: http://dynamicz34.deviantart.com/art/Yin-Yang-413083660
+photo-credit-url: "http://dynamicz34.deviantart.com/art/Yin-Yang-413083660"
 photo-credit-alt: "dynamicz34's portfolio on deviantart.com"
 tags:
--ux
--techniques
+    -ux
+    -techniques
 ---
 
 # UX Yin and Yang

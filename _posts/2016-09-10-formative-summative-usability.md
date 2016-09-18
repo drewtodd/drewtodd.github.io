@@ -7,9 +7,9 @@ photo-title: “A pro surfer stays ahead of a huge wave”
 photo-credit: Monica Kade
 photo-credit-url: "https://careerconfessions.wordpress.com/2011/12/26/big-wave-pro-surfer-garrett-mcnamara/"
 tags:
-- ux
-- usability
-- research
+    - ux
+    - usability
+    - research
 ---
 
 # Staying Ahead of the Wave

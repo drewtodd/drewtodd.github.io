@@ -7,8 +7,8 @@ photo-title: Pentagon Structural Lattice
 photo-credit: National University of Singapore
 photo-credit-url: https://dfabnus.wordpress.com/2010/11/16/cairo-pentagon-structural-lattice/
 tags:
-- design
-- techniques
+    - design
+    - techniques
 ---
 
 # Organized

@@ -8,9 +8,9 @@ photo-credit: CREATISTA
 photo-credit-url: "http://www.shutterstock.com/gallery-1445165p1.html"
 photo-credit-alt: "CREATISTA's Portfolio - Shutterstock"
 tags:
-- ux
-- tools
-- research
+    - ux
+    - tools
+    - research
 ---
 
 # Remote UX Observation
