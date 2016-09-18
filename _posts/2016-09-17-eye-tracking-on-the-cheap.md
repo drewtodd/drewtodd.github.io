@@ -3,7 +3,7 @@ title: "Eye-Tracking on the Cheap"
 layout: post
 permalink: /eye-tracking-on-the-cheap
 photo-url: /img/mouse.jpg
-photo-title: “A mouse”
+photo-title: “A (very earnest-looking) mouse”
 photo-credit: Michiel de Wit
 photo-credit-url: https://www.shutterstock.com/g/Michiel+de+Wit
 photo-credit-alt: "Michiel de Wit's portfolio on Shutterstock"
