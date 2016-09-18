@@ -35,7 +35,9 @@ The mouse acts as a stand-in for high-dig eye tracking equipment and it costs no
 
 While this method is handy (and affordable), it isn't foolproof.
 
-For one thing, participants will often forget to do this as the study progresses, so continual prompting is usually necessary and can get a little awkward. Just like continuously asking a silent participant, "What are you thinking?", you'll need to remind the idle mouser to get back to it by asking, "What are you looking at right now?"
+The most obvious drawback from this method is that you miss out on all the quantitative data that formal eye-tracking studies provide. No fancy heat maps or data tables with the mouse cursor technique.
+
+Another thing: Participants will often forget to do this as the study progresses, so continual prompting is usually necessary and can get a little awkward. Just like continuously asking a silent participant, "What are you thinking?", you'll need to remind the idle mouser to get back to it by asking, "What are you looking at right now?"
 
 Furthermore, while we've had good success with this method, I'm not sure of the implications on the outcomes of our tests because of this activity. Mouse tracking is not a normal behavior for everyone, and asking the participant to do something they don't normally do while using a computer may have some subtle impact on their success or failure.
 
