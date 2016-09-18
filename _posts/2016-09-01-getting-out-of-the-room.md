@@ -5,7 +5,7 @@ permalink: /remote-ux-observation
 photo-url: /img/television.jpg
 photo-title: "Television - Photo credit: CREATISTA"
 photo-credit: CREATISTA
-photo-credit-url: "[http://www.shutterstock.com/gallery-1445165p1.html][1]"
+photo-credit-url: "http://www.shutterstock.com/gallery-1445165p1.html"
 photo-credit-alt: "CREATISTA's Portfolio - Shutterstock"
 tags:
 - ux
