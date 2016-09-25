@@ -93,7 +93,7 @@ And, *boom*: You've got data you can put in a table or chart to clearly identify
 </tr>
 </tbody>
 </table>
-<figcaption>Affinity analysis can quickly identify issues that were common problems in quantitative data</figcaption>
+<figcaption>Affinity analysis can quickly identify common issues or observations in sets of qualitative data</figcaption>
 
 ## Simple, But Effective
 
