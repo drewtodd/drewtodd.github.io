@@ -36,7 +36,7 @@ Get into a room with the team. Divide the studies up amongst the group. Identify
 
 Before too long, you'll notice clusters forming  among the multi-colored paper forest.  Look at each cluster and summarize it in a phrase or sentence. These clusters are going to be your "issues" or "observations" (depending upon the study).
 
-Now you've got something that's starting to look a little more quantitative. Something you can put in a chart or table, even. It's like putting those [nerdy hipster glasses on John Mayer][2]. He's still the rebel artsy dude, but he's getting his math on.
+Now you've got something that's starting to look a little more quantitative. Something you can even put into a chart or table. It's like putting those [nerdy hipster glasses on John Mayer][2]. He's still the rebel artsy dude, but he's getting his math on.
 
 ## An Example
 
