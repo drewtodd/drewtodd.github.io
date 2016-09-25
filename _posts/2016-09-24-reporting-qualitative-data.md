@@ -26,7 +26,7 @@ Quantitative data is great. It's mathy. It gives you definitive answers and can 
 
 Qualitative data, on the other hand, is the brash wannabe rock star. It defies definition. It's nebulous, artsy… fuzzy.
 
-So how do you go about conveying quantitative results to stakeholders, developers and designers during a project? Whereas quantitative reports carry a degree of certainty that lend themselves to decision-making, qualitative analysis is more subtle.
+So how do you go about conveying qualitative results to stakeholders, developers and designers during a project? Whereas quantitative reports carry a degree of certainty that lend themselves to decision-making, qualitative analysis is more subtle.
 
 ## Affinity Analysis
 
