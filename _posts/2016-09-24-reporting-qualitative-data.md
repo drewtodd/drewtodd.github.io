@@ -57,7 +57,7 @@ And, *boom*: You've got data you can put in a table or chart to clearly identify
 <th>Affinity Score</th>
 </tr>
 <tr>
-<td>Candidates, when looking at opportunities, did not consider Extron a “software engineering company”</td>
+<td>Candidates, when looking at opportunities, did not consider us a “software engineering company”</td>
 <td>P1, P2, P4, P5, P6</td>
 <td>71%</td>
 </tr>
@@ -87,7 +87,7 @@ And, *boom*: You've got data you can put in a table or chart to clearly identify
 <td>43%</td>
 </tr>
 <tr>
-<td>Older candidates value work-life balance, stability, location/shorter commute</td>
+<td>Candidates value work-life balance, stability, location/shorter commute</td>
 <td>P4, P5, P7</td>
 <td>43%</td>
 </tr>
