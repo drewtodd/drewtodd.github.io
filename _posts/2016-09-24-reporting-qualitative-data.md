@@ -16,7 +16,7 @@ tags:
 
 ## Gaining Control of the Fuzzy Non-Numeric
 
-### 6 minute read
+### 3 minute read
 
 > When dealing with moderate to large sets of qualitative data, affinity analysis can help identify and prioritize common issues that users experience.
 
