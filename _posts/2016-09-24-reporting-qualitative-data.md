@@ -20,7 +20,7 @@ tags:
 
 > When dealing with moderate to large sets of qualitative data, affinity analysis can help identify and prioritize common issues that users experience.
 
-We've spent a lot of time discussing quantitative data this week: Collecting, measuring, and analyzing it. This got me thinking about its more nebulous twin — qualitative data — and how you it's a whole different beast.
+We've spent a lot of time discussing quantitative data this week: Collecting, measuring, and analyzing it. This got me thinking about its more nebulous twin — qualitative data — and how it's a whole different beast.
 
 Quantitative data is great. It's mathy. It gives you definitive answers and can be conveyed in colorful charts and tables. Quantitative data is the bookish nerd of the UX analysis world.
 
