@@ -30,7 +30,7 @@ So how do you go about conveying qualitative results to stakeholders, developers
 
 ## Affinity Analysis
 
-One tool you can use to wrangle a nebulous qualitative data study is the affinity analysis (aka: [affinity diagramming][1]). You're basically taking qualitative observations and grouping them to find patterns. This is where sticky notes come in handy (and why UXers love them so much).
+One tool you can use to wrangle a nebulous qualitative data study is affinity analysis (aka: [affinity diagramming][1]). You're basically taking qualitative observations and grouping them to find patterns. This is where sticky notes come in handy (and why UXers love them so much).
 
 Get into a room with the team. Divide the studies up amongst the group. Identify all of the issues (or observations, comments, expressed desires, etc.) and write each on a sticky note. When all is said and done, have the team put the stickies on a wall or table. Start sorting them into groups of similar stickies. 
 
