@@ -20,7 +20,7 @@ tags:
 
 > Regularly reviewing your performance and providing self-critique can help you improve your skills as a usability test moderator.
 
-The camera and microphone are powerful implements in a usability tester's toolkit. With them, you can capture the user's actions and facial expressions and gain all kinds of insight into their behaviors, thoughts and preferences when using a product. But these tools can be equally useful in monitoring your own performance as a test moderator.
+The camera and microphone are powerful implements in a usability tester's toolkit. With them, you can capture the user's actions and facial expressions and gain all kinds of insight into their behaviors, thoughts and expectations when using a product. But these tools can be equally useful in monitoring your own performance as a test moderator.
 
 ## The Camera Never Lies
 
