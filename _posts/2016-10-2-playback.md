@@ -30,13 +30,13 @@ As such, that human moderator might bring their own biases into a test and provi
 
 That human moderator is probably **you** at some point.
 
-How do you [avoid these pitfalls][1]? While there's no guarantee that you can avoid them altogether, you can certainly mitigate the problems by putting the best possible moderator in the room with the participant. And that moderator is going to be you.
+How do you [avoid these pitfalls][1]? While there's no guarantee that you can avoid them altogether, you can certainly mitigate the problems by putting the best possible moderator in the room with the participant. You know: You.
 
 Just as recorded sessions provide a wealth of information about the participant in a study, they also reveal a lot about you as a moderator. You should occasionally review your studies from a self-critique perspective to make sure that you're not violating any of the [rules or best practices of test moderation][2].
 
 ## Who *is* that guy?
 
-Having recently run a usability test to evaluate the utility of a popular pizza website, I decided review my performance as a moderator. I watched the playback of the 20 minute test (which I thought went very well at the time) and came away with a different view of my performance as a moderator. I also found some specific areas where I could focus and improve.
+Having recently run a usability test to evaluate the utility of a popular pizza website, I decided review my own performance as a moderator. I watched the playback of the 20 minute test (which I thought went very well at the time) and came away with a different view of the session. I also found some specific areas where I could focus and improve.
 
 ### To Be? Or Not To Be?
 
@@ -80,7 +80,7 @@ Once it becomes obvious that the participant is not going to successfully comple
 
 ## Test, Observe, Tweak, Repeat
 
-Developing your UX skills is not any different than developing the products you work on. In this Agile-loving world we're living in, it pays to spend some time treating your own process the way you treat your products. Seek to iteratively improve your skills as a moderator by routinely reviewing your performance, looking for areas in which you can improve, making the necessary adjustments, and repeating the process.
+Developing your UX skills is not that much different than developing the digital products you work on. In this Agile-loving world we're living in, it pays to spend some time treating your own process the way you treat your products. Seek to iteratively improve your skills as a moderator by routinely reviewing your performance, looking for areas in which you can improve, making the necessary adjustments, and repeating the process.
 
 Until next time…
 
