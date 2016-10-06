@@ -36,7 +36,7 @@ Just as recorded sessions provide a wealth of information about the participant 
 
 ## Who *is* that guy?
 
-Having recently run a usability test to evaluate the utility of a popular pizza website, I decided review my own performance as a moderator. I watched the playback of the 20 minute test (which I thought went very well at the time) and came away with a different view of the session. I also found some specific areas where I could focus and improve.
+Having recently run a usability test to evaluate the utility of a popular pizza website, I decided to review my own performance as a moderator. I watched the playback of the 20 minute test (which I thought went very well at the time) and came away with a different view of the session. I also found some specific areas where I could focus and improve.
 
 ### To Be? Or Not To Be?
 
