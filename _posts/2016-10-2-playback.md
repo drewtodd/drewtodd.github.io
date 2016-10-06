@@ -26,7 +26,7 @@ The camera and microphone are powerful implements in a usability tester's toolki
 
 One of the pitfalls of running moderated usability tests is that you have to put another human being in the room with the test participant. And humans are, you know — flawed.
 
-As such, that human moderator might bring their own biases into a test and provide subtle cues to the participant that they wouldn't receive in unmoderated testing. The human moderator might go on a talking jag, not realizing that they are quelling any impetus to express thoughts or insights by the participant. That human moderator may inadvertently spill the beans about a task's solution through their line of questioning or conversing with the participant.
+As such, that human moderator might bring their own biases into a test and provide subtle cues to the participant that they wouldn't receive in unmoderated testing. The human moderator might go on a talking jag, not realizing that they are quelling any impetus to express thoughts or insights by the participant. That human moderator may inadvertently spill the beans about a task's solution through their line of questioning or conversation with the participant.
 
 That human moderator is probably **you** at some point.
 
