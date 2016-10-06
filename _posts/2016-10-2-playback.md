@@ -62,7 +62,7 @@ Another thing I caught myself doing during the session was paraphrasing what the
 
 *Me: "So, in other words, you expected to be taken to the menu page when you clicked on the link?"*
 
-**Wrong.** This is textbook leading the participant. While my intention was just to make sure I understood the user's context and expectation, I was planting a subtle suggestion in that seemingly innocent question. 
+**Wrong.** This is textbook leading the participant. While my intention was just to make sure I understood the user's context and expectation, I was planting a subtle suggestion into that seemingly innocent question. 
 
 Better to ask an open-ended question that gets the user talking about what's on **their** mind; not mine:
 
