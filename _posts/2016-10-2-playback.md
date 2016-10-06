@@ -28,7 +28,7 @@ One of the pitfalls of running moderated usability tests is that you have to put
 
 As such, that human moderator might bring their own biases into a test and provide subtle cues to the participant that they wouldn't receive in unmoderated testing. The human moderator might go on a talking jag, not realizing that they are quelling any impetus to express thoughts or insights by the participant. That human moderator may inadvertently spill the beans about a task's solution through their line of questioning or conversation with the participant.
 
-That human moderator is probably **you** at some point.
+That human moderator is going to be **you** at some point.
 
 How do you [avoid these pitfalls][1]? While there's no guarantee that you can avoid them altogether, you can certainly mitigate the problems by putting the best possible moderator in the room with the participant. You know: You.
 
