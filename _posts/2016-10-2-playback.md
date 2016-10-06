@@ -72,7 +72,7 @@ If you need clarification "in other words," make sure it's the test participant'
 
 ### It's okay to bail out
 
-The test in question called for the candidate to complete three tasks. While the first and third went smoothly; the second had them stumped. Unfortunately, we spent a lot of time "in the weeds" looking for something that just wasn't on the path that the user had chosen. I should have bailed when this became apparent.
+The test in question called for the candidate to complete three tasks. While the first and third went smoothly; the second task had them stumped. Unfortunately, we spent a lot of time "in the weeds" looking for something that just wasn't on the path that the user had chosen. I should have bailed when this became apparent.
 
 Users are going to fail tasks. It's part of the process. But it's also important to keep in mind that failure — even when you've explained that mistakes are **your** fault and never theirs — is disheartening. Spending a lot of time watching the user bang their head against a task you know they aren't going to successfully complete is not productive.
 
