@@ -68,7 +68,7 @@ Better to ask an open-ended question that gets the user talking about what's on 
 
 *Me: "What did you think would happen when you clicked that link?"*
 
-If you need clarification "in other words," make sure it's their words you receive.
+If you need clarification "in other words," make sure it's the test participant's words you receive.
 
 ### It's okay to bail out
 
