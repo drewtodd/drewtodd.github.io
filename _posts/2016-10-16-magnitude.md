@@ -7,6 +7,10 @@ photo-credit: solarseven
 photo-title: A meteor glowing as it enters the Earth's atmosphere
 photo-credit-url: https://www.shutterstock.com/g/solarseven
 photo-credit-alt: solarseven's portfolio on Shutterstock 
+tags:
+- ux
+- usability
+- techniques
 ---
 
 # Magnitude
@@ -67,6 +71,8 @@ If you're running larger (or smaller) numbers of tests you can use percentages t
  <li class="snug"><strong>61-80%</strong></li>
 <li class="snug"><strong>81-100%</strong></li></ol>
 
+If you're dealing with **qualitative data**, you can use [the results of your affinity analysis][4] to determine frequency.
+
 ### Impact
 
 Impact tends to run a little more qualitative and can be hard to quantify. We typically use the following scale to measure the impact of a usability problem:
@@ -105,10 +111,11 @@ Still, Magnitude is a handy tool to use and in many situations can help you mana
 
 
 ### \* Caveat
-*As luck would have it, shortly after writing this I discovered that [Nielsen actually covers this very topic in an even **earlier** article][4] (1995). And his solution is remarkably similar to what I put forth here. So, to be clear, I'm not throwing any shade at Jakob. I'm just illustrating how we handle prioritizing usability issues on my team and taking inspiration from my time doing project management. File this one under "[nothing is original][5]."*
+*As luck would have it, shortly after writing this I discovered that [Nielsen actually covers this very topic in an even **earlier** article][5] (1995). And his solution is remarkably similar to what I put forth here. So, to be clear, I'm not throwing any shade at Jakob. I'm just illustrating how we handle prioritizing usability issues on my team and taking inspiration from my time doing project management. File this one under "[nothing is original][6]."*
 
 [1]:	#caveat "Actually, there is."
 [2]:	https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/
 [3]:	http://network.projectmanagers.net/profiles/blogs/what-is-a-risk-matrix
-[4]:	https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
-[5]:	http://nofilmschool.com/2012/08/kirby-ferguson-creativity-everything-is-a-remix-ted-talk
+[4]:	/qualitative-data "Reporting Qualitative Data"
+[5]:	https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
+[6]:	http://nofilmschool.com/2012/08/kirby-ferguson-creativity-everything-is-a-remix-ted-talk
