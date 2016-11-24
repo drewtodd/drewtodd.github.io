@@ -14,10 +14,14 @@
             <div class="screen-reader-text"><a href="#content" title="Skip to main content">Skip to main content</a></div>
             <div id="navmain">
                 <ul class="menu">
-                    <!-- <li class="menu-item"><a href="/">Home</a></li> -->
                     <li class="menu-item"><a href="/about.html">About</a></li>
+                    <li class="menu-item"><a href="/portfolio">Portfolio</a></li>
                     <li class="menu-item"><a href="/archive.html">Archive</a></li>
                 </ul>
+            </div>
+
+            <div id="navico">
+                MENU <span class="navico-icon"></span>
             </div>
         </nav>
         <h1><a href="/">drwtod.com</a></h1>
@@ -132,6 +136,31 @@
 <p>&copy; <a href="mailto: drew@drwtod.com">Andrew D. Todd</a>; all rights reserved. The opinions expressed herein do not necessarily represent those of my employer nor any organization with which I am affiliated.</p>
 </div>
 </footer>
+
+<!-- This script block handles the mobile "hamburger" menu -->
+<script>
+  document.getElementById('navico').addEventListener('click', checkNav);
+  window.addEventListener("keyup", function(e) {
+    if (e.keyCode == 27) closeNav();
+  }, false);
+
+  function checkNav() {
+    if (document.body.classList.contains('navico-active')) {
+      closeNav();
+    } else {
+      openNav();
+    }
+  }
+
+  function closeNav() {
+    document.body.classList.remove('navico-active');
+  }
+
+  function openNav() {
+    document.body.classList.add('navico-active');
+  }
+</script>
+<!-- This script block is for Google Analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

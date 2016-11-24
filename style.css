@@ -17,7 +17,7 @@ body {
     font-family: 'Merriweather', Georgia, serif;
     font-weight: 400;
     line-height: 1.75em;
-    background-color: #eee;
+    background-color: #f8f8f8;
 }
 
 /*global width*/
@@ -244,46 +244,89 @@ code {
     text-decoration: underline;
 }
 
-/*navigation styles*/
+/*navigation styles for mobile menu (mobmenu)*/
 
-#navmain .menu {
+
+.menu {
+    opacity: 0;
     float: right;
     margin: 0;
     padding: 0em;
 }
 
 #navmain {
+    display: block;
     margin: 0;
     padding: .5em 0 .5em 0;
     float: right;
 }
 
-#navmain ul {
+ul.menu {
+    position: absolute;
+    top: 39px;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    z-index: 100;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    background-color: #333;
+    text-align: right;
 }
 
-#navmain li {
-    float: left;
-    padding: 0;
+.menu li {
     font-size: 1.25em;
     font-weight: 300;
 }
 
-#navmain a {
+.menu a {
     text-decoration: none;
     margin: 0;
-    padding: 0 0 0 1.2rem;
+    padding: 0 1rem 0 0;
     border: 0rem;
     color: #ddd;
-    line-height: 1.25em;
+    line-height: 1em;
 }
 
-#navmain a:hover, #navmain a:active {
+.menu a:hover, .menu a:active {
     color: #fff;
     text-decoration: underline;
 }
+
+#navico {
+    padding: .5em 1em .5em 0;
+    float: right;
+    height: 26px;
+    width: 40px;
+    cursor: pointer
+}
+
+
+.navico-icon, .navico-icon:before, .navico-icon:after {
+    content: '';
+    position: absolute;
+    border-radius: 0;
+    height: 4px;
+    width: 26px;
+    background: #eee;
+}
+
+.navico-icon {
+    top: 1.25em;
+    margin-left: 1em;
+}
+
+.navico-icon:before {
+    top: -0.55em;
+}
+
+.navico-icon:after {
+    top: 0.55em;
+}
+
+.navico-active .menu {
+    opacity: .95;
+}
+
 
 /*homepage stuff*/
 
@@ -599,16 +642,28 @@ td {
 
     /*navigation styles*/
 
-    #navmain .menu {
+    .menu {
+        opacity: 1;
         float: right;
         margin: 0;
         padding: 0em;
     }
 
     #navmain {
+        display: block;
         margin: 0;
-        padding: .5;
+        padding: .5em;
         float: right;
+    }
+
+    ul.menu {
+        position: relative;
+        float: right;
+        width: inherit;
+        top: inherit;
+        list-style-type: none;
+        background-color: #333;
+        text-align: right;
     }
 
     #navmain ul {
@@ -636,6 +691,10 @@ td {
     #navmain a:hover, #navmain a:active {
         color: #fff;
         text-decoration: underline;
+    }
+
+    #navico {
+        display: none;
     }
 
     section.more-posts div:nth-child(2) {
