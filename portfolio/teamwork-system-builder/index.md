@@ -16,97 +16,44 @@ tags:
 
 ## Customizable Collaboration for Conference Rooms and Workspaces
 
-Extron TeamWork® is a fully customizable collaboration system that can be easily tailored to fit collaboration requirements, for up to eight users. The companion [TeamWork System Builder][1] allows customers to choose from a wide range of Extron products to select the switcher, enclosure and "Show Me" cables or Retractors, and IP Link control processor that are best suited for their collaboration environment. 
-
-## The Problem
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Key features of the app include:
-
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
-- Feature 5
-
+Extron TeamWork® is a fully customizable collaboration system that can be easily tailored to fit collaboration requirements, for up to eight users. With it, users can share their device's audio and video output on a common screen (like in a conference or board room). The companion [TeamWork System Builder][1] allows customers to choose from a wide range of Extron products to select the switcher, enclosure and "Show Me" cables or Retractors, and IP Link control processor that are best suited for their collaboration environment. 
 
 <p class="filler-background-dark">
-    <img src="/img/lmb/placeit3.jpg" class="floatcenter" />
+    <img src="teamwork-banner.jpg" class="floatcenter" />
 </p>
 
-## Project Deliverables
 
-<!-- Demo cards -->
-<section class="gallery" lang="en">
-  <figure class="card">
-    <a href="#personas">
-    <div class="image"><img src="/img/lmb/persona-cropped.png" /></div>
-    <figcaption class="caption">Pers&shy;onas</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#scenarios-and-journey-maps">
-    <div class="image"><img src="/img/lmb/scenario-cropped.png" class="" /></div>
-    <figcaption class="caption">Scenar&shy;ios and Journey Maps</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#app-map">
-    <div class="image"><img src="/img/lmb/appmap-cropped.png" class="" /></div>
-    <figcaption class="caption">App Map</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#wireframes">
-    <div class="image"><img src="/img/lmb/wireframes-cropped.png" class="" /></div>
-    <figcaption class="caption">Wire&shy;frames</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#prototype">
-    <div class="image"><img src="/img/lmb/proto-screens-cropped.png" class="" /></div>
-    <figcaption class="caption">Proto&shy;type</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#results">
-    <div class="image"><img src="/img/lmb/intro-screen.png" class="" /></div>
-    <figcaption class="caption">Results</figcaption>
-    </a>
-  </figure>
-</section>
+## The Opportunity
 
-<em class="img-caption">Click a panel to jump to that section</em>
+Extron's TeamWork line of configurable collaboration offers AV Design Engineers and Consultants with the flexibility they need to provide their customers with state-of-the-art tools that fit their environments. When the product concept was introduced, customers had to work directly with Extron Sales staff to put together an often daunting list of products, accessories, and installation components -- **a time consuming process for both parties**. System requirements are not static throughout an AV design, bid, and installation process, so changes were often complicated and difficult to track.
 
-## The Process: Design, Validate, Iterate
+We designed and built the TeamWork System Builder to allow Extron customers to design their systems on-the-fly in **a simple step-by-step process**, enabling them to easily see which accessories and installation pieces were needed for their specific environment -- all without needing to be on the phone with an Extron support representative.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<p class="filler-background-dark">
+    <img src="steps.jpg" class="floatcenter" />
+</p>
 
-## Design Principles
+### Key benefits
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<ol>
+  <li class="snug">Immediate feedback and results for Extron customers</li>
+  <li class="snug">Reduced support overhead for Extron</li>
+  <li class="snug">Flexibility to quickly adapt to changing system requirements</li>
+  <li class="snug">A definitive parts list, a unique part number for each system, and price for inclusion in bids and contracts</li>
+  <li class="snug">Tracking and analytics for Extron Sales, Marketing, and Product Development to help track opportunities and drive future product design decisions</li>
+</ol>
 
-## Scenarios and Journey Maps
+### Screens
 
-**Tool of choice: Omnigraffle**
+<p>
+    <img src="screens.jpg" class="floatcenter" />
+    <em>The simple, step-by-step process of the TeamWork System Builder</em>
+</p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Results
 
-<a href="/img/lmb/scenario.png" target="_blank" class="noline"><img src="/img/lmb/scenario-cropped.png" class="floatcenter" />
-*A sample scenario/journey map created from the personas and app requirements (click to view the whole thing)*</a>
+Feedback from customers and sales has been **overwhelmingly positive** and Extron's Product Development team has used **metrics from the tool to drive recent product enhancements**. Additionally, the implementation of a unique part number for each configuration has resulted in **increased effeciency in Operations**, and **greater visibility for forecasting purposes** in our Sales and Product Marketing teams.
 
-
-## Retrospective
-<!-- Lessons learned go here -->
-
-This was a moderately sized project with many screens and interactions to keep track of. As such, a big takeaway was the importance of [working in an organized fashion][5]. Keeping track of all the parts can be daunting and good organizational skills quickly becomes just as important as good design skills.
-
-Also, the value of peer and user feedback was extremely important in producing a better product. The ability to [give and receive quality critiques][6] really pushed me and my fellow designers. The **Design** > **Validate** > **Iterate** process proved invaluable in improving the quality of the finished app.
-
-Finally, this project focused heavily on tools and process development. [Knowing my tools][7] and having (or in some cases developing) a solid kit of templates, typography, and assets really helped with productivity. I also spent a good amount of time developing [the 16:9 mobile app framework][8] that I used for this project; something that I'll continue to develop use again on other projects.
-
-At the end of the day, Lunch Money Buddy is an app that provides a valuable service to parents of kids who have to work school lunches into their already busy schedule.
 
 
 
