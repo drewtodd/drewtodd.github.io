@@ -29,7 +29,7 @@ With more than twenty years of leading teams and building products under my belt
 
 These are my favorite aspects of the trade: Working with people. Collaborating. Helping people realize their talent and passion and building something fantastic in the process.
 
-We've done everything from building proprietary **Content Management Systems**, to a sophisticated **Email Marketing Campaign Suite**. I've worked with third party vendors like **[Adobe][1]**, **[Akamai][2]**, **[Epicor][4]**, **[Microsoft][5]**, and **[Across][3]** to integrate our processes with their solutions. While it's not practical (nor terribly interesting) to list _everything_ I've worked over the past two decades, the list below highlights some of the more exciting and impactful works my teams have created.
+We've done everything from building proprietary **Content Management Systems**, to a sophisticated **Email Marketing Campaign Suite**. I've worked with third party vendors including **[Adobe][1]**, **[Akamai][2]**, **[Epicor][4]**, **[Microsoft][5]**, and **[Across][3]** to integrate our processes with their solutions. While it's not practical (nor terribly interesting) to list _everything_ I've worked over the past two decades, the list below highlights some of the more exciting and impactful works my teams have created.
 
 ## Some of the Products My Teams Have Built
 

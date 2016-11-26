@@ -41,8 +41,9 @@ When Extron wanted to expand international distribution of their quarterly journ
 
 My team worked extensively with Extron's Marketing Communications group to come up with unique and compelling ways to tell the stories in each issue. MarComm copywriters, illustrators, and 3D modelers collaborated with my design and development teams to craft the content for each respective platform.
 
-## Retrospective
-<!-- Lessons learned go here -->
+## Results
+
+AVSD is a publication that continues to enhance Extron's reputation as thought and design-leaders in the AV industry and the companion website and iPad application **only strengthen that reputation**. With the success of these two platforms, the demand for print subscriptions has descreased significantly (especially overseas), resulting in **significant cost-savings** for the company, while still being able to provide this top-notch, groundbreaking content to the industry.
 
 
 
