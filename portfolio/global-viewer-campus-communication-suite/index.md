@@ -3,9 +3,7 @@ layout: post
 title: Andrew Todd's Portfolio - Project Name
 photo-url: hero.jpg
 photo-title: Photo title goes here
-photo-credit: Credit goes here
-photo-credit-url: http://www.drwtod.com
-photo-credit-alt: Alt text goes here
+photo-credit: Shutterstock, Extron Electronics
 tags:
 - portfolio
 ---
@@ -16,99 +14,45 @@ tags:
 
 ## Web-based Management of Bells, and PA Systems for Schools
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The [GlobalViewer Campus Communication Suite][1] is a complete solution for unifying all campus audio systems under an easy-to-use interface. The suite leverages the power of your existing network to provide bells, public address announcements and intercom communications throughout campus. The user interface is web-based and allows office personnel to easily manage bell schedules, broadcast announcements to various zones, or have two-way conversations with classrooms.
 
-## The Problem
+## The Opportunity
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+K12 and higher education institutions were looking for a way to integrate their bell, paging and public address announcements into the tools that they were already using to manage their campus technology assets. At the time that we were approached to design and implement a solution, no one in the AV industry offered this type of feature and customers indicated that it would a difference-maker. Our objective was to quickly get a solution to market and **establish a competitive advantage** in this fast-growing market.
 
-Key features of the app include:
-
-- Intuitive, web-based user interface
-- Manage bells, public address announcements, and intercom over your existing network
-- Flexible bell scheduling
-- Live and pre-recorded public address announcements
-- Integrated intercom system
-
-
-<p class="filler-background-dark">
-    <img src="/img/lmb/placeit3.jpg" class="floatcenter" />
+<p>
+    <img src="diagram.png" class="floatcenter" />
 </p>
 
-## Project Deliverables
+### Rapid Design, Validation and Iteration
 
-<!-- Demo cards -->
-<section class="gallery" lang="en">
-  <figure class="card">
-    <a href="#personas">
-    <div class="image"><img src="/img/lmb/persona-cropped.png" /></div>
-    <figcaption class="caption">Pers&shy;onas</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#scenarios-and-journey-maps">
-    <div class="image"><img src="/img/lmb/scenario-cropped.png" class="" /></div>
-    <figcaption class="caption">Scenar&shy;ios and Journey Maps</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#app-map">
-    <div class="image"><img src="/img/lmb/appmap-cropped.png" class="" /></div>
-    <figcaption class="caption">App Map</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#wireframes">
-    <div class="image"><img src="/img/lmb/wireframes-cropped.png" class="" /></div>
-    <figcaption class="caption">Wire&shy;frames</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#prototype">
-    <div class="image"><img src="/img/lmb/proto-screens-cropped.png" class="" /></div>
-    <figcaption class="caption">Proto&shy;type</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#results">
-    <div class="image"><img src="/img/lmb/intro-screen.png" class="" /></div>
-    <figcaption class="caption">Results</figcaption>
-    </a>
-  </figure>
-</section>
+Given the nature of education installation cycles (the window of opportunity to install new products is the few weeks between sessions in the summer and winter), we were given an extremely tight **deadline of three months** to build the product, from concept to deployment at [our first customer][2], the Forestville Unified School District in the Napa Valley region of Northern California. For this reason we adopted the "fail fast, fail often" mantra and collocated the entire team to engage in a collaborative, iterative design-validate-iterate process. Not only did we **meet our deadline**, but we were also **able to include additional features** not originally specified in the minimum viable product and our user interface was praised as being one of **the most user-friendly** the company had produced up to that point.
 
-<em class="img-caption">Click a panel to jump to that section</em>
+<p class="filler-background-dark">
+    <img src="forestville.jpg" class="floatcenter" />
+</p>
 
-## The Process: Design, Validate, Iterate
+### Key features of the app include:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<ol>
+<li class="snug">Manage bells, public address announcements, and intercom over an existing network</li>
+<li class="snug">Intuitive graphical user interface accessible from a web browser</li>
+<li class="snug">Flexible bell scheduling</li>
+<li class="snug">Live and pre-recorded public address announcements</li>
+<li class="snug">Integrated intercom system</li>
+</ol>
 
-## Design Principles
+### Sample Screens
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<p>
+    <img src="screens.jpg" class="floatcenter" />
+</p>
 
-## Scenarios and Journey Maps
+## Results
 
-**Tool of choice: Omnigraffle**
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<a href="/img/lmb/scenario.png" target="_blank" class="noline"><img src="/img/lmb/scenario-cropped.png" class="floatcenter" />
-*A sample scenario/journey map created from the personas and app requirements (click to view the whole thing)*</a>
-
-
-## Retrospective
-<!-- Lessons learned go here -->
-
-This was a moderately sized project with many screens and interactions to keep track of. As such, a big takeaway was the importance of [working in an organized fashion][5]. Keeping track of all the parts can be daunting and good organizational skills quickly becomes just as important as good design skills.
-
-Also, the value of peer and user feedback was extremely important in producing a better product. The ability to [give and receive quality critiques][6] really pushed me and my fellow designers. The **Design** > **Validate** > **Iterate** process proved invaluable in improving the quality of the finished app.
-
-Finally, this project focused heavily on tools and process development. [Knowing my tools][7] and having (or in some cases developing) a solid kit of templates, typography, and assets really helped with productivity. I also spent a good amount of time developing [the 16:9 mobile app framework][8] that I used for this project; something that I'll continue to develop use again on other projects.
-
-At the end of the day, Lunch Money Buddy is an app that provides a valuable service to parents of kids who have to work school lunches into their already busy schedule.
+The GlobalViewer Campus Communication Suite has been an overwhelming success. We succeeded in our goal of being first-to-market and the product is currently **utilized in over 2500 rooms** on K12 and university campuses throughout the United States. It is a product we continue to support, rolling out routine feature enhancement each June.
 
 
 
-[1]: https://www.kent.edu/slis/uxd
-[2]: /fidelity "Read more about my thoughts on wireframes and fidelity here"
+[1]: http://extronclassroom.com/product/GlobalViewer-Campus-Communication-Suite-gvccs
+[2]: http://www.extron.com/company/article.aspx?id=forestville "Case Study: Forestville USD Improves Campus Communication with Extron Classroom AV Technology"
