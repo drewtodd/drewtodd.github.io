@@ -2,20 +2,34 @@
 layout: post
 title: Andrew Todd's Portfolio
 photo-url: hero.jpg
-photo-title: Photo title goes here
-photo-credit: Credit goes here
+photo-title: A banner illustrating people, process, and policy
+photo-credit: Andrew Todd
 photo-credit-url: http://www.drwtod.com
-photo-credit-alt: Alt text goes here
+photo-credit-alt: I made this!
 tags:
 - portfolio
 ---
 
 <link rel="stylesheet" type="text/css" href="/portfolio.css">
+<style type="text/css">
+  .icon-users, .icon-process, .icon-policy {
+      font-family: FontAwesome;
+      font-size: 7.5em;
+      float: right;
+      text-align: right;
+      padding: .5em;
+      color: #999;
+  }
+</style>
 
 # People. Process. Policy.
 
 ## Success through collaboration, innovation, and stability
-20-plus years leadership experience in the Internet, Web, and mobile domains. Skilled leader, adept at motivating and inspiring teams to build innovative products that meet organizational objectives and provide an engaging user experience. Certified project manager with a design and engineering background.
+With more than twenty years of leading teams and building products under my belt, I've seen a lot of projects come and go. I've also seen many of the creative, bright people I work with go from content specialists and junior level practitioners to senior designers, engineers, and into management. 
+
+These are my favorite aspects of the trade: Working with people. Collaborating. Helping people realize their talent and passion and building something fantastic in the process.
+
+We've done everything from building proprietary **Content Management Systems**, to a sophisticated **Email Marketing Campaign Suite**. I've worked with third party vendors like **[Adobe][1]**, **[Akamai][2]**, and **[Across][3]** to integrate our processes with their solutions. While it's not practical (nor terribly interesting) to list _everything_ I've worked over the past two decades, the list below highlights some of the more exciting and impactful works my teams have created.
 
 ## Some of the Products My Teams Have Built
 
@@ -63,12 +77,26 @@ tags:
 
 ## The People: A Dynamic, Collaborative Team
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div class="icon-users">&#xf0c0;</div>**The most important asset for success**, my team consists of units focused on Research, Design, Engineering, Quality Assurance, Content Strategy and Management on three continents. Together we collaborate and work with stakeholders and executive management to design and engineer solutions that benefit our customers and our bottom line.
+
+**Communication** is key, as is **transparency**. Whether in digital or old-school face-to-face formats, I urge my team to regularly communicate with each other and with stakeholders, and I make sure to always be available myself.
+
+Finally, **integrity** is vital to success. It is critical that leaders lead from the front. "**Walking the talk**," as they say, is what motivates and inspires those who work around you, and leading by example encourages others to do the same.
 
 ## The Process: Design, Validate, Iterate
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div class="icon-process">&#xf085;</div>
+To be honest, I have a love-hate relationship with process. Process is an important part of creating a system whereby people can express their creativity, maximize their productivity, and ensure consistency in product quality, but our process is more of a toolbox that a strict method. Different projects require different approaches and each product presents unique challenges. **There is no cookie-cutter approach**, especially in a fast-paced environment where priorities change frequently. 
+
+Over the years I've worked to ensure that people have the tools they need to be creative and productive, but most of our process revolves around collaboration and a simple **design-validate-iterate** approach. I loosely employ the tenets of **Lean UX**, **Kanban** and **Agile SCRUM** to maintain flexibility and adaptability while still ensuring that we focus on balancing the needs of the organization and the user.
 
 ## The Policy: Structure, Accountability, and Oversight
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<span class="icon-policy">&#xf19c;</span>
+Again, when it comes to policy, it is critical to document what is important, establish roles and resposibilities, and set standards for accountability. But it is also **key to maintain a lightweight system**. Having a folder full of documents that no one reads (or updates) doesn't serve anyone.
+
+Having said that, I've worked hard over the years to ensure that my teams have well documented, maintainable policies and procedures. I've worked with our Marketing Teams to develop and document a **comprehensive content management strategy**. I've partnered with the Extron Information Technologies group to document a set of **proactive security policies and procedures**. I've sat down with Marketing and Product Development and championed the need for a serious **committment to user centered design and development**. And I've set forth guidelines to regularly review and update these processes as needed.
+
+[1]: http://www.adobe.com/marketing-cloud/web-analytics.html "Adobe Analytics"
+[2]: https://www.akamai.com "Akamai CDN"
+[3]: http://www.across.net/en/ "Across Language Technology"

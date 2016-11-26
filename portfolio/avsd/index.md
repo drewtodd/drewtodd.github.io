@@ -23,14 +23,14 @@ AVSD was created to provide substantial technical articles and other information
 
 When Extron wanted to expand international distribution of their quarterly journal, they didn't want to incur the additional cost of shipping that would entail, so we started looking at alternative methods of delivering this groundbreaking content in a compelling way. We decided that a website and a native iPad application would give us the opportunity to reach a broader audience, while also taking advantage of the interactive options the two platforms afforded us.
 
-### AVSD.COM
+## AVSD.COM
 
 [The AVSD website][1] offered us the opportunity to include more -- and more dynamic -- content to readers than we could have realistically done in traditional print. Interactive diagrams, audio and video all helped tell the story of each article in a very portable and universally accessible format.
 
 <img src="website-screens.jpg" class="floatcenter" />
 *AVSD offers interactive diagrams and more in-depth analysis than the print version; surpassing the limitations and costs associated with traditional print*
 
-### AVSD for iPad
+## AVSD for iPad
 
 [The iPad version][2] is a native iOS application with each issue designed in four layouts (portrait and landscape modes at standard and retina resolutions). Quality assurance was especially challenging, due to Apple's fairly restrictive provisioning and testing policies. Users installed a shell application, which notified them when new issues were available for download.
 
