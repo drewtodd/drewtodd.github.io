@@ -14,104 +14,65 @@ tags:
 
 ## Full configuration of high-end AV switching systems
 
-With a few clicks of the mouse, your XTP System evolves from an empty frame to a complete design that includes extenders, accessories, and cabling. XTP System Builder generates an as-configured custom part number for the XTP matrix switcher and compiles all selected components into a single equipment list.
+Extron's flagship XTP Systems provide large-scale, modular AV switching and control. This system is the premier digital AV solution, ideal for corporate, government, healthcare, and network operations environments.
 
 <p class="filler-background-dark">
     <img src="xtpsc_configurator_banner.jpg" class="floatcenter" />
 </p>
 
+## The Opportunity
 
-## The Problem
+XTP Systems are extremely flexible and powerful, but they are also highly complex and not inexpensive. When we initially introduced the XTP Switching products, customers were forced to work closely with Extron Sales Engineers to work through the myriad options and accessories such a system offered. It was time consuming for the customer, and put a strain on our support team.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[The XTP System Builder][1] is an online tool that allows AV system design engineers and consultants to quickly and easily configure complex, large scale switching systems. With a few clicks of the mouse, their XTP System evolves from an empty frame to a complete design that includes extenders, accessories, and cabling. XTP System Builder generates an as-configured custom part number for the XTP matrix switcher and compiles all selected components into a single equipment list, making a once-complex and burdensome process simple and convenient.
+
+<p class="filler-background-dark">
+    <img src="powertracker.jpg" class="floatcenter" />
+</p>
 
 Key features of the app include:
 
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
-- Feature 5
+<ol>
+  <li class="snug"><strong>Intuitive user interface</strong> for quick, easy configuration</li>
+  <li class="snug"><strong>Power Tracker:</strong> All of those components use power. The Power Tracker feature lets the customer keep an eye on power consumption, ensuring efficient usage upon installation.</li>
+  <li class="snug"><strong>Bill of Materials:</strong> Customers can easily save product lists in formats that import easily into system quotes, design plans, or email</li>
+  <li class="snug"><strong>Custom Part Number:</strong> Customers get a single part number, convenient for including in contracts, quotes, and bids.</li>
+</ol>
 
+## User Centered Design
 
-<p class="filler-background-dark">
-    <img src="/img/lmb/placeit3.jpg" class="floatcenter" />
+We invested heavily in user research for this project, including extensive user interviews, prototyping, and usability testing. Leveraging our [Usability Lab][2], the team was able to bring in Design Engineers and Consultants and have them perform task-oriented usability sessions while the design and development teams watched from a remote conference room. The results were compelling, as team members could see firsthand where their design decisions presented problems for real users. This fueled our intensive [design-validate-iterate process][3] and allowed us to quickly react to changes while still moving forward towards our deployment deadline.
+
+<p>
+    <img src="/img/streaming-rig1.jpg" class="floatcenter" />
+    <em>Our Usability Lab, with remote observation rig.</em>
 </p>
 
-## Project Deliverables
 
-<!-- Demo cards -->
-<section class="gallery" lang="en">
-  <figure class="card">
-    <a href="#personas">
-    <div class="image"><img src="/img/lmb/persona-cropped.png" /></div>
-    <figcaption class="caption">Pers&shy;onas</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#scenarios-and-journey-maps">
-    <div class="image"><img src="/img/lmb/scenario-cropped.png" class="" /></div>
-    <figcaption class="caption">Scenar&shy;ios and Journey Maps</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#app-map">
-    <div class="image"><img src="/img/lmb/appmap-cropped.png" class="" /></div>
-    <figcaption class="caption">App Map</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#wireframes">
-    <div class="image"><img src="/img/lmb/wireframes-cropped.png" class="" /></div>
-    <figcaption class="caption">Wire&shy;frames</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#prototype">
-    <div class="image"><img src="/img/lmb/proto-screens-cropped.png" class="" /></div>
-    <figcaption class="caption">Proto&shy;type</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#results">
-    <div class="image"><img src="/img/lmb/intro-screen.png" class="" /></div>
-    <figcaption class="caption">Results</figcaption>
-    </a>
-  </figure>
-</section>
+## Design Decisions Driven By Research
+<p>
+    <img src="screen01.jpg" class="floatcenter" />
+    <em>With such a large selection of potential boards for our modular switching chassis, the XTP System Builder makes it easy to find the Input and Output options our customers need for their particular solution. Little things like the <strong>"Filter By"</strong> control in the right-hand panel made a huge difference for users.</em>
+    <br />
+</p>
 
-<em class="img-caption">Click a panel to jump to that section</em>
+<p>
+    <img src="screen02.jpg" class="floatcenter" />
+    <em>Research showed that <strong>a visual, card-based grid</strong> was the most effective method of offering choices to users. Believe it or not, they actually look at those little grey boxes when choosing their options. The <strong>Power Tracker feature</strong> was a critical element that users told us gave them added confidence when builder their systems.</em>
+    <br />
+</p>
 
-## The Process: Design, Validate, Iterate
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Design Principles
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Scenarios and Journey Maps
-
-**Tool of choice: Omnigraffle**
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<a href="/img/lmb/scenario.png" target="_blank" class="noline"><img src="/img/lmb/scenario-cropped.png" class="floatcenter" />
-*A sample scenario/journey map created from the personas and app requirements (click to view the whole thing)*</a>
-
+<p>
+    <img src="screen03.jpg" class="floatcenter" />
+    <em>Our customers told us in interviews that <strong>accessories were a nagging inconvenience</strong> for them when customizing a complex system. Seemingly trivial items like adapters and couplers would easily get missed and derail an otherwise straightforward installation. As a result, we added an accessories step to the Sytem Builder.</em>
+    <br />
+</p>
 
 ## Retrospective
 <!-- Lessons learned go here -->
-
-This was a moderately sized project with many screens and interactions to keep track of. As such, a big takeaway was the importance of [working in an organized fashion][5]. Keeping track of all the parts can be daunting and good organizational skills quickly becomes just as important as good design skills.
-
-Also, the value of peer and user feedback was extremely important in producing a better product. The ability to [give and receive quality critiques][6] really pushed me and my fellow designers. The **Design** > **Validate** > **Iterate** process proved invaluable in improving the quality of the finished app.
-
-Finally, this project focused heavily on tools and process development. [Knowing my tools][7] and having (or in some cases developing) a solid kit of templates, typography, and assets really helped with productivity. I also spent a good amount of time developing [the 16:9 mobile app framework][8] that I used for this project; something that I'll continue to develop use again on other projects.
-
-At the end of the day, Lunch Money Buddy is an app that provides a valuable service to parents of kids who have to work school lunches into their already busy schedule.
+As Extron's flagship product line, it was critical that we make the XTP as easy to use as possible. With extensive research and testing, we were able to quickly provide a product solution that we were confident would meet the needs of our customers, while relieving pressure from our support teams and having a positive impact on the company's bottom line.
 
 
-
-[1]: https://www.kent.edu/slis/uxd
-[2]: /fidelity "Read more about my thoughts on wireframes and fidelity here"
+[1]: http://www.extron.com/product/xtpsc/index.aspx?src=drw "XTP System Builder"
+[2]: /remote-ux-observation "Remote UX Observation"
+[3]: /portfolio/#the-process-design-validate-iterate "The Process: Design, Validate, Iterate"
