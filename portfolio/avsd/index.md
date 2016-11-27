@@ -2,10 +2,8 @@
 layout: post
 title: Andrew Todd's Portfolio - Project Name
 photo-url: hero.jpg
-photo-title: Photo title goes here
-photo-credit: Shutterstock
+photo-credit: Shutterstock, Extron Electronics
 photo-credit-url: http://www.shutterstock.com
-photo-credit-alt: Alt text goes here
 tags:
 - portfolio
 ---

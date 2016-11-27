@@ -95,10 +95,11 @@ Over the years I've worked to ensure that people have the tools they need to be 
 <span class="icon-policy">&#xf19c;</span>
 Again, when it comes to policy, it is critical to document what is important, establish roles and resposibilities, and set standards for accountability. But it is also **key to maintain a lightweight system**. Having a folder full of documents that no one reads (or updates) doesn't serve anyone.
 
-Having said that, I've worked hard over the years to ensure that my teams have well documented, maintainable policies and procedures. I've worked with our Marketing Teams to develop and document a **comprehensive content management strategy**. I've partnered with the Extron Information Technologies group to document a set of **proactive security policies and procedures**. I've sat down with Marketing and Product Development and championed the need for a serious **committment to user centered design and development**. And I've set forth guidelines to regularly review and update these processes as needed.
+Having said that, I've worked hard over the years to ensure that my teams have well documented, maintainable policies and procedures. I've worked with our Marketing Teams to develop and document a **comprehensive content management strategy** and **[living styleguide][6]**. I've partnered with the Extron Information Technologies group to document a set of **proactive security policies and procedures**. I've sat down with Marketing and Product Development and championed the need for a serious **committment to user centered design and development**. And I've set forth guidelines to regularly review and update these processes as needed.
 
 [1]: http://www.adobe.com/marketing-cloud/web-analytics.html "Adobe Analytics"
 [2]: https://www.akamai.com "Akamai CDN"
 [3]: http://www.across.net/en/ "Across Language Technology"
 [4]: http://www.epicor.com/ "Epicor"
 [5]: http://azure.microsoft.com/ "Microsoft Azure"
+[6]: /portfolio/styleguide "Styleguide"

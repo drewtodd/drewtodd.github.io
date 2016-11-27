@@ -16,99 +16,55 @@ tags:
 
 ## Drinks, Dancing, and Fun in the Exclusive App for Orange County's Hottest Country Music Dancing and Live Music Spot
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+When Extron President Andrew Edwards decided to make [his personal vision and dream][1] of a state-of-the-art, fine dining and country music establishment a reality, he pulled out all the stops. The result is [The Ranch][2], two upscale venues -- one a top-flight restaurant, the other an exclusive dance hall -- that are among the best in Southern California. In addition to a memorable visit, he wanted to ensure that customers could also get an exciting and compelling experience while on the go.
 
-## The Problem
+<p class="filler-background-dark">
+    <img src="dancefloor.jpg" class="floatcenter" />
+</p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## The Opportunity
+
+Enter [The Ranch Saloon Mobile App][3].
+
+We built the Saloon app to provide patrons with a way to share their experience on the dance floor with friends and family, as well as a way to get the latest on upcoming acts, menu, and venue information. From the business side of things, the app provides The Ranch a way to stay in the front of their customers' minds, keeping the restaurant and saloon on their respective dining and entertainment radars in an exceedingly competitive market.
 
 Key features of the app include:
 
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
-- Feature 5
+<ol>
+  <li class="snug">Live Streaming Video: Users can tune in to see live country music acts or watch as pro dancers teach the latest country western steps</li>
+  <li class="snug">Nightly photos of the fun and revelry on the dance floor that guests can download and share on social media</li>
+  <li class="snug">Saloon calendar of events</li>
+  <li class="snug">Menu</li>
+</ol>
 
+## Streaming Video: Working With the Guys Upstairs
+
+The Ranch sits on the first floor of what is Extron Electronic's world headquarters in Anaheim, California. This gave us access to some of the best AV engineering in the world, just a few floors above. As a result, we were able to work with Extron engineers to design a state-of-the-art streaming solution for the nightly video.
 
 <p class="filler-background-dark">
-    <img src="/img/lmb/placeit3.jpg" class="floatcenter" />
+    <img src="control-room.jpg" class="floatcenter" />
 </p>
 
-## Project Deliverables
+### Extron Hardware
+We had access to [prototype streaming hardware][4] (which Extron has since released as its flagship streaming solution) and a full rack of switching and processing equipment. Working with the product engineers, this project served as a proof-of-concept for some AV streaming solutions that are now becoming mainstream in the industry.
 
-<!-- Demo cards -->
-<section class="gallery" lang="en">
-  <figure class="card">
-    <a href="#personas">
-    <div class="image"><img src="/img/lmb/persona-cropped.png" /></div>
-    <figcaption class="caption">Pers&shy;onas</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#scenarios-and-journey-maps">
-    <div class="image"><img src="/img/lmb/scenario-cropped.png" class="" /></div>
-    <figcaption class="caption">Scenar&shy;ios and Journey Maps</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#app-map">
-    <div class="image"><img src="/img/lmb/appmap-cropped.png" class="" /></div>
-    <figcaption class="caption">App Map</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#wireframes">
-    <div class="image"><img src="/img/lmb/wireframes-cropped.png" class="" /></div>
-    <figcaption class="caption">Wire&shy;frames</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#prototype">
-    <div class="image"><img src="/img/lmb/proto-screens-cropped.png" class="" /></div>
-    <figcaption class="caption">Proto&shy;type</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="#results">
-    <div class="image"><img src="/img/lmb/intro-screen.png" class="" /></div>
-    <figcaption class="caption">Results</figcaption>
-    </a>
-  </figure>
-</section>
+### Wowza!
+From the software side of things, we worked with Microsoft to leverage their [Azure cloud solution][5] to work with [Wowza Media Systems' cloud streaming infrastructure][6]. Microsoft gave us the scalability we needed, and Wowza made the software implementation a relatively painless one.
 
-<em class="img-caption">Click a panel to jump to that section</em>
-
-## The Process: Design, Validate, Iterate
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Design Principles
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Scenarios and Journey Maps
-
-**Tool of choice: Omnigraffle**
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<a href="/img/lmb/scenario.png" target="_blank" class="noline"><img src="/img/lmb/scenario-cropped.png" class="floatcenter" />
-*A sample scenario/journey map created from the personas and app requirements (click to view the whole thing)*</a>
-
+<p class="filler-background-dark">
+    <img src="app-isometric.jpg" class="floatcenter" />
+</p>
 
 ## Retrospective
 <!-- Lessons learned go here -->
 
-This was a moderately sized project with many screens and interactions to keep track of. As such, a big takeaway was the importance of [working in an organized fashion][5]. Keeping track of all the parts can be daunting and good organizational skills quickly becomes just as important as good design skills.
-
-Also, the value of peer and user feedback was extremely important in producing a better product. The ability to [give and receive quality critiques][6] really pushed me and my fellow designers. The **Design** > **Validate** > **Iterate** process proved invaluable in improving the quality of the finished app.
-
-Finally, this project focused heavily on tools and process development. [Knowing my tools][7] and having (or in some cases developing) a solid kit of templates, typography, and assets really helped with productivity. I also spent a good amount of time developing [the 16:9 mobile app framework][8] that I used for this project; something that I'll continue to develop use again on other projects.
-
-At the end of the day, Lunch Money Buddy is an app that provides a valuable service to parents of kids who have to work school lunches into their already busy schedule.
+This was one of the most unusual and exciting projects my team has had the pleasure of working on. Integrating with a variety of hardware and software solutions was challenging and ultimately rewarding. Also, the opportunity to work with a variety of stakeholders, engineers, and product development managers really gave me a newfound respect for the work that they have to do. To sit in an office and talk about products in the abstract is one thing; to walk into a real environment -- with all of its challenges, technical hurdles, and physical contstraints -- and design a working solution was very rewarding.
 
 
 
-[1]: https://www.kent.edu/slis/uxd
-[2]: /fidelity "Read more about my thoughts on wireframes and fidelity here"
+[1]: http://www.ocregister.com/articles/edwards-230074-orange-extron.html "Steak and electronics, anyone?"
+[2]: theranch.pdf "AVSD Cover Story - The Ranch"
+[3]: http://saloon.theranch.com/ "The Ranch Saloon App"
+[4]: http://www.extron.com/product/product.aspx?id=smp351&subtype=481&s=10&src=drw "Extron Electronics - SMP 351 - H.264 Streaming Media Processor"
+[5]: http://azure.microsoft.com/ "Microsoft Azure: Cloud Computing Platform & Services"
+[6]: http://www.wowza.com/ "Wowza Media Systems"
