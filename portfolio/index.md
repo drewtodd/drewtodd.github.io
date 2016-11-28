@@ -42,6 +42,12 @@ We've done everything from building proprietary **Content Management Systems**, 
     </a>
   </figure>
   <figure class="card">
+    <a href="./xtp-system-builder">
+    <div class="image"><img src="img/xtp-thumb.jpg" class="" /></div>
+    <figcaption class="caption">XTP System Builder</figcaption>
+    </a>
+  </figure>
+  <figure class="card">
     <a href="./global-viewer-campus-communication-suite">
     <div class="image"><img src="img/gvccs-thumb.jpg" class="" /></div>
     <figcaption class="caption">GVCCS Campus Communication</figcaption>
@@ -63,12 +69,6 @@ We've done everything from building proprietary **Content Management Systems**, 
     <a href="./teamwork-system-builder">
     <div class="image"><img src="img/twsb-thumb.jpg" class="" /></div>
     <figcaption class="caption">Teamwork System Builder</figcaption>
-    </a>
-  </figure>
-  <figure class="card">
-    <a href="./xtp-system-builder">
-    <div class="image"><img src="img/xtp-thumb.jpg" class="" /></div>
-    <figcaption class="caption">XTP System Builder</figcaption>
     </a>
   </figure>
 </section>
