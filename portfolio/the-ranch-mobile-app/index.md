@@ -31,10 +31,10 @@ We built the Saloon app to provide patrons with a way to share their experience 
 Key features of the app include:
 
 <ol>
-  <li class="snug">Live Streaming Video: Users can tune in to see live country music acts or watch as pro dancers teach the latest country western steps</li>
-  <li class="snug">Nightly photos of the fun and revelry on the dance floor that guests can download and share on social media</li>
-  <li class="snug">Saloon calendar of events</li>
-  <li class="snug">Menu</li>
+  <li class="snug"><strong>Live Streaming Video:</strong> Users can tune in to see live country music acts or watch as pro dancers teach the latest country western steps</li>
+  <li class="snug"><strong>Nightly photos</strong> of the fun and revelry on the dance floor that guests can download and share on social media</li>
+  <li class="snug"><strong>Saloon calendar</strong> of events</li>
+  <li class="snug"><strong>Menu</strong></li>
 </ol>
 
 ## Streaming Video: Working With the Guys Upstairs
