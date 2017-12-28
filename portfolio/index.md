@@ -86,7 +86,7 @@ Finally, **integrity** is vital to success. It is critical that leaders lead fro
 ## The Process: Design, Validate, Iterate
 
 <div class="icon-process">&#xf085;</div>
-To be honest, I have a love-hate relationship with process. Process is an important part of creating a system whereby people can express their creativity, maximize their productivity, and ensure consistency in product quality, but our process is more of a toolbox that a strict method. Different projects require different approaches and each product presents unique challenges. **There is no cookie-cutter approach**, especially in a fast-paced environment where priorities change frequently. 
+To be honest, I have a love-hate relationship with process. Process is an important part of creating a system whereby people can express their creativity, maximize their productivity, and ensure consistency in product quality, but our process is more toolbox than strict method. Different projects require different approaches and each product presents unique challenges. **There is no cookie-cutter approach**, especially in a fast-paced environment where priorities change frequently. 
 
 Over the years I've worked to ensure that people have the tools they need to be creative and productive, but most of our process revolves around collaboration and a simple **design-validate-iterate** approach. I loosely employ the tenets of **Lean UX**, **Kanban** and **Agile SCRUM** to maintain flexibility and adaptability while still ensuring that we focus on balancing the needs of the organization and the user.
 
