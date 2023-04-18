@@ -13,7 +13,11 @@ tags:
 - techniques
 ---
 
-# UX and AI: Tools to Streamline Your UX Workflow
+# UX and AI
+
+## Tools to Streamline Your UX Workflow
+
+### 5 minute read
 
 As UX professionals, we all know the importance of collecting and analyzing data to inform design decisions and improve the user experience. But with so much data to collect and analyze, it can be a time-consuming and overwhelming process. That's where AI-powered tools come in. By using these tools, we can streamline our UX workflows, saving time and increasing efficiency. Plus, who doesn't love a robot assistant?
 
