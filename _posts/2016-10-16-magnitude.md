@@ -2,11 +2,11 @@
 title: Magnitude
 layout: post
 permalink: /magnitude
-photo-url: /img/impact1.jpg
-photo-credit: solarseven
-photo-title: A meteor glowing as it enters the Earth's atmosphere
-photo-credit-url: https://www.shutterstock.com/g/solarseven
-photo-credit-alt: solarseven's portfolio on Shutterstock 
+photoUrl: /assets/img/impact1.jpg
+photoCredit: solarseven
+photoTitle: A meteor glowing as it enters the Earth's atmosphere
+photoCreditUrl: https://www.shutterstock.com/g/solarseven
+photoCreditAlt: solarseven's portfolio on Shutterstock 
 tags:
 - ux
 - usability

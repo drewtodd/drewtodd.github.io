@@ -2,10 +2,10 @@
 title: TitleGoesHere
 layout: post
 permalink: /linkgoeshere
-photo-url: /img/image.jpg
-photo-title: “PhotoTitle”
-photo-credit: PhotoCredit
-photo-credit-url: http://www.invisionapp.com/
+photoUrl: /assets/img/image.jpg
+photoTitle: “PhotoTitle”
+photoCredit: PhotoCredit
+photoCreditUrl: http://www.invisionapp.com/
 tags:
 - UX
 - Tools

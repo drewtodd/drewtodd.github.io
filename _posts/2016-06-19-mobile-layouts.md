@@ -2,11 +2,11 @@
 title: Measure Twice, Cut Once
 layout: post
 permalink: /mobile-layouts
-photo-url: /img/ruler-light.jpg
-photo-title: "Close-up of metal ruler - Photo credit: Janaka Dharmasena"
-photo-credit: Janaka Dharmasena
-photo-credit-url: http://www.shutterstock.com/gallery-84550p1.html
-photo-credit-alt: "Janaka Dharmasena's portfolio on Shutterstock"
+photoUrl: /assets/img/ruler-light.jpg
+photoTitle: "Close-up of metal ruler - Photo credit: Janaka Dharmasena"
+photoCredit: Janaka Dharmasena
+photoCreditUrl: http://www.shutterstock.com/gallery-84550p1.html
+photoCreditAlt: "Janaka Dharmasena's portfolio on Shutterstock"
 tags:
     - ux
     - design

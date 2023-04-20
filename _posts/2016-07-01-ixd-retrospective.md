@@ -2,10 +2,10 @@
 title: "IxD Retrospective"
 layout: post
 permalink: /ixd-retrospective
-photo-url: /img/the-ugly.jpg
-photo-title: Eli Wallach in The Good, The Bad & The Ugly
-photo-credit: Silver Screen Collection/Getty Images
-photo-credit-url: "http://www.gettyimages.com/event/track-123694240#eli-wallach-claims-the-hidden-money-for-himself-in-a-scene-from-the-picture-id131288603"
+photoUrl: /assets/img/the-ugly.jpg
+photoTitle: Eli Wallach in The Good, The Bad & The Ugly
+photoCredit: Silver Screen Collection/Getty Images
+photoCreditUrl: "http://www.gettyimages.com/event/track-123694240#eli-wallach-claims-the-hidden-money-for-himself-in-a-scene-from-the-picture-id131288603"
 tags:
     - ux
     - design

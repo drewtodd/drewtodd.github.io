@@ -2,11 +2,11 @@
 layout: post
 title: "Quotable: The Best Thing for Being Sad"
 permalink: /quotable-best-thing-for-being-sad
-photo-url: /img/th-white.jpg
-photo-title: "Author T.H. White; Photo credit Henry Hargreaves"
-photo-credit: Henry Hargreaves
-photo-credit-url: "http://henryhargreaves.com/"
-photo-credit-alt: "Henry Hargreaves | Photographer"
+photoUrl: /assets/img/th-white.jpg
+photoTitle: "Author T.H. White; Photo credit Henry Hargreaves"
+photoCredit: Henry Hargreaves
+photoCreditUrl: "http://henryhargreaves.com/"
+photoCreditAlt: "Henry Hargreaves | Photographer"
 tags:
     - quotable
 ---

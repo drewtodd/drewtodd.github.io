@@ -2,10 +2,10 @@
 layout: post
 title: Andrew Todd's Portfolio - Project Name
 photo-url: hero.jpg
-photo-title: Photo title goes here
-photo-credit: Credit goes here
-photo-credit-url: http://www.drwtod.com
-photo-credit-alt: Alt text goes here
+photoTitle: Photo title goes here
+photoCredit: Credit goes here
+photoCreditUrl: http://www.drwtod.com
+photoCreditAlt: Alt text goes here
 tags:
 - portfolio
 ---

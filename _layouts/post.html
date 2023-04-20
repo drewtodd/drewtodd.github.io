@@ -5,9 +5,9 @@ layout: default
 <article class="post">
     {% if page.photo-url %}
     <p class="feature-image">
-        <img src="{{ page.photo-url }}" alt="{{ page.photo-title }}" title="{{ page.photo-title }}" />
-        {% if page.photo-credit %}
-        <em>Image credit: <a href="{{ page.photo-credit-url }}" title="{{ page.photo-credit-alt }}">{{ page.photo-credit }}</a></em>
+        <img src="{{ page.photo-url }}" alt="{{ page.photoTitle }}" title="{{ page.photoTitle }}" />
+        {% if page.photoCredit %}
+        <em>Image credit: <a href="{{ page.photoCreditUrl }}" title="{{ page.photoCreditAlt }}">{{ page.photoCredit }}</a></em>
         {% endif %}
     </p>
     {% endif %}

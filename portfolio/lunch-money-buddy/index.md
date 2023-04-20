@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Andrew Todd's Portfolio - Lunch Money Buddy
-photo-url: /img/lmb/lunch-money-buddy-iphone6.png
-photo-title: Lunch Money Buddy - An app for parents
-photo-credit: Pixeden
-photo-credit-url: http://www.pixeden.com
-photo-credit-alt: Image crafted with a handy template from Pixeden
+photoUrl: /assets/img/lmb/lunch-money-buddy-iphone6.png
+photoTitle: Lunch Money Buddy - An app for parents
+photoCredit: Pixeden
+photoCreditUrl: http://www.pixeden.com
+photoCreditAlt: Image crafted with a handy template from Pixeden
 tags:
 - portfolio
 ---

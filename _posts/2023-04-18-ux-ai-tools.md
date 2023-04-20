@@ -2,10 +2,10 @@
 title: "UX and AI: Tools to Streamline Your UX Workflow"
 layout: post
 permalink: /ux-and-ai-tools-to-streamline-your-ux-workflow
-photo-url: /img/david-travis-unsplash.jpg
-photo-credit: David Travis
-photo-title: Pink Post-It notes
-photo-credit-url: https://unsplash.com/@dtravisphd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+photoUrl: /assets/img/david-travis-unsplash.jpg
+photoCredit: David Travis
+photoTitle: Pink Post-It notes
+photoCreditUrl: https://unsplash.com/@dtravisphd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 tags:
 - ux
 - ai

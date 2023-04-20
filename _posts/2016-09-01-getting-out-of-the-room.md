@@ -2,11 +2,11 @@
 title: Remote UX Observation
 layout: post
 permalink: /remote-ux-observation
-photo-url: /img/television.jpg
-photo-title: "Television - Photo credit: CREATISTA"
-photo-credit: CREATISTA
-photo-credit-url: "http://www.shutterstock.com/gallery-1445165p1.html"
-photo-credit-alt: "CREATISTA's Portfolio - Shutterstock"
+photoUrl: /assets/img/television.jpg
+photoTitle: "Television - Photo credit: CREATISTA"
+photoCredit: CREATISTA
+photoCreditUrl: "http://www.shutterstock.com/gallery-1445165p1.html"
+photoCreditAlt: "CREATISTA's Portfolio - Shutterstock"
 tags:
     - ux
     - tools

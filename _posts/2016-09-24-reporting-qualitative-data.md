@@ -2,11 +2,11 @@
 title: Reporting Qualitative Data
 layout: post
 permalink: /qualitative-data
-photo-url: /img/kirk-tribbles.jpg
-photo-credit: Getty Images
-photo-title: "A scene from Star Trek: Captain Kirk deals with fuzzy tribbles"
-photo-credit-url: "http://www.gettyimages.com/event/to-boldly-go-new-star-trek-series-to-premiere-589992995"
-photo-credit-alt: Getty Images
+photoUrl: /assets/img/kirk-tribbles.jpg
+photoCredit: Getty Images
+photoTitle: "A scene from Star Trek: Captain Kirk deals with fuzzy tribbles"
+photoCreditUrl: "http://www.gettyimages.com/event/to-boldly-go-new-star-trek-series-to-premiere-589992995"
+photoCreditAlt: Getty Images
 tags:
 - ux
 - techniques

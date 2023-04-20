@@ -2,11 +2,11 @@
 title: "Site Search: Using Google vs. Rolling-Your-Own"
 layout: post
 permalink: /site-search-google-vs-diy
-photo-url: /img/rolling-pin.jpg
-photo-title: "Rolling pin"
-photo-credit: Alena Kaziouskaya
-photo-credit-url: "http://www.shutterstock.com/gallery-227131p1.html"
-photo-credit-alt: "Alena Kazlouskaya's Porfolio - Shutterstock"
+photoUrl: /assets/img/rolling-pin.jpg
+photoTitle: "Rolling pin"
+photoCredit: Alena Kaziouskaya
+photoCreditUrl: "http://www.shutterstock.com/gallery-227131p1.html"
+photoCreditAlt: "Alena Kazlouskaya's Porfolio - Shutterstock"
 tags:
     - search
     - google

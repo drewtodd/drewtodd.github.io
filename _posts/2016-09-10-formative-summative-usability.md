@@ -2,10 +2,10 @@
 title: Formative vs. Summative Usability Studies
 layout: post
 permalink: /formative-summative-usability
-photo-url: /img/big-wave-surfer.jpg
-photo-title: “A pro surfer stays ahead of a huge wave”
-photo-credit: Monica Kade
-photo-credit-url: "https://careerconfessions.wordpress.com/2011/12/26/big-wave-pro-surfer-garrett-mcnamara/"
+photoUrl: /assets/img/big-wave-surfer.jpg
+photoTitle: “A pro surfer stays ahead of a huge wave”
+photoCredit: Monica Kade
+photoCreditUrl: "https://careerconfessions.wordpress.com/2011/12/26/big-wave-pro-surfer-garrett-mcnamara/"
 tags:
     - ux
     - usability

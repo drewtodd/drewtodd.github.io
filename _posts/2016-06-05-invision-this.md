@@ -2,10 +2,10 @@
 title: InVision This
 layout: post
 permalink: /invision-this
-photo-url: /img/invision-app.jpg
-photo-title: “InVision.app screenshot”
-photo-credit: InVision
-photo-credit-url: http://www.invisionapp.com/
+photoUrl: /assets/img/invision-app.jpg
+photoTitle: “InVision.app screenshot”
+photoCredit: InVision
+photoCreditUrl: http://www.invisionapp.com/
 tags:
     - ux
     - tools

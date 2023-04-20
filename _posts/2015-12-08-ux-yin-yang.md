@@ -2,11 +2,11 @@
 title: "UX Yin and Yang: Balancing Organizational Goals and the Needs of Your Users"
 layout: post
 permalink: /ux-yin-yang
-photo-url: /img/yinyang.jpg
-photo-title: "Yin and yang - Photo credit: dynamicz34"
-photo-credit: dynamicz34
-photo-credit-url: "http://dynamicz34.deviantart.com/art/Yin-Yang-413083660"
-photo-credit-alt: "dynamicz34's portfolio on deviantart.com"
+photoUrl: /assets/img/yinyang.jpg
+photoTitle: "Yin and yang - Photo credit: dynamicz34"
+photoCredit: dynamicz34
+photoCreditUrl: "http://dynamicz34.deviantart.com/art/Yin-Yang-413083660"
+photoCreditAlt: "dynamicz34's portfolio on deviantart.com"
 tags:
     -ux
     -techniques

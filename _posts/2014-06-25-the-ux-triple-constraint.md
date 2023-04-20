@@ -2,11 +2,11 @@
 title: "The UX Triple Constraint: Time, Complexity and the User Experience"
 layout: post
 permalink: /the-ux-triple-constraint
-photo-url: /img/triangles.jpg
-photo-title: "Triangles - Photo credit: enterlinedesign"
-photo-credit: enterlinedesign
-photo-credit-url: "http://www.shutterstock.com/gallery-1445165p1.html"
-photo-credit-alt: "enterlinedesign's Porfolio - Shutterstock"
+photoUrl: /assets/img/triangles.jpg
+photoTitle: "Triangles - Photo credit: enterlinedesign"
+photoCredit: enterlinedesign
+photoCreditUrl: "http://www.shutterstock.com/gallery-1445165p1.html"
+photoCreditAlt: "enterlinedesign's Porfolio - Shutterstock"
 tags:
     - ux
 ---

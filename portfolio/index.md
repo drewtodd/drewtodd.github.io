@@ -2,10 +2,10 @@
 layout: post
 title: Andrew Todd's Portfolio
 photo-url: hero.jpg
-photo-title: A banner illustrating people, process, and policy
-photo-credit: Andrew Todd
-photo-credit-url: http://www.drwtod.com
-photo-credit-alt: I made this!
+photoTitle: A banner illustrating people, process, and policy
+photoCredit: Andrew Todd
+photoCreditUrl: http://www.drwtod.com
+photoCreditAlt: I made this!
 tags:
 - portfolio
 ---

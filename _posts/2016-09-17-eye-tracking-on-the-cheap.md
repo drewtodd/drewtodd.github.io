@@ -2,11 +2,11 @@
 title: "Eye-Tracking on the Cheap"
 layout: post
 permalink: /eye-tracking-on-the-cheap
-photo-url: /img/mouse.jpg
-photo-title: “A (very earnest-looking) mouse”
-photo-credit: Michiel de Wit
-photo-credit-url: https://www.shutterstock.com/g/Michiel+de+Wit
-photo-credit-alt: "Michiel de Wit's portfolio on Shutterstock"
+photoUrl: /assets/img/mouse.jpg
+photoTitle: “A (very earnest-looking) mouse”
+photoCredit: Michiel de Wit
+photoCreditUrl: https://www.shutterstock.com/g/Michiel+de+Wit
+photoCreditAlt: "Michiel de Wit's portfolio on Shutterstock"
 tags:
     - ux
     - usability

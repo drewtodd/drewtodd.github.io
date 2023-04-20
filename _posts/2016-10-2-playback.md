@@ -2,10 +2,10 @@
 title: Playback
 layout: post
 permalink: /playback
-photo-url: /img/tv-usability-test.jpg
-photo-credit: Shutterstock
-photo-title: A composite image of a usability test on a television set
-photo-credit-url: https://www.shutterstock.com/
+photoUrl: /assets/img/tv-usability-test.jpg
+photoCredit: Shutterstock
+photoTitle: A composite image of a usability test on a television set
+photoCreditUrl: https://www.shutterstock.com/
 tags:
 - ux
 - usability
